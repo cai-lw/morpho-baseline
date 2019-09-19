@@ -37,12 +37,13 @@ class Evaluator:
                     total_distance += distance_function(src_word, tgt_word)
                 graph.add_edge('src_' + src_tag, 'tgt_' + tgt_tag, weight=total_distance)
         
+        num_words = sum(len(d) for d in prediction.values())
         matches = minimum_weight_full_matching(graph, src_nodes)
         match_distance = 0
         for src_node, tgt_node in matches.items():
             if src_node.startswith('src_'):
                 match_distance += graph[src_node][tgt_node]['weight']
-        return match_distance
+        return match_distance / num_words
 
 
 if __name__ == '__main__':
@@ -53,4 +54,4 @@ if __name__ == '__main__':
         'one': {'get': 'get', 'set': 'set'},
         'two': {'get': 'getz', 'set': 'setz'}
     }
-    assert evaluator.evaluate(prediction) == 3
+    assert evaluator.evaluate(prediction) == 0.75

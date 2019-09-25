@@ -1,5 +1,7 @@
 from collections import defaultdict
 import networkx as nx
+from networkx.algorithms.bipartite.matching import minimum_weight_full_matching
+import sys
 
 
 def load_reference(path):
@@ -12,6 +14,7 @@ def load_reference(path):
         for line in f:
             lemma, word, tag = line.split('\t')
             d[tag][lemma] = word
+    return d
 
 
 class Evaluator:
@@ -48,24 +51,19 @@ class Evaluator:
                     tag_score = precision * recall * 2 / (precision + recall) if precision + recall > 0 else 0
                 else:
                     raise ValueError("'measure' must be 'precision', 'recall' or 'f1', got '%s'." % measure)
-                graph.add_edge('prd_' + prd_tag, 'ref_' + ref_tag, weight=tag_score)
+                graph.add_edge('prd_' + prd_tag, 'ref_' + ref_tag, weight=-tag_score)
 
-        matches = nx.bipartite.maximum_matching(graph, prd_nodes)
+        matches = minimum_weight_full_matching(graph, prd_nodes)
         match_score = 0
         for prd_node, ref_node in matches.items():
             if prd_node in prd_nodes:
-                match_score += graph[prd_node][ref_node]['weight']
+                match_score -= graph[prd_node][ref_node]['weight']
         return match_score / max(len(self.reference), len(prediction))
 
 
 if __name__ == '__main__':
-    reference = {
-        '3sg.prs': {'get': 'gets', 'set': 'sets'},
-        'pst': {'get': 'got', 'set': 'set'}
-    }
-    prediction = {
-        'one': {'get': 'get', 'set': 'set'},
-        'two': {'get': 'gets', 'set': 'sets'}
-    }
+    reference = load_reference(sys.argv[1])
+    prediction = load_reference(sys.argv[2])
+
     evaluator = Evaluator(reference)
-    assert evaluator.score(prediction) == 0.75
+    print('F1 score:', evaluator.score(prediction))

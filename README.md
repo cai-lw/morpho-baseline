@@ -3,3 +3,7 @@
 ## Evaluation
 
 NetworkX 2.4rc1 is not on pip yet. Please follow https://networkx.github.io/documentation/latest/install.html#install-the-development-version to install it.
+
+## Unit test
+
+Install pytest and run `pytest` in the root folder.

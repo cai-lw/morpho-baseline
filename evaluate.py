@@ -1,57 +1,71 @@
 from collections import defaultdict
-import editdistance
 import networkx as nx
-from networkx.algorithms.bipartite.matching import minimum_weight_full_matching
+
+
+def load_reference(path):
+    """
+    :param path: path to the golden reference file
+    :returns: Dict of dict in the form of {tag: {lemma: word}}.
+    """
+    d = defaultdict(dict)
+    with open(path) as f:
+        for line in f:
+            lemma, word, tag = line.split('\t')
+            d[tag][lemma] = word
+
 
 class Evaluator:
-    def __init__(self):
-        self.words = defaultdict(dict)
+    def __init__(self, reference):
+        """
+        :param reference: The golden reference. Dict of dict in the form of {tag: {lemma: word}}.
+        """
+        self.reference = reference
 
-    def load(self, path):
+    def score(self, prediction, measure='f1'):
         """
-        :param path: path to the golden reference file
-        """
-        self.words.clear()
-        with open(path) as f:
-            for line in f:
-                lemma, word, tag = line.split('\t')
-                self.words[tag][lemma] = word
-    
-    def evaluate(self, prediction, distance_function=editdistance.eval):
-        """
-        :param prediction: Dict of dict in the form of {tag: {lemma: word}}.
-        :param distance_function: Function that takes two strings and computes their distance.
-                                  Default is edit distance.
+        :param prediction: The prediction of your model. Dict of dict in the form of {tag: {lemma: word}}.
+        :returns: 
         """
         graph = nx.Graph()
-        src_nodes = ['src_' + tag for tag in prediction.keys()]
-        tgt_nodes = ['tgt_' + tag for tag in self.words.keys()]
-        graph.add_nodes_from(src_nodes)
-        graph.add_nodes_from(tgt_nodes)
+        prd_nodes = frozenset('prd_' + tag for tag in prediction.keys())
+        ref_nodes = frozenset('ref_' + tag for tag in self.reference.keys())
+        graph.add_nodes_from(prd_nodes)
+        graph.add_nodes_from(ref_nodes)
 
-        for src_tag in prediction.keys():
-            for tgt_tag in self.words.keys():
-                total_distance = 0
-                for lemma, src_word in prediction[src_tag].items():
-                    tgt_word = self.words[tgt_tag].get(lemma, '')
-                    total_distance += distance_function(src_word, tgt_word)
-                graph.add_edge('src_' + src_tag, 'tgt_' + tgt_tag, weight=total_distance)
-        
-        num_words = sum(len(d) for d in prediction.values())
-        matches = minimum_weight_full_matching(graph, src_nodes)
-        match_distance = 0
-        for src_node, tgt_node in matches.items():
-            if src_node.startswith('src_'):
-                match_distance += graph[src_node][tgt_node]['weight']
-        return match_distance / num_words
+        for prd_tag, prd_dict in prediction.items():
+            for ref_tag, ref_dict in self.reference.items():
+                true_pos = 0
+                for lemma, prd_word in prd_dict.items():
+                    if ref_dict.get(lemma) == prd_word:
+                        true_pos += 1
+                precision = true_pos / len(prd_dict) if len(prd_dict) > 0 else 0
+                recall = true_pos / len(ref_dict) if len(ref_dict) > 0 else 0
+                if measure == 'precision':
+                    tag_score = precision
+                elif measure == 'recall':
+                    tag_score = recall
+                elif measure == 'f1':
+                    tag_score = precision * recall * 2 / (precision + recall) if precision + recall > 0 else 0
+                else:
+                    raise ValueError("'measure' must be 'precision', 'recall' or 'f1', got '%s'." % measure)
+                graph.add_edge('prd_' + prd_tag, 'ref_' + ref_tag, weight=tag_score)
+
+        matches = nx.bipartite.maximum_matching(graph, prd_nodes)
+        match_score = 0
+        for prd_node, ref_node in matches.items():
+            if prd_node in prd_nodes:
+                match_score += graph[prd_node][ref_node]['weight']
+        return match_score / max(len(self.reference), len(prediction))
 
 
 if __name__ == '__main__':
-    evaluator = Evaluator()
-    evaluator.words['3sg.prs'] = {'get': 'gets', 'set': 'sets'}
-    evaluator.words['pst'] = {'get': 'got', 'set': 'set'}
+    reference = {
+        '3sg.prs': {'get': 'gets', 'set': 'sets'},
+        'pst': {'get': 'got', 'set': 'set'}
+    }
     prediction = {
         'one': {'get': 'get', 'set': 'set'},
-        'two': {'get': 'getz', 'set': 'setz'}
+        'two': {'get': 'gets', 'set': 'sets'}
     }
-    assert evaluator.evaluate(prediction) == 0.75
+    evaluator = Evaluator(reference)
+    assert evaluator.score(prediction) == 0.75

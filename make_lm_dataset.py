@@ -4,9 +4,9 @@ import random
 from argparse import ArgumentParser
 
 parser = ArgumentParser()
-parser.add_argument('test_lines', type=int, default=1000)
-parser.add_argument('input_file', default='data/English.txt')
-parser.add_argument('output_dir', default='data/english_chars')
+parser.add_argument('--test_lines', type=int, default=1000)
+parser.add_argument('--input_file', default='data/English.txt')
+parser.add_argument('--output_dir', default='data/english_chars')
 args = parser.parse_args()
 
 

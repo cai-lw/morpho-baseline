@@ -77,4 +77,4 @@ def test_load(tmp_path):
         print('set', 'sets', '3sg.prs', sep='\t', file=f)
         print('set', 'set', 'pst', sep='\t', file=f)
     evaluator = Evaluator(load_reference(ref_file))
-    assert evaluator.score(load_prediction(prd_file))
+    assert evaluator.score(load_prediction(prd_file)) == 0.75

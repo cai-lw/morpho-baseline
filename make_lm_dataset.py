@@ -18,15 +18,16 @@ def line_gen():
                 if new_line:
                     new_line += ' '
                 new_line += '_' if char == ' ' else char
-            yield new_line
+            if new_line:
+                yield new_line
 
 os.makedirs(args.output_dir, exist_ok=True)
 lines = line_gen()
 with open(os.path.join(args.output_dir, 'test.txt'), 'w', encoding='utf8') as f:
-    for _, line in zip(range(1000), lines):
+    for _, line in zip(range(args.test_lines), lines):
         print(line, file=f)
 with open(os.path.join(args.output_dir, 'valid.txt'), 'w', encoding='utf8') as f:
-    for _, line in zip(range(1000), lines):
+    for _, line in zip(range(args.test_lines), lines):
         print(line, file=f)
 with open(os.path.join(args.output_dir, 'train.txt'), 'w', encoding='utf8') as f:
     for line in lines:

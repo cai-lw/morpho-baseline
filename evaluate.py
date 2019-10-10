@@ -7,7 +7,20 @@ import sys
 def load_reference(path):
     """
     :param path: path to the golden reference file
-    :returns: Dict of dict in the form of {tag: {lemma: word}}.
+    :returns: Dict of dict of set like {tag: {lemma: {word}}}.
+    """
+    d = defaultdict(lambda: defaultdict(set))
+    with open(path) as f:
+        for line in f:
+            lemma, word, tag = line.split('\t')
+            d[tag][lemma].add(word)
+    return d
+
+
+def load_prediction(path):
+    """
+    :param path: path to the prediction file
+    :returns: Dict of dict like {tag: {lemma: word}}.
     """
     d = defaultdict(dict)
     with open(path) as f:
@@ -20,14 +33,14 @@ def load_reference(path):
 class Evaluator:
     def __init__(self, reference):
         """
-        :param reference: The golden reference. Dict of dict in the form of {tag: {lemma: word}}.
+        :param reference: The golden reference. Dict of dict of set like {tag: {lemma: {word}}}.
         """
         self.reference = reference
 
     def score(self, prediction, measure='f1'):
         """
-        :param prediction: The prediction of your model. Dict of dict in the form of {tag: {lemma: word}}.
-        :returns: 
+        :param prediction: The prediction of your model. Dict of dict like {tag: {lemma: word}}.
+        :returns: The score
         """
         graph = nx.Graph()
         prd_nodes = frozenset('prd_' + tag for tag in prediction.keys())
@@ -39,7 +52,8 @@ class Evaluator:
             for ref_tag, ref_dict in self.reference.items():
                 true_pos = 0
                 for lemma, prd_word in prd_dict.items():
-                    if ref_dict.get(lemma) == prd_word:
+                    ref_set = ref_dict.get(lemma)
+                    if ref_set is not None and prd_word in ref_set:
                         true_pos += 1
                 precision = true_pos / len(prd_dict) if len(prd_dict) > 0 else 0
                 recall = true_pos / len(ref_dict) if len(ref_dict) > 0 else 0
@@ -63,7 +77,7 @@ class Evaluator:
 
 if __name__ == '__main__':
     reference = load_reference(sys.argv[1])
-    prediction = load_reference(sys.argv[2])
+    prediction = load_prediction(sys.argv[2])
 
     evaluator = Evaluator(reference)
     print('F1 score:', evaluator.score(prediction))

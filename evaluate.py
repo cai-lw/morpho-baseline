@@ -1,7 +1,7 @@
 from collections import defaultdict
 import networkx as nx
 from networkx.algorithms.bipartite.matching import minimum_weight_full_matching
-import sys
+from argparse import ArgumentParser
 
 
 def load_reference(path):
@@ -37,10 +37,11 @@ class Evaluator:
         """
         self.reference = reference
 
-    def score(self, prediction, measure='f1'):
+    def score(self, prediction, metric='f1'):
         """
         :param prediction: The prediction of your model. Dict of dict like {tag: {lemma: word}}.
-        :returns: The score
+        :param metric: Metric for calculating per-slot-pair score.
+        :returns: The overall score.
         """
         graph = nx.Graph()
         prd_nodes = frozenset('prd_' + tag for tag in prediction.keys())
@@ -57,11 +58,11 @@ class Evaluator:
                         true_pos += 1
                 precision = true_pos / len(prd_dict) if len(prd_dict) > 0 else 0
                 recall = true_pos / len(ref_dict) if len(ref_dict) > 0 else 0
-                if measure == 'precision':
+                if metric == 'precision':
                     tag_score = precision
-                elif measure == 'recall':
+                elif metric == 'recall':
                     tag_score = recall
-                elif measure == 'f1':
+                elif metric == 'f1':
                     tag_score = precision * recall * 2 / (precision + recall) if precision + recall > 0 else 0
                 else:
                     raise ValueError("'measure' must be 'precision', 'recall' or 'f1', got '%s'." % measure)
@@ -76,8 +77,13 @@ class Evaluator:
 
 
 if __name__ == '__main__':
-    reference = load_reference(sys.argv[1])
-    prediction = load_prediction(sys.argv[2])
-
+    parser = ArgumentParser(description='Evaluate morphology paradigm prediction.')
+    parser.add_argument('reference', help='The ground truth file')
+    parser.add_argument('prediction', help='The prediction file')
+    parser.add_argument('--metric', default='recall', help='The metric to report')
+    args = parser.parse_args()
+    
+    reference = load_reference(args.reference)
+    prediction = load_prediction(args.prediction)
     evaluator = Evaluator(reference)
-    print('F1 score:', evaluator.score(prediction))
+    print(evaluator.score(prediction, args.metric))

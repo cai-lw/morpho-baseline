@@ -35,7 +35,19 @@ class Evaluator:
         """
         :param reference: The golden reference. Dict of dict of set like {tag: {lemma: {word}}}.
         """
+        self._check_dict_dict(reference, lambda s: isinstance(s, set) and len(s) > 0, 'reference')
         self.reference = reference
+
+    def _check_dict_dict(self, dd, check_value=None, arg_name=''):
+        if not isinstance(dd, dict) or not all(isinstance(key, str) for key in dd.keys()) \
+                or not all(isinstance(value, dict) for value in dd.values()) \
+                or not all(isinstance(key, str) for d in dd.values() for key in d):
+            raise ValueError("'{}' is not of type dict[str, dict[str, _]]".format(arg_name))
+        if check_value is not None:
+            for d in dd.values():
+                for value in d.values():
+                    if not check_value(value):
+                        raise ValueError("'{}' has an invalid value: {}".format(arg_name, value))
 
     def score(self, prediction, metric='f1'):
         """
@@ -43,6 +55,8 @@ class Evaluator:
         :param metric: Metric for calculating per-slot-pair score.
         :returns: The overall score.
         """
+        self._check_dict_dict(prediction, lambda s: isinstance(s, str), 'prediction')
+
         graph = nx.Graph()
         prd_nodes = frozenset('prd_' + tag for tag in prediction.keys())
         ref_nodes = frozenset('ref_' + tag for tag in self.reference.keys())
@@ -65,7 +79,7 @@ class Evaluator:
                 elif metric == 'f1':
                     tag_score = precision * recall * 2 / (precision + recall) if precision + recall > 0 else 0
                 else:
-                    raise ValueError("'measure' must be 'precision', 'recall' or 'f1', got '%s'." % measure)
+                    raise ValueError("'metric' must be 'precision', 'recall' or 'f1', got '%s'." % metric)
                 graph.add_edge('prd_' + prd_tag, 'ref_' + ref_tag, weight=-tag_score)
 
         matches = minimum_weight_full_matching(graph, prd_nodes)

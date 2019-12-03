@@ -100,12 +100,12 @@ if __name__ == '__main__':
     tgt_invert = {v:k for k, v in tgt_dict.items()}
 
     # training process
-    lr = 5.0 # learning rate
-    model = Transformer(n_layers=4, embed_dim=32, hidden_dim=64, n_heads=4, vocab=(src_dict, tgt_dict), dropout=0.5, word_dropout=0.5)
+    lr = 1e-3 # learning rate
+    model = Transformer(n_layers=1, embed_dim=8, hidden_dim=16, n_heads=4, vocab=(src_dict, tgt_dict), dropout=0., word_dropout=0.)
     # model = Seq2Seq(transformer, embedding_size=16)
     optimizer = torch.optim.Adam(model.parameters(), lr=lr, betas=(0.9, 0.98))
     scheduler = torch.optim.lr_scheduler.StepLR(optimizer, 1.0, gamma=0.95)
-    for epoch in range(10):
+    for epoch in range(1000):
         model.train()
         total_loss = 0
         start_time = time.time()
@@ -123,7 +123,7 @@ if __name__ == '__main__':
                 reduction="mean",
             )
             nll.backward()
-            torch.nn.utils.clip_grad_norm_(model.parameters(), 0.5)
+            # torch.nn.utils.clip_grad_norm_(model.parameters(), 0.5)
             optimizer.step()
 
             total_loss += nll.item()
@@ -132,7 +132,7 @@ if __name__ == '__main__':
                 cur_loss = total_loss / log_interval
                 elapsed = time.time() - start_time
                 print('epoch {:3d} | '
-                        'lr {:02.2f} | ms/batch {:5.2f} | '
+                        'lr {:02.5f} | ms/batch {:5.2f} | '
                         'loss {:5.2f}'.format(
                         epoch, scheduler.get_lr()[0],
                         elapsed * 1000 / log_interval,

@@ -49,7 +49,7 @@ class Evaluator:
                     if not check_value(value):
                         raise ValueError("'{}' has an invalid value: {}".format(arg_name, value))
 
-    def _get_metric(self, true_pos, ref_size, prd_size, metric):
+    def _get_metric(self, true_pos, prd_size, ref_size, metric):
         precision = true_pos / prd_size if prd_size > 0 else 0
         recall = true_pos / ref_size if ref_size > 0 else 0
         if metric == 'precision':
@@ -85,8 +85,6 @@ class Evaluator:
                     ref_set = ref_dict.get(lemma)
                     if ref_set is not None and prd_word in ref_set:
                         true_pos += 1
-                precision = true_pos / len(prd_dict) if len(prd_dict) > 0 else 0
-                recall = true_pos / len(ref_dict) if len(ref_dict) > 0 else 0
                 if average == 'micro':
                     tag_score = true_pos
                 else:

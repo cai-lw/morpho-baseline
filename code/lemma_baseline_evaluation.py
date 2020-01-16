@@ -1,6 +1,4 @@
 from collections import defaultdict
-import networkx as nx
-from networkx.algorithms.bipartite.matching import minimum_weight_full_matching
 from argparse import ArgumentParser
 
 
@@ -72,30 +70,32 @@ class Evaluator:
         if average not in ['micro', 'macro']:
             raise ValueError("'average' must be 'micro' or 'macro', got '{}'.".format(average))
         
-        graph = nx.Graph()
-        prd_nodes = frozenset('prd_' + tag for tag in prediction.keys())
-        ref_nodes = frozenset('ref_' + tag for tag in self.reference.keys())
-        graph.add_nodes_from(prd_nodes)
-        graph.add_nodes_from(ref_nodes)
+        prd_tags = list(prediction.keys())
+        ref_tags = list(reference.keys())
 
-        for prd_tag, prd_dict in prediction.items():
-            for ref_tag, ref_dict in self.reference.items():
-                true_pos = 0
-                for lemma, prd_word in prd_dict.items():
-                    ref_set = ref_dict.get(lemma)
-                    if ref_set is not None and prd_word in ref_set:
-                        true_pos += 1
-                if average == 'micro':
-                    tag_score = true_pos
-                else:
-                    tag_score = self._get_metric(true_pos, len(prd_dict), len(ref_dict), metric)
-                graph.add_edge('prd_' + prd_tag, 'ref_' + ref_tag, weight=-tag_score)
+        match_score = 0.0
+        tag_scores = []
+        for i in range(len(ref_tags)):
+            prd_tag = prd_tags[0]
+            ref_tag = ref_tags[i]
+            prd_dict = prediction[prd_tag]
+            ref_dict = reference[ref_tag]
+            true_pos = 0
+            for lemma, prd_word in prd_dict.items():
+                ref_set = ref_dict.get(lemma)
+                if ref_set is not None and prd_word in ref_set:
+                    true_pos += 1
+            if average == 'micro':
+                tag_score = true_pos
+            else:
+                tag_score = self._get_metric(true_pos, len(prd_dict), len(ref_dict), metric)
+            tag_scores.append(tag_score)
 
-        matches = minimum_weight_full_matching(graph, prd_nodes)
-        match_score = 0
-        for prd_node, ref_node in matches.items():
-            if prd_node in prd_nodes:
-                match_score -= graph[prd_node][ref_node]['weight']
+        tag_scores = sorted(tag_scores, reverse=True)
+
+        for i in range(min(len(prd_tags), len(ref_tags))):
+            match_score += tag_scores[i]
+
         if average == 'micro':
             total_prd = sum(len(prd_dict) for prd_dict in prediction.values())
             total_ref = sum(len(ref_dict) for ref_dict in reference.values())
@@ -116,4 +116,6 @@ if __name__ == '__main__':
     reference = load_reference(args.reference)
     prediction = load_prediction(args.prediction)
     evaluator = Evaluator(reference)
-    print(evaluator.score(prediction, args.metric, args.average))
+    print("{} predicted slots".format(len(prediction)))
+    print("macro: {}".format(evaluator.score(prediction, args.metric, 'macro')))
+    print("micro: {}".format(evaluator.score(prediction, args.metric, 'micro')))

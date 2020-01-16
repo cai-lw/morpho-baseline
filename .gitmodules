@@ -1,3 +1,0 @@
-[submodule "awd-lstm-lm"]
-	path = awd-lstm-lm
-	url = https://github.com/salesforce/awd-lstm-lm.git

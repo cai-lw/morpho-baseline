@@ -1,2 +1,0 @@
-<s> a b </s> <tag1> <tag2>,<s> a b c </s>
-<s> e f g </s> <tag3> <tag4>,<s> h i j k </s>

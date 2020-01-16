@@ -1,0 +1,2884 @@
+freilassen	freigelassen	V.PTCP;PST
+freilassen	freilassend	V.PTCP;PRS
+freilassen	freilassen	V;NFIN
+freilassen	lasse frei	V;IND;PRS;1;SG
+freilassen	lasse frei	V;SBJV;PRS;1;SG
+freilassen	lasse frei	V;SBJV;PRS;3;SG
+freilassen	lassen frei	V;IND;PRS;1;PL
+freilassen	lassen frei	V;IND;PRS;3;PL
+freilassen	lassen frei	V;SBJV;PRS;1;PL
+freilassen	lassen frei	V;SBJV;PRS;3;PL
+freilassen	lassest frei	V;SBJV;PRS;2;SG
+freilassen	lasset frei	V;SBJV;PRS;2;PL
+freilassen	lass frei	V;IMP;2;SG
+freilassen	lasst frei	V;IMP;2;PL
+freilassen	lasst frei	V;IND;PRS;2;PL
+freilassen	lässt frei	V;IND;PRS;2;SG
+freilassen	lässt frei	V;IND;PRS;3;SG
+freilassen	ließe frei	V;SBJV;PST;1;SG
+freilassen	ließe frei	V;SBJV;PST;3;SG
+freilassen	ließen frei	V;IND;PST;1;PL
+freilassen	ließen frei	V;IND;PST;3;PL
+freilassen	ließen frei	V;SBJV;PST;1;PL
+freilassen	ließen frei	V;SBJV;PST;3;PL
+freilassen	ließest frei	V;SBJV;PST;2;SG
+freilassen	ließet frei	V;SBJV;PST;2;PL
+freilassen	ließ frei	V;IND;PST;1;SG
+freilassen	ließ frei	V;IND;PST;3;SG
+freilassen	ließt frei	V;IND;PST;2;PL
+freilassen	ließt frei	V;IND;PST;2;SG
+spritzen	gespritzt	V.PTCP;PST
+spritzen	spritzend	V.PTCP;PRS
+spritzen	spritzen	V;IND;PRS;1;PL
+spritzen	spritzen	V;IND;PRS;3;PL
+spritzen	spritzen	V;NFIN
+spritzen	spritzen	V;SBJV;PRS;1;PL
+spritzen	spritzen	V;SBJV;PRS;3;PL
+spritzen	spritzest	V;SBJV;PRS;2;SG
+spritzen	spritzet	V;SBJV;PRS;2;PL
+spritzen	spritze	V;IND;PRS;1;SG
+spritzen	spritze	V;SBJV;PRS;1;SG
+spritzen	spritze	V;SBJV;PRS;3;SG
+spritzen	spritzten	V;IND;PST;1;PL
+spritzen	spritzten	V;IND;PST;3;PL
+spritzen	spritzten	V;SBJV;PST;1;PL
+spritzen	spritzten	V;SBJV;PST;3;PL
+spritzen	spritztest	V;IND;PST;2;SG
+spritzen	spritztest	V;SBJV;PST;2;SG
+spritzen	spritztet	V;IND;PST;2;PL
+spritzen	spritztet	V;SBJV;PST;2;PL
+spritzen	spritzte	V;IND;PST;1;SG
+spritzen	spritzte	V;IND;PST;3;SG
+spritzen	spritzte	V;SBJV;PST;1;SG
+spritzen	spritzte	V;SBJV;PST;3;SG
+spritzen	spritzt	V;IMP;2;PL
+spritzen	spritzt	V;IND;PRS;2;PL
+spritzen	spritzt	V;IND;PRS;2;SG
+spritzen	spritzt	V;IND;PRS;3;SG
+spritzen	spritz	V;IMP;2;SG
+bezahlen	bezahlend	V.PTCP;PRS
+bezahlen	bezahlen	V;IND;PRS;1;PL
+bezahlen	bezahlen	V;IND;PRS;3;PL
+bezahlen	bezahlen	V;NFIN
+bezahlen	bezahlen	V;SBJV;PRS;1;PL
+bezahlen	bezahlen	V;SBJV;PRS;3;PL
+bezahlen	bezahlest	V;SBJV;PRS;2;SG
+bezahlen	bezahlet	V;SBJV;PRS;2;PL
+bezahlen	bezahle	V;IND;PRS;1;SG
+bezahlen	bezahle	V;SBJV;PRS;1;SG
+bezahlen	bezahle	V;SBJV;PRS;3;SG
+bezahlen	bezahlst	V;IND;PRS;2;SG
+bezahlen	bezahlten	V;IND;PST;1;PL
+bezahlen	bezahlten	V;IND;PST;3;PL
+bezahlen	bezahlten	V;SBJV;PST;1;PL
+bezahlen	bezahlten	V;SBJV;PST;3;PL
+bezahlen	bezahltest	V;IND;PST;2;SG
+bezahlen	bezahltest	V;SBJV;PST;2;SG
+bezahlen	bezahltet	V;IND;PST;2;PL
+bezahlen	bezahltet	V;SBJV;PST;2;PL
+bezahlen	bezahlte	V;IND;PST;1;SG
+bezahlen	bezahlte	V;IND;PST;3;SG
+bezahlen	bezahlte	V;SBJV;PST;1;SG
+bezahlen	bezahlte	V;SBJV;PST;3;SG
+bezahlen	bezahlt	V;IMP;2;PL
+bezahlen	bezahlt	V;IND;PRS;2;PL
+bezahlen	bezahlt	V;IND;PRS;3;SG
+bezahlen	bezahlt	V.PTCP;PST
+bezahlen	bezahl	V;IMP;2;SG
+horchen	gehorcht	V.PTCP;PST
+horchen	horchend	V.PTCP;PRS
+horchen	horchen	V;IND;PRS;1;PL
+horchen	horchen	V;IND;PRS;3;PL
+horchen	horchen	V;NFIN
+horchen	horchen	V;SBJV;PRS;1;PL
+horchen	horchen	V;SBJV;PRS;3;PL
+horchen	horchest	V;SBJV;PRS;2;SG
+horchen	horchet	V;SBJV;PRS;2;PL
+horchen	horche	V;IND;PRS;1;SG
+horchen	horche	V;SBJV;PRS;1;SG
+horchen	horche	V;SBJV;PRS;3;SG
+horchen	horchst	V;IND;PRS;2;SG
+horchen	horchten	V;IND;PST;1;PL
+horchen	horchten	V;IND;PST;3;PL
+horchen	horchten	V;SBJV;PST;1;PL
+horchen	horchten	V;SBJV;PST;3;PL
+horchen	horchtest	V;IND;PST;2;SG
+horchen	horchtest	V;SBJV;PST;2;SG
+horchen	horchtet	V;IND;PST;2;PL
+horchen	horchtet	V;SBJV;PST;2;PL
+horchen	horchte	V;IND;PST;1;SG
+horchen	horchte	V;IND;PST;3;SG
+horchen	horchte	V;SBJV;PST;1;SG
+horchen	horchte	V;SBJV;PST;3;SG
+horchen	horcht	V;IMP;2;PL
+horchen	horcht	V;IND;PRS;2;PL
+horchen	horcht	V;IND;PRS;3;SG
+horchen	horch	V;IMP;2;SG
+sagen	gesagt	V.PTCP;PST
+sagen	sagend	V.PTCP;PRS
+sagen	sagen	V;IND;PRS;1;PL
+sagen	sagen	V;IND;PRS;3;PL
+sagen	sagen	V;NFIN
+sagen	sagen	V;SBJV;PRS;1;PL
+sagen	sagen	V;SBJV;PRS;3;PL
+sagen	sagest	V;SBJV;PRS;2;SG
+sagen	saget	V;SBJV;PRS;2;PL
+sagen	sage	V;IND;PRS;1;SG
+sagen	sage	V;SBJV;PRS;1;SG
+sagen	sage	V;SBJV;PRS;3;SG
+sagen	sagst	V;IND;PRS;2;SG
+sagen	sagten	V;IND;PST;1;PL
+sagen	sagten	V;IND;PST;3;PL
+sagen	sagten	V;SBJV;PST;1;PL
+sagen	sagten	V;SBJV;PST;3;PL
+sagen	sagtest	V;IND;PST;2;SG
+sagen	sagtest	V;SBJV;PST;2;SG
+sagen	sagtet	V;IND;PST;2;PL
+sagen	sagtet	V;SBJV;PST;2;PL
+sagen	sagte	V;IND;PST;1;SG
+sagen	sagte	V;IND;PST;3;SG
+sagen	sagte	V;SBJV;PST;1;SG
+sagen	sagte	V;SBJV;PST;3;SG
+sagen	sagt	V;IND;PRS;2;PL
+sagen	sagt	V;IND;PRS;3;SG
+nölen	genölt	V.PTCP;PST
+nölen	nölend	V.PTCP;PRS
+nölen	nölen	V;IND;PRS;1;PL
+nölen	nölen	V;IND;PRS;3;PL
+nölen	nölen	V;NFIN
+nölen	nölen	V;SBJV;PRS;1;PL
+nölen	nölen	V;SBJV;PRS;3;PL
+nölen	nölest	V;SBJV;PRS;2;SG
+nölen	nölet	V;SBJV;PRS;2;PL
+nölen	nöle	V;IND;PRS;1;SG
+nölen	nöle	V;SBJV;PRS;1;SG
+nölen	nöle	V;SBJV;PRS;3;SG
+nölen	nölst	V;IND;PRS;2;SG
+nölen	nölten	V;IND;PST;1;PL
+nölen	nölten	V;IND;PST;3;PL
+nölen	nölten	V;SBJV;PST;1;PL
+nölen	nölten	V;SBJV;PST;3;PL
+nölen	nöltest	V;IND;PST;2;SG
+nölen	nöltest	V;SBJV;PST;2;SG
+nölen	nöltet	V;IND;PST;2;PL
+nölen	nöltet	V;SBJV;PST;2;PL
+nölen	nölte	V;IND;PST;1;SG
+nölen	nölte	V;IND;PST;3;SG
+nölen	nölte	V;SBJV;PST;1;SG
+nölen	nölte	V;SBJV;PST;3;SG
+nölen	nölt	V;IMP;2;PL
+nölen	nölt	V;IND;PRS;2;PL
+nölen	nölt	V;IND;PRS;3;SG
+nölen	nöl	V;IMP;2;SG
+schlachten	geschlachtet	V.PTCP;PST
+schlachten	schlachtend	V.PTCP;PRS
+schlachten	schlachten	V;IND;PRS;1;PL
+schlachten	schlachten	V;IND;PRS;3;PL
+schlachten	schlachten	V;NFIN
+schlachten	schlachten	V;SBJV;PRS;1;PL
+schlachten	schlachten	V;SBJV;PRS;3;PL
+schlachten	schlachtest	V;IND;PRS;2;SG
+schlachten	schlachtest	V;SBJV;PRS;2;SG
+schlachten	schlachteten	V;IND;PST;1;PL
+schlachten	schlachteten	V;IND;PST;3;PL
+schlachten	schlachteten	V;SBJV;PST;1;PL
+schlachten	schlachteten	V;SBJV;PST;3;PL
+schlachten	schlachtetest	V;IND;PST;2;SG
+schlachten	schlachtetest	V;SBJV;PST;2;SG
+schlachten	schlachtetet	V;IND;PST;2;PL
+schlachten	schlachtetet	V;SBJV;PST;2;PL
+schlachten	schlachtete	V;IND;PST;1;SG
+schlachten	schlachtete	V;IND;PST;3;SG
+schlachten	schlachtete	V;SBJV;PST;1;SG
+schlachten	schlachtete	V;SBJV;PST;3;SG
+schlachten	schlachtet	V;IMP;2;PL
+schlachten	schlachtet	V;IND;PRS;2;PL
+schlachten	schlachtet	V;IND;PRS;3;SG
+schlachten	schlachtet	V;SBJV;PRS;2;PL
+schlachten	schlachte	V;IMP;2;SG
+schlachten	schlachte	V;IND;PRS;1;SG
+schlachten	schlachte	V;SBJV;PRS;1;SG
+schlachten	schlachte	V;SBJV;PRS;3;SG
+süssen	gesüsst	V.PTCP;PST
+süssen	süssend	V.PTCP;PRS
+süssen	süssen	V;IND;PRS;1;PL
+süssen	süssen	V;IND;PRS;3;PL
+süssen	süssen	V;NFIN
+süssen	süssen	V;SBJV;PRS;1;PL
+süssen	süssen	V;SBJV;PRS;3;PL
+süssen	süssest	V;SBJV;PRS;2;SG
+süssen	süsset	V;SBJV;PRS;2;PL
+süssen	süsse	V;IND;PRS;1;SG
+süssen	süsse	V;SBJV;PRS;1;SG
+süssen	süsse	V;SBJV;PRS;3;SG
+süssen	süssten	V;IND;PST;1;PL
+süssen	süssten	V;IND;PST;3;PL
+süssen	süssten	V;SBJV;PST;1;PL
+süssen	süssten	V;SBJV;PST;3;PL
+süssen	süsstest	V;IND;PST;2;SG
+süssen	süsstest	V;SBJV;PST;2;SG
+süssen	süsstet	V;IND;PST;2;PL
+süssen	süsstet	V;SBJV;PST;2;PL
+süssen	süsste	V;IND;PST;1;SG
+süssen	süsste	V;IND;PST;3;SG
+süssen	süsste	V;SBJV;PST;1;SG
+süssen	süsste	V;SBJV;PST;3;SG
+süssen	süsst	V;IMP;2;PL
+süssen	süsst	V;IND;PRS;2;PL
+süssen	süsst	V;IND;PRS;2;SG
+süssen	süsst	V;IND;PRS;3;SG
+süssen	süss	V;IMP;2;SG
+antun	angetan	V.PTCP;PST
+antun	antund	V.PTCP;PRS
+antun	antun	V;NFIN
+antun	tat an	V;IND;PST;1;SG
+antun	tat an	V;IND;PST;3;SG
+antun	täte an	V;SBJV;PST;1;SG
+antun	täte an	V;SBJV;PST;3;SG
+antun	taten an	V;IND;PST;1;PL
+antun	taten an	V;IND;PST;3;PL
+antun	täten an	V;SBJV;PST;1;PL
+antun	täten an	V;SBJV;PST;3;PL
+antun	tatest an	V;IND;PST;2;SG
+antun	tätest an	V;SBJV;PST;2;SG
+antun	tatet an	V;IND;PST;2;PL
+antun	tätet an	V;SBJV;PST;2;PL
+antun	tu an	V;IMP;2;SG
+antun	tue an	V;IND;PRS;1;SG
+antun	tue an	V;SBJV;PRS;1;SG
+antun	tue an	V;SBJV;PRS;3;SG
+antun	tuen an	V;SBJV;PRS;1;PL
+antun	tuen an	V;SBJV;PRS;3;PL
+antun	tuest an	V;SBJV;PRS;2;SG
+antun	tuet an	V;SBJV;PRS;2;PL
+antun	tun an	V;IND;PRS;1;PL
+antun	tun an	V;IND;PRS;3;PL
+antun	tust an	V;IND;PRS;2;SG
+antun	tut an	V;IMP;2;PL
+antun	tut an	V;IND;PRS;2;PL
+antun	tut an	V;IND;PRS;3;SG
+bepissen	bepissend	V.PTCP;PRS
+bepissen	bepissen	V;IND;PRS;1;PL
+bepissen	bepissen	V;IND;PRS;3;PL
+bepissen	bepissen	V;NFIN
+bepissen	bepissen	V;SBJV;PRS;1;PL
+bepissen	bepissen	V;SBJV;PRS;3;PL
+bepissen	bepissest	V;SBJV;PRS;2;SG
+bepissen	bepisset	V;SBJV;PRS;2;PL
+bepissen	bepisse	V;IND;PRS;1;SG
+bepissen	bepisse	V;SBJV;PRS;1;SG
+bepissen	bepisse	V;SBJV;PRS;3;SG
+bepissen	bepissten	V;IND;PST;1;PL
+bepissen	bepissten	V;IND;PST;3;PL
+bepissen	bepissten	V;SBJV;PST;1;PL
+bepissen	bepissten	V;SBJV;PST;3;PL
+bepissen	bepisstest	V;IND;PST;2;SG
+bepissen	bepisstest	V;SBJV;PST;2;SG
+bepissen	bepisstet	V;IND;PST;2;PL
+bepissen	bepisstet	V;SBJV;PST;2;PL
+bepissen	bepisste	V;IND;PST;1;SG
+bepissen	bepisste	V;IND;PST;3;SG
+bepissen	bepisste	V;SBJV;PST;1;SG
+bepissen	bepisste	V;SBJV;PST;3;SG
+bepissen	bepisst	V;IMP;2;PL
+bepissen	bepisst	V;IND;PRS;2;PL
+bepissen	bepisst	V;IND;PRS;2;SG
+bepissen	bepisst	V;IND;PRS;3;SG
+bepissen	bepisst	V.PTCP;PST
+bepissen	bepiss	V;IMP;2;SG
+murren	gemurrt	V.PTCP;PST
+murren	murrend	V.PTCP;PRS
+murren	murren	V;IND;PRS;1;PL
+murren	murren	V;IND;PRS;3;PL
+murren	murren	V;NFIN
+murren	murren	V;SBJV;PRS;1;PL
+murren	murren	V;SBJV;PRS;3;PL
+murren	murrest	V;SBJV;PRS;2;SG
+murren	murret	V;SBJV;PRS;2;PL
+murren	murre	V;IND;PRS;1;SG
+murren	murre	V;SBJV;PRS;1;SG
+murren	murre	V;SBJV;PRS;3;SG
+murren	murrst	V;IND;PRS;2;SG
+murren	murrten	V;IND;PST;1;PL
+murren	murrten	V;IND;PST;3;PL
+murren	murrten	V;SBJV;PST;1;PL
+murren	murrten	V;SBJV;PST;3;PL
+murren	murrtest	V;IND;PST;2;SG
+murren	murrtest	V;SBJV;PST;2;SG
+murren	murrtet	V;IND;PST;2;PL
+murren	murrtet	V;SBJV;PST;2;PL
+murren	murrte	V;IND;PST;1;SG
+murren	murrte	V;IND;PST;3;SG
+murren	murrte	V;SBJV;PST;1;SG
+murren	murrte	V;SBJV;PST;3;SG
+murren	murrt	V;IMP;2;PL
+murren	murrt	V;IND;PRS;2;PL
+murren	murrt	V;IND;PRS;3;SG
+murren	murr	V;IMP;2;SG
+labern	gelabert	V.PTCP;PST
+labern	laberest	V;SBJV;PRS;2;SG
+labern	laberet	V;SBJV;PRS;2;PL
+labern	labere	V;SBJV;PRS;1;SG
+labern	labere	V;SBJV;PRS;3;SG
+labern	labernd	V.PTCP;PRS
+labern	labern	V;IND;PRS;1;PL
+labern	labern	V;IND;PRS;3;PL
+labern	labern	V;NFIN
+labern	labern	V;SBJV;PRS;1;PL
+labern	labern	V;SBJV;PRS;3;PL
+labern	laberst	V;IND;PRS;2;SG
+labern	laberten	V;IND;PST;1;PL
+labern	laberten	V;IND;PST;3;PL
+labern	laberten	V;SBJV;PST;1;PL
+labern	laberten	V;SBJV;PST;3;PL
+labern	labertest	V;IND;PST;2;SG
+labern	labertest	V;SBJV;PST;2;SG
+labern	labertet	V;IND;PST;2;PL
+labern	labertet	V;SBJV;PST;2;PL
+labern	laberte	V;IND;PST;1;SG
+labern	laberte	V;IND;PST;3;SG
+labern	laberte	V;SBJV;PST;1;SG
+labern	laberte	V;SBJV;PST;3;SG
+labern	labert	V;IMP;2;PL
+labern	labert	V;IND;PRS;2;PL
+labern	labert	V;IND;PRS;3;SG
+labern	labre	V;IMP;2;SG
+labern	labre	V;IND;PRS;1;SG
+handeln	gehandelt	V.PTCP;PST
+handeln	handelest	V;SBJV;PRS;2;SG
+handeln	handelet	V;SBJV;PRS;2;PL
+handeln	handele	V;SBJV;PRS;1;SG
+handeln	handele	V;SBJV;PRS;3;SG
+handeln	handelnd	V.PTCP;PRS
+handeln	handeln	V;IND;PRS;1;PL
+handeln	handeln	V;IND;PRS;3;PL
+handeln	handeln	V;NFIN
+handeln	handeln	V;SBJV;PRS;1;PL
+handeln	handeln	V;SBJV;PRS;3;PL
+handeln	handelst	V;IND;PRS;2;SG
+handeln	handelten	V;IND;PST;1;PL
+handeln	handelten	V;IND;PST;3;PL
+handeln	handelten	V;SBJV;PST;1;PL
+handeln	handelten	V;SBJV;PST;3;PL
+handeln	handeltest	V;IND;PST;2;SG
+handeln	handeltest	V;SBJV;PST;2;SG
+handeln	handeltet	V;IND;PST;2;PL
+handeln	handeltet	V;SBJV;PST;2;PL
+handeln	handelte	V;IND;PST;1;SG
+handeln	handelte	V;IND;PST;3;SG
+handeln	handelte	V;SBJV;PST;1;SG
+handeln	handelte	V;SBJV;PST;3;SG
+handeln	handelt	V;IND;PRS;2;PL
+handeln	handelt	V;IND;PRS;3;SG
+handeln	handle	V;IND;PRS;1;SG
+anzweifeln	angezweifelt	V.PTCP;PST
+anzweifeln	anzweifelnd	V.PTCP;PRS
+anzweifeln	anzweifeln	V;NFIN
+anzweifeln	zweifele an	V;SBJV;PRS;1;SG
+anzweifeln	zweifele an	V;SBJV;PRS;3;SG
+anzweifeln	zweifelest an	V;SBJV;PRS;2;SG
+anzweifeln	zweifelet an	V;SBJV;PRS;2;PL
+anzweifeln	zweifeln an	V;IND;PRS;1;PL
+anzweifeln	zweifeln an	V;IND;PRS;3;PL
+anzweifeln	zweifeln an	V;SBJV;PRS;1;PL
+anzweifeln	zweifeln an	V;SBJV;PRS;3;PL
+anzweifeln	zweifelst an	V;IND;PRS;2;SG
+anzweifeln	zweifelt an	V;IMP;2;PL
+anzweifeln	zweifelt an	V;IND;PRS;2;PL
+anzweifeln	zweifelt an	V;IND;PRS;3;SG
+anzweifeln	zweifelte an	V;IND;PST;1;SG
+anzweifeln	zweifelte an	V;IND;PST;3;SG
+anzweifeln	zweifelte an	V;SBJV;PST;1;SG
+anzweifeln	zweifelte an	V;SBJV;PST;3;SG
+anzweifeln	zweifelten an	V;IND;PST;1;PL
+anzweifeln	zweifelten an	V;IND;PST;3;PL
+anzweifeln	zweifelten an	V;SBJV;PST;1;PL
+anzweifeln	zweifelten an	V;SBJV;PST;3;PL
+anzweifeln	zweifeltest an	V;IND;PST;2;SG
+anzweifeln	zweifeltest an	V;SBJV;PST;2;SG
+anzweifeln	zweifeltet an	V;IND;PST;2;PL
+anzweifeln	zweifeltet an	V;SBJV;PST;2;PL
+anzweifeln	zweifle an	V;IMP;2;SG
+anzweifeln	zweifle an	V;IND;PRS;1;SG
+stürmen	gestürmt	V.PTCP;PST
+stürmen	stürmend	V.PTCP;PRS
+stürmen	stürmen	V;IND;PRS;1;PL
+stürmen	stürmen	V;IND;PRS;3;PL
+stürmen	stürmen	V;NFIN
+stürmen	stürmen	V;SBJV;PRS;1;PL
+stürmen	stürmen	V;SBJV;PRS;3;PL
+stürmen	stürmest	V;SBJV;PRS;2;SG
+stürmen	stürmet	V;SBJV;PRS;2;PL
+stürmen	stürme	V;IND;PRS;1;SG
+stürmen	stürme	V;SBJV;PRS;1;SG
+stürmen	stürme	V;SBJV;PRS;3;SG
+stürmen	stürmst	V;IND;PRS;2;SG
+stürmen	stürmten	V;IND;PST;1;PL
+stürmen	stürmten	V;IND;PST;3;PL
+stürmen	stürmten	V;SBJV;PST;1;PL
+stürmen	stürmten	V;SBJV;PST;3;PL
+stürmen	stürmtest	V;IND;PST;2;SG
+stürmen	stürmtest	V;SBJV;PST;2;SG
+stürmen	stürmtet	V;IND;PST;2;PL
+stürmen	stürmtet	V;SBJV;PST;2;PL
+stürmen	stürmte	V;IND;PST;1;SG
+stürmen	stürmte	V;IND;PST;3;SG
+stürmen	stürmte	V;SBJV;PST;1;SG
+stürmen	stürmte	V;SBJV;PST;3;SG
+stürmen	stürmt	V;IMP;2;PL
+stürmen	stürmt	V;IND;PRS;2;PL
+stürmen	stürmt	V;IND;PRS;3;SG
+stürmen	stürm	V;IMP;2;SG
+funktionieren	funktionierend	V.PTCP;PRS
+funktionieren	funktionieren	V;IND;PRS;1;PL
+funktionieren	funktionieren	V;IND;PRS;3;PL
+funktionieren	funktionieren	V;NFIN
+funktionieren	funktionieren	V;SBJV;PRS;1;PL
+funktionieren	funktionieren	V;SBJV;PRS;3;PL
+funktionieren	funktionierest	V;SBJV;PRS;2;SG
+funktionieren	funktionieret	V;SBJV;PRS;2;PL
+funktionieren	funktioniere	V;IND;PRS;1;SG
+funktionieren	funktioniere	V;SBJV;PRS;1;SG
+funktionieren	funktioniere	V;SBJV;PRS;3;SG
+funktionieren	funktionierst	V;IND;PRS;2;SG
+funktionieren	funktionierten	V;IND;PST;1;PL
+funktionieren	funktionierten	V;IND;PST;3;PL
+funktionieren	funktionierten	V;SBJV;PST;1;PL
+funktionieren	funktionierten	V;SBJV;PST;3;PL
+funktionieren	funktioniertest	V;IND;PST;2;SG
+funktionieren	funktioniertest	V;SBJV;PST;2;SG
+funktionieren	funktioniertet	V;IND;PST;2;PL
+funktionieren	funktioniertet	V;SBJV;PST;2;PL
+funktionieren	funktionierte	V;IND;PST;1;SG
+funktionieren	funktionierte	V;IND;PST;3;SG
+funktionieren	funktionierte	V;SBJV;PST;1;SG
+funktionieren	funktionierte	V;SBJV;PST;3;SG
+funktionieren	funktioniert	V;IMP;2;PL
+funktionieren	funktioniert	V;IND;PRS;2;PL
+funktionieren	funktioniert	V;IND;PRS;3;SG
+funktionieren	funktioniert	V.PTCP;PST
+funktionieren	funktionier	V;IMP;2;SG
+erwecken	erweckend	V.PTCP;PRS
+erwecken	erwecken	V;IND;PRS;1;PL
+erwecken	erwecken	V;IND;PRS;3;PL
+erwecken	erwecken	V;NFIN
+erwecken	erwecken	V;SBJV;PRS;1;PL
+erwecken	erwecken	V;SBJV;PRS;3;PL
+erwecken	erweckest	V;SBJV;PRS;2;SG
+erwecken	erwecket	V;SBJV;PRS;2;PL
+erwecken	erwecke	V;IND;PRS;1;SG
+erwecken	erwecke	V;SBJV;PRS;1;SG
+erwecken	erwecke	V;SBJV;PRS;3;SG
+erwecken	erweckst	V;IND;PRS;2;SG
+erwecken	erweckten	V;IND;PST;1;PL
+erwecken	erweckten	V;IND;PST;3;PL
+erwecken	erweckten	V;SBJV;PST;1;PL
+erwecken	erweckten	V;SBJV;PST;3;PL
+erwecken	erwecktest	V;IND;PST;2;SG
+erwecken	erwecktest	V;SBJV;PST;2;SG
+erwecken	erwecktet	V;IND;PST;2;PL
+erwecken	erwecktet	V;SBJV;PST;2;PL
+erwecken	erweckte	V;IND;PST;1;SG
+erwecken	erweckte	V;IND;PST;3;SG
+erwecken	erweckte	V;SBJV;PST;1;SG
+erwecken	erweckte	V;SBJV;PST;3;SG
+erwecken	erweckt	V;IMP;2;PL
+erwecken	erweckt	V;IND;PRS;2;PL
+erwecken	erweckt	V;IND;PRS;3;SG
+erwecken	erweckt	V.PTCP;PST
+erwecken	erweck	V;IMP;2;SG
+aasen	aasend	V.PTCP;PRS
+aasen	aasen	V;IND;PRS;1;PL
+aasen	aasen	V;IND;PRS;3;PL
+aasen	aasen	V;NFIN
+aasen	aasen	V;SBJV;PRS;1;PL
+aasen	aasen	V;SBJV;PRS;3;PL
+aasen	aasest	V;SBJV;PRS;2;SG
+aasen	aaset	V;SBJV;PRS;2;PL
+aasen	aase	V;IND;PRS;1;SG
+aasen	aase	V;SBJV;PRS;1;SG
+aasen	aase	V;SBJV;PRS;3;SG
+aasen	aasten	V;IND;PST;1;PL
+aasen	aasten	V;IND;PST;3;PL
+aasen	aasten	V;SBJV;PST;1;PL
+aasen	aasten	V;SBJV;PST;3;PL
+aasen	aastest	V;IND;PST;2;SG
+aasen	aastest	V;SBJV;PST;2;SG
+aasen	aastet	V;IND;PST;2;PL
+aasen	aastet	V;SBJV;PST;2;PL
+aasen	aaste	V;IND;PST;1;SG
+aasen	aaste	V;IND;PST;3;SG
+aasen	aaste	V;SBJV;PST;1;SG
+aasen	aaste	V;SBJV;PST;3;SG
+aasen	aast	V;IMP;2;PL
+aasen	aast	V;IND;PRS;2;PL
+aasen	aast	V;IND;PRS;2;SG
+aasen	aast	V;IND;PRS;3;SG
+aasen	aas	V;IMP;2;SG
+aasen	geaast	V.PTCP;PST
+schwellen	geschwollen	V.PTCP;PST
+schwellen	schwellend	V.PTCP;PRS
+schwellen	schwellen	V;IND;PRS;1;PL
+schwellen	schwellen	V;IND;PRS;3;PL
+schwellen	schwellen	V;NFIN
+schwellen	schwellen	V;SBJV;PRS;1;PL
+schwellen	schwellen	V;SBJV;PRS;3;PL
+schwellen	schwellest	V;SBJV;PRS;2;SG
+schwellen	schwellet	V;SBJV;PRS;2;PL
+schwellen	schwelle	V;IND;PRS;1;SG
+schwellen	schwelle	V;SBJV;PRS;1;SG
+schwellen	schwelle	V;SBJV;PRS;3;SG
+schwellen	schwellt	V;IMP;2;PL
+schwellen	schwellt	V;IND;PRS;2;PL
+schwellen	schwillst	V;IND;PRS;2;SG
+schwellen	schwillt	V;IND;PRS;3;SG
+schwellen	schwill	V;IMP;2;SG
+schwellen	schwollen	V;IND;PST;1;PL
+schwellen	schwollen	V;IND;PST;3;PL
+schwellen	schwöllen	V;SBJV;PST;1;PL
+schwellen	schwöllen	V;SBJV;PST;3;PL
+schwellen	schwöllest	V;SBJV;PST;2;SG
+schwellen	schwöllet	V;SBJV;PST;2;PL
+schwellen	schwölle	V;SBJV;PST;1;SG
+schwellen	schwölle	V;SBJV;PST;3;SG
+schwellen	schwollst	V;IND;PST;2;SG
+schwellen	schwollt	V;IND;PST;2;PL
+schwellen	schwoll	V;IND;PST;1;SG
+schwellen	schwoll	V;IND;PST;3;SG
+kassieren	kassierend	V.PTCP;PRS
+kassieren	kassieren	V;IND;PRS;1;PL
+kassieren	kassieren	V;IND;PRS;3;PL
+kassieren	kassieren	V;NFIN
+kassieren	kassieren	V;SBJV;PRS;1;PL
+kassieren	kassieren	V;SBJV;PRS;3;PL
+kassieren	kassierest	V;SBJV;PRS;2;SG
+kassieren	kassieret	V;SBJV;PRS;2;PL
+kassieren	kassiere	V;IND;PRS;1;SG
+kassieren	kassiere	V;SBJV;PRS;1;SG
+kassieren	kassiere	V;SBJV;PRS;3;SG
+kassieren	kassierst	V;IND;PRS;2;SG
+kassieren	kassierten	V;IND;PST;1;PL
+kassieren	kassierten	V;IND;PST;3;PL
+kassieren	kassierten	V;SBJV;PST;1;PL
+kassieren	kassierten	V;SBJV;PST;3;PL
+kassieren	kassiertest	V;IND;PST;2;SG
+kassieren	kassiertest	V;SBJV;PST;2;SG
+kassieren	kassiertet	V;IND;PST;2;PL
+kassieren	kassiertet	V;SBJV;PST;2;PL
+kassieren	kassierte	V;IND;PST;1;SG
+kassieren	kassierte	V;IND;PST;3;SG
+kassieren	kassierte	V;SBJV;PST;1;SG
+kassieren	kassierte	V;SBJV;PST;3;SG
+kassieren	kassiert	V;IMP;2;PL
+kassieren	kassiert	V;IND;PRS;2;PL
+kassieren	kassiert	V;IND;PRS;3;SG
+kassieren	kassiert	V.PTCP;PST
+kassieren	kassier	V;IMP;2;SG
+wehen	geweht	V.PTCP;PST
+wehen	wehend	V.PTCP;PRS
+wehen	wehen	V;IND;PRS;1;PL
+wehen	wehen	V;IND;PRS;3;PL
+wehen	wehen	V;NFIN
+wehen	wehen	V;SBJV;PRS;1;PL
+wehen	wehen	V;SBJV;PRS;3;PL
+wehen	wehest	V;SBJV;PRS;2;SG
+wehen	wehet	V;SBJV;PRS;2;PL
+wehen	wehe	V;IND;PRS;1;SG
+wehen	wehe	V;SBJV;PRS;1;SG
+wehen	wehe	V;SBJV;PRS;3;SG
+wehen	wehst	V;IND;PRS;2;SG
+wehen	wehten	V;IND;PST;1;PL
+wehen	wehten	V;IND;PST;3;PL
+wehen	wehten	V;SBJV;PST;1;PL
+wehen	wehten	V;SBJV;PST;3;PL
+wehen	wehtest	V;IND;PST;2;SG
+wehen	wehtest	V;SBJV;PST;2;SG
+wehen	wehtet	V;IND;PST;2;PL
+wehen	wehtet	V;SBJV;PST;2;PL
+wehen	wehte	V;IND;PST;1;SG
+wehen	wehte	V;IND;PST;3;SG
+wehen	wehte	V;SBJV;PST;1;SG
+wehen	wehte	V;SBJV;PST;3;SG
+wehen	weht	V;IMP;2;PL
+wehen	weht	V;IND;PRS;2;PL
+wehen	weht	V;IND;PRS;3;SG
+wehen	weh	V;IMP;2;SG
+begehen	begangen	V.PTCP;PST
+begehen	begehend	V.PTCP;PRS
+begehen	begehen	V;IND;PRS;1;PL
+begehen	begehen	V;IND;PRS;3;PL
+begehen	begehen	V;NFIN
+begehen	begehen	V;SBJV;PRS;1;PL
+begehen	begehen	V;SBJV;PRS;3;PL
+begehen	begehest	V;SBJV;PRS;2;SG
+begehen	begehet	V;SBJV;PRS;2;PL
+begehen	begehe	V;IND;PRS;1;SG
+begehen	begehe	V;SBJV;PRS;1;SG
+begehen	begehe	V;SBJV;PRS;3;SG
+begehen	begehst	V;IND;PRS;2;SG
+begehen	begeht	V;IMP;2;PL
+begehen	begeht	V;IND;PRS;2;PL
+begehen	begeht	V;IND;PRS;3;SG
+begehen	begeh	V;IMP;2;SG
+begehen	begingen	V;IND;PST;1;PL
+begehen	begingen	V;IND;PST;3;PL
+begehen	begingen	V;SBJV;PST;1;PL
+begehen	begingen	V;SBJV;PST;3;PL
+begehen	begingest	V;SBJV;PST;2;SG
+begehen	beginget	V;SBJV;PST;2;PL
+begehen	beginge	V;SBJV;PST;1;SG
+begehen	beginge	V;SBJV;PST;3;SG
+begehen	begingst	V;IND;PST;2;SG
+begehen	begingt	V;IND;PST;2;PL
+begehen	beging	V;IND;PST;1;SG
+begehen	beging	V;IND;PST;3;SG
+erhöhen	erhöhend	V.PTCP;PRS
+erhöhen	erhöhen	V;IND;PRS;1;PL
+erhöhen	erhöhen	V;IND;PRS;3;PL
+erhöhen	erhöhen	V;NFIN
+erhöhen	erhöhen	V;SBJV;PRS;1;PL
+erhöhen	erhöhen	V;SBJV;PRS;3;PL
+erhöhen	erhöhest	V;SBJV;PRS;2;SG
+erhöhen	erhöhet	V;SBJV;PRS;2;PL
+erhöhen	erhöhe	V;IND;PRS;1;SG
+erhöhen	erhöhe	V;SBJV;PRS;1;SG
+erhöhen	erhöhe	V;SBJV;PRS;3;SG
+erhöhen	erhöhst	V;IND;PRS;2;SG
+erhöhen	erhöhten	V;IND;PST;1;PL
+erhöhen	erhöhten	V;IND;PST;3;PL
+erhöhen	erhöhten	V;SBJV;PST;1;PL
+erhöhen	erhöhten	V;SBJV;PST;3;PL
+erhöhen	erhöhtest	V;IND;PST;2;SG
+erhöhen	erhöhtest	V;SBJV;PST;2;SG
+erhöhen	erhöhtet	V;IND;PST;2;PL
+erhöhen	erhöhtet	V;SBJV;PST;2;PL
+erhöhen	erhöhte	V;IND;PST;1;SG
+erhöhen	erhöhte	V;IND;PST;3;SG
+erhöhen	erhöhte	V.PTCP;PST
+erhöhen	erhöhte	V;SBJV;PST;1;SG
+erhöhen	erhöhte	V;SBJV;PST;3;SG
+erhöhen	erhöht	V;IMP;2;PL
+erhöhen	erhöht	V;IND;PRS;2;PL
+erhöhen	erhöht	V;IND;PRS;3;SG
+erhöhen	erhöh	V;IMP;2;SG
+föhnen	föhnend	V.PTCP;PRS
+föhnen	föhnen	V;IND;PRS;1;PL
+föhnen	föhnen	V;IND;PRS;3;PL
+föhnen	föhnen	V;NFIN
+föhnen	föhnen	V;SBJV;PRS;1;PL
+föhnen	föhnen	V;SBJV;PRS;3;PL
+föhnen	föhnest	V;SBJV;PRS;2;SG
+föhnen	föhnet	V;SBJV;PRS;2;PL
+föhnen	föhne	V;IND;PRS;1;SG
+föhnen	föhne	V;SBJV;PRS;1;SG
+föhnen	föhne	V;SBJV;PRS;3;SG
+föhnen	föhnst	V;IND;PRS;2;SG
+föhnen	föhnten	V;IND;PST;1;PL
+föhnen	föhnten	V;IND;PST;3;PL
+föhnen	föhnten	V;SBJV;PST;1;PL
+föhnen	föhnten	V;SBJV;PST;3;PL
+föhnen	föhntest	V;IND;PST;2;SG
+föhnen	föhntest	V;SBJV;PST;2;SG
+föhnen	föhntet	V;IND;PST;2;PL
+föhnen	föhntet	V;SBJV;PST;2;PL
+föhnen	föhnte	V;IND;PST;1;SG
+föhnen	föhnte	V;IND;PST;3;SG
+föhnen	föhnte	V;SBJV;PST;1;SG
+föhnen	föhnte	V;SBJV;PST;3;SG
+föhnen	föhnt	V;IMP;2;PL
+föhnen	föhnt	V;IND;PRS;2;PL
+föhnen	föhnt	V;IND;PRS;3;SG
+föhnen	föhn	V;IMP;2;SG
+föhnen	geföhnt	V.PTCP;PST
+untergehen	gehen unter	V;IND;PRS;1;PL
+untergehen	gehen unter	V;IND;PRS;3;PL
+untergehen	gehen unter	V;SBJV;PRS;1;PL
+untergehen	gehen unter	V;SBJV;PRS;3;PL
+untergehen	gehest unter	V;SBJV;PRS;2;SG
+untergehen	gehet unter	V;SBJV;PRS;2;PL
+untergehen	gehe unter	V;IND;PRS;1;SG
+untergehen	gehe unter	V;SBJV;PRS;1;SG
+untergehen	gehe unter	V;SBJV;PRS;3;SG
+untergehen	gehst unter	V;IND;PRS;2;SG
+untergehen	geht unter	V;IMP;2;PL
+untergehen	geht unter	V;IND;PRS;2;PL
+untergehen	geht unter	V;IND;PRS;3;SG
+untergehen	geh unter	V;IMP;2;SG
+untergehen	gingen unter	V;IND;PST;1;PL
+untergehen	gingen unter	V;IND;PST;3;PL
+untergehen	gingen unter	V;SBJV;PST;1;PL
+untergehen	gingen unter	V;SBJV;PST;3;PL
+untergehen	gingest unter	V;SBJV;PST;2;SG
+untergehen	ginget unter	V;SBJV;PST;2;PL
+untergehen	ginge unter	V;SBJV;PST;1;SG
+untergehen	ginge unter	V;SBJV;PST;3;SG
+untergehen	gingst unter	V;IND;PST;2;SG
+untergehen	gingt unter	V;IND;PST;2;PL
+untergehen	ging unter	V;IND;PST;1;SG
+untergehen	ging unter	V;IND;PST;3;SG
+untergehen	untergegangen	V.PTCP;PST
+untergehen	untergehend	V.PTCP;PRS
+untergehen	untergehen	V;NFIN
+titeln	getitelt	V.PTCP;PST
+titeln	titelest	V;SBJV;PRS;2;SG
+titeln	titelet	V;SBJV;PRS;2;PL
+titeln	titele	V;SBJV;PRS;1;SG
+titeln	titele	V;SBJV;PRS;3;SG
+titeln	titelnd	V.PTCP;PRS
+titeln	titeln	V;IND;PRS;1;PL
+titeln	titeln	V;IND;PRS;3;PL
+titeln	titeln	V;NFIN
+titeln	titeln	V;SBJV;PRS;1;PL
+titeln	titeln	V;SBJV;PRS;3;PL
+titeln	titelst	V;IND;PRS;2;SG
+titeln	titelten	V;IND;PST;1;PL
+titeln	titelten	V;IND;PST;3;PL
+titeln	titelten	V;SBJV;PST;1;PL
+titeln	titelten	V;SBJV;PST;3;PL
+titeln	titeltest	V;IND;PST;2;SG
+titeln	titeltest	V;SBJV;PST;2;SG
+titeln	titeltet	V;IND;PST;2;PL
+titeln	titeltet	V;SBJV;PST;2;PL
+titeln	titelte	V;IND;PST;1;SG
+titeln	titelte	V;IND;PST;3;SG
+titeln	titelte	V;SBJV;PST;1;SG
+titeln	titelte	V;SBJV;PST;3;SG
+titeln	titelt	V;IMP;2;PL
+titeln	titelt	V;IND;PRS;2;PL
+titeln	titelt	V;IND;PRS;3;SG
+titeln	title	V;IMP;2;SG
+titeln	title	V;IND;PRS;1;SG
+anheben	angehoben	V.PTCP;PST
+anheben	anhebend	V.PTCP;PRS
+anheben	anheben	V;NFIN
+anheben	heb an	V;IMP;2;SG
+anheben	hebe an	V;IND;PRS;1;SG
+anheben	hebe an	V;SBJV;PRS;1;SG
+anheben	hebe an	V;SBJV;PRS;3;SG
+anheben	heben an	V;IND;PRS;1;PL
+anheben	heben an	V;IND;PRS;3;PL
+anheben	heben an	V;SBJV;PRS;1;PL
+anheben	heben an	V;SBJV;PRS;3;PL
+anheben	hebest an	V;SBJV;PRS;2;SG
+anheben	hebet an	V;SBJV;PRS;2;PL
+anheben	hebst an	V;IND;PRS;2;SG
+anheben	hebt an	V;IMP;2;PL
+anheben	hebt an	V;IND;PRS;2;PL
+anheben	hebt an	V;IND;PRS;3;SG
+anheben	hob an	V;IND;PST;1;SG
+anheben	hob an	V;IND;PST;3;SG
+anheben	höbe an	V;SBJV;PST;1;SG
+anheben	höbe an	V;SBJV;PST;3;SG
+anheben	hoben an	V;IND;PST;1;PL
+anheben	hoben an	V;IND;PST;3;PL
+anheben	höben an	V;SBJV;PST;1;PL
+anheben	höben an	V;SBJV;PST;3;PL
+anheben	höbest an	V;SBJV;PST;2;SG
+anheben	höbet an	V;SBJV;PST;2;PL
+anheben	hobst an	V;IND;PST;2;SG
+anheben	hobt an	V;IND;PST;2;PL
+diagnostizieren	diagnostizierend	V.PTCP;PRS
+diagnostizieren	diagnostizieren	V;IND;PRS;1;PL
+diagnostizieren	diagnostizieren	V;IND;PRS;3;PL
+diagnostizieren	diagnostizieren	V;NFIN
+diagnostizieren	diagnostizieren	V;SBJV;PRS;1;PL
+diagnostizieren	diagnostizieren	V;SBJV;PRS;3;PL
+diagnostizieren	diagnostizierest	V;SBJV;PRS;2;SG
+diagnostizieren	diagnostizieret	V;SBJV;PRS;2;PL
+diagnostizieren	diagnostiziere	V;IND;PRS;1;SG
+diagnostizieren	diagnostiziere	V;SBJV;PRS;1;SG
+diagnostizieren	diagnostiziere	V;SBJV;PRS;3;SG
+diagnostizieren	diagnostizierst	V;IND;PRS;2;SG
+diagnostizieren	diagnostizierten	V;IND;PST;1;PL
+diagnostizieren	diagnostizierten	V;IND;PST;3;PL
+diagnostizieren	diagnostizierten	V;SBJV;PST;1;PL
+diagnostizieren	diagnostizierten	V;SBJV;PST;3;PL
+diagnostizieren	diagnostiziertest	V;IND;PST;2;SG
+diagnostizieren	diagnostiziertest	V;SBJV;PST;2;SG
+diagnostizieren	diagnostiziertet	V;IND;PST;2;PL
+diagnostizieren	diagnostiziertet	V;SBJV;PST;2;PL
+diagnostizieren	diagnostizierte	V;IND;PST;1;SG
+diagnostizieren	diagnostizierte	V;IND;PST;3;SG
+diagnostizieren	diagnostizierte	V;SBJV;PST;1;SG
+diagnostizieren	diagnostizierte	V;SBJV;PST;3;SG
+diagnostizieren	diagnostiziert	V;IMP;2;PL
+diagnostizieren	diagnostiziert	V;IND;PRS;2;PL
+diagnostizieren	diagnostiziert	V;IND;PRS;3;SG
+diagnostizieren	diagnostiziert	V.PTCP;PST
+diagnostizieren	diagnostizier	V;IMP;2;SG
+verbannen	verbannend	V.PTCP;PRS
+verbannen	verbannen	V;IND;PRS;1;PL
+verbannen	verbannen	V;IND;PRS;3;PL
+verbannen	verbannen	V;NFIN
+verbannen	verbannen	V;SBJV;PRS;1;PL
+verbannen	verbannen	V;SBJV;PRS;3;PL
+verbannen	verbannest	V;SBJV;PRS;2;SG
+verbannen	verbannet	V;SBJV;PRS;2;PL
+verbannen	verbanne	V;IND;PRS;1;SG
+verbannen	verbanne	V;SBJV;PRS;1;SG
+verbannen	verbanne	V;SBJV;PRS;3;SG
+verbannen	verbannst	V;IND;PRS;2;SG
+verbannen	verbannten	V;IND;PST;1;PL
+verbannen	verbannten	V;IND;PST;3;PL
+verbannen	verbannten	V;SBJV;PST;1;PL
+verbannen	verbannten	V;SBJV;PST;3;PL
+verbannen	verbanntest	V;IND;PST;2;SG
+verbannen	verbanntest	V;SBJV;PST;2;SG
+verbannen	verbanntet	V;IND;PST;2;PL
+verbannen	verbanntet	V;SBJV;PST;2;PL
+verbannen	verbannte	V;IND;PST;1;SG
+verbannen	verbannte	V;IND;PST;3;SG
+verbannen	verbannte	V;SBJV;PST;1;SG
+verbannen	verbannte	V;SBJV;PST;3;SG
+verbannen	verbannt	V;IMP;2;PL
+verbannen	verbannt	V;IND;PRS;2;PL
+verbannen	verbannt	V;IND;PRS;3;SG
+verbannen	verbannt	V.PTCP;PST
+verbannen	verbann	V;IMP;2;SG
+meucheln	gemeuchelt	V.PTCP;PST
+meucheln	meuchelest	V;SBJV;PRS;2;SG
+meucheln	meuchelet	V;SBJV;PRS;2;PL
+meucheln	meuchele	V;SBJV;PRS;1;SG
+meucheln	meuchele	V;SBJV;PRS;3;SG
+meucheln	meuchelnd	V.PTCP;PRS
+meucheln	meucheln	V;IND;PRS;1;PL
+meucheln	meucheln	V;IND;PRS;3;PL
+meucheln	meucheln	V;NFIN
+meucheln	meucheln	V;SBJV;PRS;1;PL
+meucheln	meucheln	V;SBJV;PRS;3;PL
+meucheln	meuchelst	V;IND;PRS;2;SG
+meucheln	meuchelten	V;IND;PST;1;PL
+meucheln	meuchelten	V;IND;PST;3;PL
+meucheln	meuchelten	V;SBJV;PST;1;PL
+meucheln	meuchelten	V;SBJV;PST;3;PL
+meucheln	meucheltest	V;IND;PST;2;SG
+meucheln	meucheltest	V;SBJV;PST;2;SG
+meucheln	meucheltet	V;IND;PST;2;PL
+meucheln	meucheltet	V;SBJV;PST;2;PL
+meucheln	meuchelte	V;IND;PST;1;SG
+meucheln	meuchelte	V;IND;PST;3;SG
+meucheln	meuchelte	V;SBJV;PST;1;SG
+meucheln	meuchelte	V;SBJV;PST;3;SG
+meucheln	meuchelt	V;IMP;2;PL
+meucheln	meuchelt	V;IND;PRS;2;PL
+meucheln	meuchelt	V;IND;PRS;3;SG
+meucheln	meuchle	V;IMP;2;SG
+meucheln	meuchle	V;IND;PRS;1;SG
+büßen	büßend	V.PTCP;PRS
+büßen	büßen	V;IND;PRS;1;PL
+büßen	büßen	V;IND;PRS;3;PL
+büßen	büßen	V;NFIN
+büßen	büßen	V;SBJV;PRS;1;PL
+büßen	büßen	V;SBJV;PRS;3;PL
+büßen	büßest	V;SBJV;PRS;2;SG
+büßen	büßet	V;SBJV;PRS;2;PL
+büßen	büße	V;IND;PRS;1;SG
+büßen	büße	V;SBJV;PRS;1;SG
+büßen	büße	V;SBJV;PRS;3;SG
+büßen	büßten	V;IND;PST;1;PL
+büßen	büßten	V;IND;PST;3;PL
+büßen	büßten	V;SBJV;PST;1;PL
+büßen	büßten	V;SBJV;PST;3;PL
+büßen	büßtest	V;IND;PST;2;SG
+büßen	büßtest	V;SBJV;PST;2;SG
+büßen	büßtet	V;IND;PST;2;PL
+büßen	büßtet	V;SBJV;PST;2;PL
+büßen	büßte	V;IND;PST;1;SG
+büßen	büßte	V;IND;PST;3;SG
+büßen	büßte	V;SBJV;PST;1;SG
+büßen	büßte	V;SBJV;PST;3;SG
+büßen	büßt	V;IMP;2;PL
+büßen	büßt	V;IND;PRS;2;PL
+büßen	büßt	V;IND;PRS;2;SG
+büßen	büßt	V;IND;PRS;3;SG
+büßen	büß	V;IMP;2;SG
+büßen	gebüßt	V.PTCP;PST
+entreißen	entreißend	V.PTCP;PRS
+entreißen	entreißen	V;IND;PRS;1;PL
+entreißen	entreißen	V;IND;PRS;3;PL
+entreißen	entreißen	V;NFIN
+entreißen	entreißen	V;SBJV;PRS;1;PL
+entreißen	entreißen	V;SBJV;PRS;3;PL
+entreißen	entreißest	V;SBJV;PRS;2;SG
+entreißen	entreißet	V;SBJV;PRS;2;PL
+entreißen	entreiße	V;IND;PRS;1;SG
+entreißen	entreiße	V;SBJV;PRS;1;SG
+entreißen	entreiße	V;SBJV;PRS;3;SG
+entreißen	entreißt	V;IMP;2;PL
+entreißen	entreißt	V;IND;PRS;2;PL
+entreißen	entreißt	V;IND;PRS;2;SG
+entreißen	entreißt	V;IND;PRS;3;SG
+entreißen	entreiß	V;IMP;2;SG
+entreißen	entrissen	V;IND;PST;1;PL
+entreißen	entrissen	V;IND;PST;3;PL
+entreißen	entrissen	V.PTCP;PST
+entreißen	entrissen	V;SBJV;PST;1;PL
+entreißen	entrissen	V;SBJV;PST;3;PL
+entreißen	entrissest	V;SBJV;PST;2;SG
+entreißen	entrisset	V;SBJV;PST;2;PL
+entreißen	entrisse	V;SBJV;PST;1;SG
+entreißen	entrisse	V;SBJV;PST;3;SG
+entreißen	entrisst	V;IND;PST;2;PL
+entreißen	entrisst	V;IND;PST;2;SG
+entreißen	entriss	V;IND;PST;1;SG
+entreißen	entriss	V;IND;PST;3;SG
+schärfen	geschärft	V.PTCP;PST
+schärfen	schärfend	V.PTCP;PRS
+schärfen	schärfen	V;IND;PRS;1;PL
+schärfen	schärfen	V;IND;PRS;3;PL
+schärfen	schärfen	V;NFIN
+schärfen	schärfen	V;SBJV;PRS;1;PL
+schärfen	schärfen	V;SBJV;PRS;3;PL
+schärfen	schärfest	V;SBJV;PRS;2;SG
+schärfen	schärfet	V;SBJV;PRS;2;PL
+schärfen	schärfe	V;IND;PRS;1;SG
+schärfen	schärfe	V;SBJV;PRS;1;SG
+schärfen	schärfe	V;SBJV;PRS;3;SG
+schärfen	schärfst	V;IND;PRS;2;SG
+schärfen	schärften	V;IND;PST;1;PL
+schärfen	schärften	V;IND;PST;3;PL
+schärfen	schärften	V;SBJV;PST;1;PL
+schärfen	schärften	V;SBJV;PST;3;PL
+schärfen	schärftest	V;IND;PST;2;SG
+schärfen	schärftest	V;SBJV;PST;2;SG
+schärfen	schärftet	V;IND;PST;2;PL
+schärfen	schärftet	V;SBJV;PST;2;PL
+schärfen	schärfte	V;IND;PST;1;SG
+schärfen	schärfte	V;IND;PST;3;SG
+schärfen	schärfte	V;SBJV;PST;1;SG
+schärfen	schärfte	V;SBJV;PST;3;SG
+schärfen	schärft	V;IMP;2;PL
+schärfen	schärft	V;IND;PRS;2;PL
+schärfen	schärft	V;IND;PRS;3;SG
+schärfen	schärf	V;IMP;2;SG
+sedieren	sedierend	V.PTCP;PRS
+sedieren	sedieren	V;IND;PRS;1;PL
+sedieren	sedieren	V;IND;PRS;3;PL
+sedieren	sedieren	V;NFIN
+sedieren	sedieren	V;SBJV;PRS;1;PL
+sedieren	sedieren	V;SBJV;PRS;3;PL
+sedieren	sedierest	V;SBJV;PRS;2;SG
+sedieren	sedieret	V;SBJV;PRS;2;PL
+sedieren	sediere	V;IND;PRS;1;SG
+sedieren	sediere	V;SBJV;PRS;1;SG
+sedieren	sediere	V;SBJV;PRS;3;SG
+sedieren	sedierst	V;IND;PRS;2;SG
+sedieren	sedierten	V;IND;PST;1;PL
+sedieren	sedierten	V;IND;PST;3;PL
+sedieren	sedierten	V;SBJV;PST;1;PL
+sedieren	sedierten	V;SBJV;PST;3;PL
+sedieren	sediertest	V;IND;PST;2;SG
+sedieren	sediertest	V;SBJV;PST;2;SG
+sedieren	sediertet	V;IND;PST;2;PL
+sedieren	sediertet	V;SBJV;PST;2;PL
+sedieren	sedierte	V;IND;PST;1;SG
+sedieren	sedierte	V;IND;PST;3;SG
+sedieren	sedierte	V;SBJV;PST;1;SG
+sedieren	sedierte	V;SBJV;PST;3;SG
+sedieren	sediert	V;IMP;2;PL
+sedieren	sediert	V;IND;PRS;2;PL
+sedieren	sediert	V;IND;PRS;3;SG
+sedieren	sediert	V.PTCP;PST
+sedieren	sedier	V;IMP;2;SG
+besetzen	besetzend	V.PTCP;PRS
+besetzen	besetzen	V;IND;PRS;1;PL
+besetzen	besetzen	V;IND;PRS;3;PL
+besetzen	besetzen	V;NFIN
+besetzen	besetzen	V;SBJV;PRS;1;PL
+besetzen	besetzen	V;SBJV;PRS;3;PL
+besetzen	besetzest	V;SBJV;PRS;2;SG
+besetzen	besetzet	V;SBJV;PRS;2;PL
+besetzen	besetze	V;IND;PRS;1;SG
+besetzen	besetze	V;SBJV;PRS;1;SG
+besetzen	besetze	V;SBJV;PRS;3;SG
+besetzen	besetzten	V;IND;PST;1;PL
+besetzen	besetzten	V;IND;PST;3;PL
+besetzen	besetzten	V;SBJV;PST;1;PL
+besetzen	besetzten	V;SBJV;PST;3;PL
+besetzen	besetztest	V;IND;PST;2;SG
+besetzen	besetztest	V;SBJV;PST;2;SG
+besetzen	besetztet	V;IND;PST;2;PL
+besetzen	besetztet	V;SBJV;PST;2;PL
+besetzen	besetzte	V;IND;PST;1;SG
+besetzen	besetzte	V;IND;PST;3;SG
+besetzen	besetzte	V;SBJV;PST;1;SG
+besetzen	besetzte	V;SBJV;PST;3;SG
+besetzen	besetzt	V;IMP;2;PL
+besetzen	besetzt	V;IND;PRS;2;PL
+besetzen	besetzt	V;IND;PRS;2;SG
+besetzen	besetzt	V;IND;PRS;3;SG
+besetzen	besetzt	V.PTCP;PST
+besetzen	besetz	V;IMP;2;SG
+entsinnen	entsannen	V;IND;PST;1;PL
+entsinnen	entsannen	V;IND;PST;3;PL
+entsinnen	entsännen	V;SBJV;PST;1;PL
+entsinnen	entsännen	V;SBJV;PST;3;PL
+entsinnen	entsännest	V;SBJV;PST;2;SG
+entsinnen	entsännet	V;SBJV;PST;2;PL
+entsinnen	entsänne	V;SBJV;PST;1;SG
+entsinnen	entsänne	V;SBJV;PST;3;SG
+entsinnen	entsannst	V;IND;PST;2;SG
+entsinnen	entsannt	V;IND;PST;2;PL
+entsinnen	entsann	V;IND;PST;1;SG
+entsinnen	entsann	V;IND;PST;3;SG
+entsinnen	entsinnend	V.PTCP;PRS
+entsinnen	entsinnen	V;IND;PRS;1;PL
+entsinnen	entsinnen	V;IND;PRS;3;PL
+entsinnen	entsinnen	V;NFIN
+entsinnen	entsinnen	V;SBJV;PRS;1;PL
+entsinnen	entsinnen	V;SBJV;PRS;3;PL
+entsinnen	entsinnest	V;SBJV;PRS;2;SG
+entsinnen	entsinnet	V;SBJV;PRS;2;PL
+entsinnen	entsinne	V;IND;PRS;1;SG
+entsinnen	entsinne	V;SBJV;PRS;1;SG
+entsinnen	entsinne	V;SBJV;PRS;3;SG
+entsinnen	entsinnst	V;IND;PRS;2;SG
+entsinnen	entsinnt	V;IMP;2;PL
+entsinnen	entsinnt	V;IND;PRS;2;PL
+entsinnen	entsinnt	V;IND;PRS;3;SG
+entsinnen	entsinn	V;IMP;2;SG
+entsinnen	entsonnen	V.PTCP;PST
+reimen	gereimt	V.PTCP;PST
+reimen	reimend	V.PTCP;PRS
+reimen	reimen	V;IND;PRS;1;PL
+reimen	reimen	V;IND;PRS;3;PL
+reimen	reimen	V;NFIN
+reimen	reimen	V;SBJV;PRS;1;PL
+reimen	reimen	V;SBJV;PRS;3;PL
+reimen	reimest	V;SBJV;PRS;2;SG
+reimen	reimet	V;SBJV;PRS;2;PL
+reimen	reime	V;IND;PRS;1;SG
+reimen	reime	V;SBJV;PRS;1;SG
+reimen	reime	V;SBJV;PRS;3;SG
+reimen	reimst	V;IND;PRS;2;SG
+reimen	reimten	V;IND;PST;1;PL
+reimen	reimten	V;IND;PST;3;PL
+reimen	reimten	V;SBJV;PST;1;PL
+reimen	reimten	V;SBJV;PST;3;PL
+reimen	reimtest	V;IND;PST;2;SG
+reimen	reimtest	V;SBJV;PST;2;SG
+reimen	reimtet	V;IND;PST;2;PL
+reimen	reimtet	V;SBJV;PST;2;PL
+reimen	reimte	V;IND;PST;1;SG
+reimen	reimte	V;IND;PST;3;SG
+reimen	reimte	V;SBJV;PST;1;SG
+reimen	reimte	V;SBJV;PST;3;SG
+reimen	reimt	V;IMP;2;PL
+reimen	reimt	V;IND;PRS;2;PL
+reimen	reimt	V;IND;PRS;3;SG
+reimen	reim	V;IMP;2;SG
+betrüben	betrübend	V.PTCP;PRS
+betrüben	betrüben	V;IND;PRS;1;PL
+betrüben	betrüben	V;IND;PRS;3;PL
+betrüben	betrüben	V;NFIN
+betrüben	betrüben	V;SBJV;PRS;1;PL
+betrüben	betrüben	V;SBJV;PRS;3;PL
+betrüben	betrübest	V;SBJV;PRS;2;SG
+betrüben	betrübet	V;SBJV;PRS;2;PL
+betrüben	betrübe	V;IND;PRS;1;SG
+betrüben	betrübe	V;SBJV;PRS;1;SG
+betrüben	betrübe	V;SBJV;PRS;3;SG
+betrüben	betrübst	V;IND;PRS;2;SG
+betrüben	betrübten	V;IND;PST;1;PL
+betrüben	betrübten	V;IND;PST;3;PL
+betrüben	betrübten	V;SBJV;PST;1;PL
+betrüben	betrübten	V;SBJV;PST;3;PL
+betrüben	betrübtest	V;IND;PST;2;SG
+betrüben	betrübtest	V;SBJV;PST;2;SG
+betrüben	betrübtet	V;IND;PST;2;PL
+betrüben	betrübtet	V;SBJV;PST;2;PL
+betrüben	betrübte	V;IND;PST;1;SG
+betrüben	betrübte	V;IND;PST;3;SG
+betrüben	betrübte	V;SBJV;PST;1;SG
+betrüben	betrübte	V;SBJV;PST;3;SG
+betrüben	betrübt	V;IMP;2;PL
+betrüben	betrübt	V;IND;PRS;2;PL
+betrüben	betrübt	V;IND;PRS;3;SG
+betrüben	betrübt	V.PTCP;PST
+betrüben	betrüb	V;IMP;2;SG
+äußern	äußerest	V;SBJV;PRS;2;SG
+äußern	äußeret	V;SBJV;PRS;2;PL
+äußern	äußere	V;SBJV;PRS;1;SG
+äußern	äußere	V;SBJV;PRS;3;SG
+äußern	äußernd	V.PTCP;PRS
+äußern	äußern	V;IND;PRS;1;PL
+äußern	äußern	V;IND;PRS;3;PL
+äußern	äußern	V;NFIN
+äußern	äußern	V;SBJV;PRS;1;PL
+äußern	äußern	V;SBJV;PRS;3;PL
+äußern	äußerst	V;IND;PRS;2;SG
+äußern	äußerten	V;IND;PST;1;PL
+äußern	äußerten	V;IND;PST;3;PL
+äußern	äußerten	V;SBJV;PST;1;PL
+äußern	äußerten	V;SBJV;PST;3;PL
+äußern	äußertest	V;IND;PST;2;SG
+äußern	äußertest	V;SBJV;PST;2;SG
+äußern	äußertet	V;IND;PST;2;PL
+äußern	äußertet	V;SBJV;PST;2;PL
+äußern	äußerte	V;IND;PST;1;SG
+äußern	äußerte	V;IND;PST;3;SG
+äußern	äußerte	V;SBJV;PST;1;SG
+äußern	äußerte	V;SBJV;PST;3;SG
+äußern	äußert	V;IMP;2;PL
+äußern	äußert	V;IND;PRS;2;PL
+äußern	äußert	V;IND;PRS;3;SG
+äußern	äußre	V;IMP;2;SG
+äußern	äußre	V;IND;PRS;1;SG
+äußern	geäußert	V.PTCP;PST
+hinnehmen	hingenommen	V.PTCP;PST
+hinnehmen	hinnehmend	V.PTCP;PRS
+hinnehmen	hinnehmen	V;NFIN
+hinnehmen	nähme hin	V;SBJV;PST;1;SG
+hinnehmen	nähme hin	V;SBJV;PST;3;SG
+hinnehmen	nahmen hin	V;IND;PST;1;PL
+hinnehmen	nahmen hin	V;IND;PST;3;PL
+hinnehmen	nähmen hin	V;SBJV;PST;1;PL
+hinnehmen	nähmen hin	V;SBJV;PST;3;PL
+hinnehmen	nähmest hin	V;SBJV;PST;2;SG
+hinnehmen	nähmet hin	V;SBJV;PST;2;PL
+hinnehmen	nahm hin	V;IND;PST;1;SG
+hinnehmen	nahm hin	V;IND;PST;3;SG
+hinnehmen	nahmst hin	V;IND;PST;2;SG
+hinnehmen	nahmt hin	V;IND;PST;2;PL
+hinnehmen	nehme hin	V;IND;PRS;1;SG
+hinnehmen	nehme hin	V;SBJV;PRS;1;SG
+hinnehmen	nehme hin	V;SBJV;PRS;3;SG
+hinnehmen	nehmen hin	V;IND;PRS;1;PL
+hinnehmen	nehmen hin	V;IND;PRS;3;PL
+hinnehmen	nehmen hin	V;SBJV;PRS;1;PL
+hinnehmen	nehmen hin	V;SBJV;PRS;3;PL
+hinnehmen	nehmest hin	V;SBJV;PRS;2;SG
+hinnehmen	nehmet hin	V;SBJV;PRS;2;PL
+hinnehmen	nehmt hin	V;IMP;2;PL
+hinnehmen	nehmt hin	V;IND;PRS;2;PL
+hinnehmen	nimm hin	V;IMP;2;SG
+hinnehmen	nimmst hin	V;IND;PRS;2;SG
+hinnehmen	nimmt hin	V;IND;PRS;3;SG
+lenken	gelenkt	V.PTCP;PST
+lenken	lenkend	V.PTCP;PRS
+lenken	lenken	V;IND;PRS;1;PL
+lenken	lenken	V;IND;PRS;3;PL
+lenken	lenken	V;NFIN
+lenken	lenken	V;SBJV;PRS;1;PL
+lenken	lenken	V;SBJV;PRS;3;PL
+lenken	lenkest	V;SBJV;PRS;2;SG
+lenken	lenket	V;SBJV;PRS;2;PL
+lenken	lenke	V;IND;PRS;1;SG
+lenken	lenke	V;SBJV;PRS;1;SG
+lenken	lenke	V;SBJV;PRS;3;SG
+lenken	lenkst	V;IND;PRS;2;SG
+lenken	lenkten	V;IND;PST;1;PL
+lenken	lenkten	V;IND;PST;3;PL
+lenken	lenkten	V;SBJV;PST;1;PL
+lenken	lenkten	V;SBJV;PST;3;PL
+lenken	lenktest	V;IND;PST;2;SG
+lenken	lenktest	V;SBJV;PST;2;SG
+lenken	lenktet	V;IND;PST;2;PL
+lenken	lenktet	V;SBJV;PST;2;PL
+lenken	lenkte	V;IND;PST;1;SG
+lenken	lenkte	V;IND;PST;3;SG
+lenken	lenkte	V;SBJV;PST;1;SG
+lenken	lenkte	V;SBJV;PST;3;SG
+lenken	lenkt	V;IMP;2;PL
+lenken	lenkt	V;IND;PRS;2;PL
+lenken	lenkt	V;IND;PRS;3;SG
+lenken	lenk	V;IMP;2;SG
+traben	getrabt	V.PTCP;PST
+traben	trabend	V.PTCP;PRS
+traben	traben	V;IND;PRS;1;PL
+traben	traben	V;IND;PRS;3;PL
+traben	traben	V;NFIN
+traben	traben	V;SBJV;PRS;1;PL
+traben	traben	V;SBJV;PRS;3;PL
+traben	trabest	V;SBJV;PRS;2;SG
+traben	trabet	V;SBJV;PRS;2;PL
+traben	trabe	V;IND;PRS;1;SG
+traben	trabe	V;SBJV;PRS;1;SG
+traben	trabe	V;SBJV;PRS;3;SG
+traben	trabst	V;IND;PRS;2;SG
+traben	trabten	V;IND;PST;1;PL
+traben	trabten	V;IND;PST;3;PL
+traben	trabten	V;SBJV;PST;1;PL
+traben	trabten	V;SBJV;PST;3;PL
+traben	trabtest	V;IND;PST;2;SG
+traben	trabtest	V;SBJV;PST;2;SG
+traben	trabtet	V;IND;PST;2;PL
+traben	trabtet	V;SBJV;PST;2;PL
+traben	trabte	V;IND;PST;1;SG
+traben	trabte	V;IND;PST;3;SG
+traben	trabte	V;SBJV;PST;1;SG
+traben	trabte	V;SBJV;PST;3;SG
+traben	trabt	V;IMP;2;PL
+traben	trabt	V;IND;PRS;2;PL
+traben	trabt	V;IND;PRS;3;SG
+traben	trab	V;IMP;2;SG
+kommen	gekommen	V.PTCP;PST
+kommen	kamen	V;IND;PST;1;PL
+kommen	kamen	V;IND;PST;3;PL
+kommen	kämen	V;SBJV;PST;1;PL
+kommen	kämen	V;SBJV;PST;3;PL
+kommen	kämest	V;SBJV;PST;2;SG
+kommen	kämet	V;SBJV;PST;2;PL
+kommen	käme	V;SBJV;PST;1;SG
+kommen	käme	V;SBJV;PST;3;SG
+kommen	kamst	V;IND;PST;2;SG
+kommen	kamt	V;IND;PST;2;PL
+kommen	kam	V;IND;PST;1;SG
+kommen	kam	V;IND;PST;3;SG
+kommen	kommend	V.PTCP;PRS
+kommen	kommen	V;IND;PRS;1;PL
+kommen	kommen	V;IND;PRS;3;PL
+kommen	kommen	V;NFIN
+kommen	kommen	V;SBJV;PRS;1;PL
+kommen	kommen	V;SBJV;PRS;3;PL
+kommen	kommest	V;SBJV;PRS;2;SG
+kommen	kommet	V;SBJV;PRS;2;PL
+kommen	komme	V;IND;PRS;1;SG
+kommen	komme	V;SBJV;PRS;1;SG
+kommen	komme	V;SBJV;PRS;3;SG
+kommen	kommst	V;IND;PRS;2;SG
+kommen	kommt	V;IND;PRS;2;PL
+kommen	kommt	V;IND;PRS;3;SG
+müffeln	gemüffelt	V.PTCP;PST
+müffeln	müffelest	V;SBJV;PRS;2;SG
+müffeln	müffelet	V;SBJV;PRS;2;PL
+müffeln	müffele	V;SBJV;PRS;1;SG
+müffeln	müffele	V;SBJV;PRS;3;SG
+müffeln	müffelnd	V.PTCP;PRS
+müffeln	müffeln	V;IND;PRS;1;PL
+müffeln	müffeln	V;IND;PRS;3;PL
+müffeln	müffeln	V;NFIN
+müffeln	müffeln	V;SBJV;PRS;1;PL
+müffeln	müffeln	V;SBJV;PRS;3;PL
+müffeln	müffelst	V;IND;PRS;2;SG
+müffeln	müffelten	V;IND;PST;1;PL
+müffeln	müffelten	V;IND;PST;3;PL
+müffeln	müffelten	V;SBJV;PST;1;PL
+müffeln	müffelten	V;SBJV;PST;3;PL
+müffeln	müffeltest	V;IND;PST;2;SG
+müffeln	müffeltest	V;SBJV;PST;2;SG
+müffeln	müffeltet	V;IND;PST;2;PL
+müffeln	müffeltet	V;SBJV;PST;2;PL
+müffeln	müffelte	V;IND;PST;1;SG
+müffeln	müffelte	V;IND;PST;3;SG
+müffeln	müffelte	V;SBJV;PST;1;SG
+müffeln	müffelte	V;SBJV;PST;3;SG
+müffeln	müffelt	V;IMP;2;PL
+müffeln	müffelt	V;IND;PRS;2;PL
+müffeln	müffelt	V;IND;PRS;3;SG
+müffeln	müffle	V;IMP;2;SG
+müffeln	müffle	V;IND;PRS;1;SG
+bessern	besserest	V;SBJV;PRS;2;SG
+bessern	besseret	V;SBJV;PRS;2;PL
+bessern	bessere	V;SBJV;PRS;1;SG
+bessern	bessere	V;SBJV;PRS;3;SG
+bessern	bessernd	V.PTCP;PRS
+bessern	bessern	V;IND;PRS;1;PL
+bessern	bessern	V;IND;PRS;3;PL
+bessern	bessern	V;NFIN
+bessern	bessern	V;SBJV;PRS;1;PL
+bessern	bessern	V;SBJV;PRS;3;PL
+bessern	besserst	V;IND;PRS;2;SG
+bessern	besserten	V;IND;PST;1;PL
+bessern	besserten	V;IND;PST;3;PL
+bessern	besserten	V;SBJV;PST;1;PL
+bessern	besserten	V;SBJV;PST;3;PL
+bessern	bessertest	V;IND;PST;2;SG
+bessern	bessertest	V;SBJV;PST;2;SG
+bessern	bessertet	V;IND;PST;2;PL
+bessern	bessertet	V;SBJV;PST;2;PL
+bessern	besserte	V;IND;PST;1;SG
+bessern	besserte	V;IND;PST;3;SG
+bessern	besserte	V;SBJV;PST;1;SG
+bessern	besserte	V;SBJV;PST;3;SG
+bessern	bessert	V;IMP;2;PL
+bessern	bessert	V;IND;PRS;2;PL
+bessern	bessert	V;IND;PRS;3;SG
+bessern	bessre	V;IMP;2;SG
+bessern	bessre	V;IND;PRS;1;SG
+bessern	gebessert	V.PTCP;PST
+katapultieren	katapultierend	V.PTCP;PRS
+katapultieren	katapultieren	V;IND;PRS;1;PL
+katapultieren	katapultieren	V;IND;PRS;3;PL
+katapultieren	katapultieren	V;NFIN
+katapultieren	katapultieren	V;SBJV;PRS;1;PL
+katapultieren	katapultieren	V;SBJV;PRS;3;PL
+katapultieren	katapultierest	V;SBJV;PRS;2;SG
+katapultieren	katapultieret	V;SBJV;PRS;2;PL
+katapultieren	katapultiere	V;IND;PRS;1;SG
+katapultieren	katapultiere	V;SBJV;PRS;1;SG
+katapultieren	katapultiere	V;SBJV;PRS;3;SG
+katapultieren	katapultierst	V;IND;PRS;2;SG
+katapultieren	katapultierten	V;IND;PST;1;PL
+katapultieren	katapultierten	V;IND;PST;3;PL
+katapultieren	katapultierten	V;SBJV;PST;1;PL
+katapultieren	katapultierten	V;SBJV;PST;3;PL
+katapultieren	katapultiertest	V;IND;PST;2;SG
+katapultieren	katapultiertest	V;SBJV;PST;2;SG
+katapultieren	katapultiertet	V;IND;PST;2;PL
+katapultieren	katapultiertet	V;SBJV;PST;2;PL
+katapultieren	katapultierte	V;IND;PST;1;SG
+katapultieren	katapultierte	V;IND;PST;3;SG
+katapultieren	katapultierte	V;SBJV;PST;1;SG
+katapultieren	katapultierte	V;SBJV;PST;3;SG
+katapultieren	katapultiert	V;IMP;2;PL
+katapultieren	katapultiert	V;IND;PRS;2;PL
+katapultieren	katapultiert	V;IND;PRS;3;SG
+katapultieren	katapultiert	V.PTCP;PST
+katapultieren	katapultier	V;IMP;2;SG
+erniedrigen	erniedrigend	V.PTCP;PRS
+erniedrigen	erniedrigen	V;IND;PRS;1;PL
+erniedrigen	erniedrigen	V;IND;PRS;3;PL
+erniedrigen	erniedrigen	V;NFIN
+erniedrigen	erniedrigen	V;SBJV;PRS;1;PL
+erniedrigen	erniedrigen	V;SBJV;PRS;3;PL
+erniedrigen	erniedrigest	V;SBJV;PRS;2;SG
+erniedrigen	erniedriget	V;SBJV;PRS;2;PL
+erniedrigen	erniedrige	V;IND;PRS;1;SG
+erniedrigen	erniedrige	V;SBJV;PRS;1;SG
+erniedrigen	erniedrige	V;SBJV;PRS;3;SG
+erniedrigen	erniedrigst	V;IND;PRS;2;SG
+erniedrigen	erniedrigten	V;IND;PST;1;PL
+erniedrigen	erniedrigten	V;IND;PST;3;PL
+erniedrigen	erniedrigten	V;SBJV;PST;1;PL
+erniedrigen	erniedrigten	V;SBJV;PST;3;PL
+erniedrigen	erniedrigtest	V;IND;PST;2;SG
+erniedrigen	erniedrigtest	V;SBJV;PST;2;SG
+erniedrigen	erniedrigtet	V;IND;PST;2;PL
+erniedrigen	erniedrigtet	V;SBJV;PST;2;PL
+erniedrigen	erniedrigte	V;IND;PST;1;SG
+erniedrigen	erniedrigte	V;IND;PST;3;SG
+erniedrigen	erniedrigte	V;SBJV;PST;1;SG
+erniedrigen	erniedrigte	V;SBJV;PST;3;SG
+erniedrigen	erniedrigt	V;IMP;2;PL
+erniedrigen	erniedrigt	V;IND;PRS;2;PL
+erniedrigen	erniedrigt	V;IND;PRS;3;SG
+erniedrigen	erniedrigt	V.PTCP;PST
+erniedrigen	erniedrig	V;IMP;2;SG
+dümpeln	dümpelest	V;SBJV;PRS;2;SG
+dümpeln	dümpelet	V;SBJV;PRS;2;PL
+dümpeln	dümpele	V;SBJV;PRS;1;SG
+dümpeln	dümpele	V;SBJV;PRS;3;SG
+dümpeln	dümpelnd	V.PTCP;PRS
+dümpeln	dümpeln	V;IND;PRS;1;PL
+dümpeln	dümpeln	V;IND;PRS;3;PL
+dümpeln	dümpeln	V;NFIN
+dümpeln	dümpeln	V;SBJV;PRS;1;PL
+dümpeln	dümpeln	V;SBJV;PRS;3;PL
+dümpeln	dümpelst	V;IND;PRS;2;SG
+dümpeln	dümpelten	V;IND;PST;1;PL
+dümpeln	dümpelten	V;IND;PST;3;PL
+dümpeln	dümpelten	V;SBJV;PST;1;PL
+dümpeln	dümpelten	V;SBJV;PST;3;PL
+dümpeln	dümpeltest	V;IND;PST;2;SG
+dümpeln	dümpeltest	V;SBJV;PST;2;SG
+dümpeln	dümpeltet	V;IND;PST;2;PL
+dümpeln	dümpeltet	V;SBJV;PST;2;PL
+dümpeln	dümpelte	V;IND;PST;1;SG
+dümpeln	dümpelte	V;IND;PST;3;SG
+dümpeln	dümpelte	V;SBJV;PST;1;SG
+dümpeln	dümpelte	V;SBJV;PST;3;SG
+dümpeln	dümpelt	V;IMP;2;PL
+dümpeln	dümpelt	V;IND;PRS;2;PL
+dümpeln	dümpelt	V;IND;PRS;3;SG
+dümpeln	dümple	V;IMP;2;SG
+dümpeln	dümple	V;IND;PRS;1;SG
+dümpeln	gedümpelt	V.PTCP;PST
+lärmen	gelärmt	V.PTCP;PST
+lärmen	lärmend	V.PTCP;PRS
+lärmen	lärmen	V;IND;PRS;1;PL
+lärmen	lärmen	V;IND;PRS;3;PL
+lärmen	lärmen	V;NFIN
+lärmen	lärmen	V;SBJV;PRS;1;PL
+lärmen	lärmen	V;SBJV;PRS;3;PL
+lärmen	lärmest	V;SBJV;PRS;2;SG
+lärmen	lärmet	V;SBJV;PRS;2;PL
+lärmen	lärme	V;IND;PRS;1;SG
+lärmen	lärme	V;SBJV;PRS;1;SG
+lärmen	lärme	V;SBJV;PRS;3;SG
+lärmen	lärmst	V;IND;PRS;2;SG
+lärmen	lärmten	V;IND;PST;1;PL
+lärmen	lärmten	V;IND;PST;3;PL
+lärmen	lärmten	V;SBJV;PST;1;PL
+lärmen	lärmten	V;SBJV;PST;3;PL
+lärmen	lärmtest	V;IND;PST;2;SG
+lärmen	lärmtest	V;SBJV;PST;2;SG
+lärmen	lärmtet	V;IND;PST;2;PL
+lärmen	lärmtet	V;SBJV;PST;2;PL
+lärmen	lärmte	V;IND;PST;1;SG
+lärmen	lärmte	V;IND;PST;3;SG
+lärmen	lärmte	V;SBJV;PST;1;SG
+lärmen	lärmte	V;SBJV;PST;3;SG
+lärmen	lärmt	V;IMP;2;PL
+lärmen	lärmt	V;IND;PRS;2;PL
+lärmen	lärmt	V;IND;PRS;3;SG
+lärmen	lärm	V;IMP;2;SG
+beilegen	beigelegt	V.PTCP;PST
+beilegen	beilegend	V.PTCP;PRS
+beilegen	beilegen	V;NFIN
+beilegen	leg bei	V;IMP;2;SG
+beilegen	lege bei	V;IND;PRS;1;SG
+beilegen	lege bei	V;SBJV;PRS;1;SG
+beilegen	lege bei	V;SBJV;PRS;3;SG
+beilegen	legen bei	V;IND;PRS;1;PL
+beilegen	legen bei	V;IND;PRS;3;PL
+beilegen	legen bei	V;SBJV;PRS;1;PL
+beilegen	legen bei	V;SBJV;PRS;3;PL
+beilegen	legest bei	V;SBJV;PRS;2;SG
+beilegen	leget bei	V;SBJV;PRS;2;PL
+beilegen	legst bei	V;IND;PRS;2;SG
+beilegen	legt bei	V;IMP;2;PL
+beilegen	legt bei	V;IND;PRS;2;PL
+beilegen	legt bei	V;IND;PRS;3;SG
+beilegen	legte bei	V;IND;PST;1;SG
+beilegen	legte bei	V;IND;PST;3;SG
+beilegen	legte bei	V;SBJV;PST;1;SG
+beilegen	legte bei	V;SBJV;PST;3;SG
+beilegen	legten bei	V;IND;PST;1;PL
+beilegen	legten bei	V;IND;PST;3;PL
+beilegen	legten bei	V;SBJV;PST;1;PL
+beilegen	legten bei	V;SBJV;PST;3;PL
+beilegen	legtest bei	V;IND;PST;2;SG
+beilegen	legtest bei	V;SBJV;PST;2;SG
+beilegen	legtet bei	V;IND;PST;2;PL
+beilegen	legtet bei	V;SBJV;PST;2;PL
+teilen	geteilt	V.PTCP;PST
+teilen	teilend	V.PTCP;PRS
+teilen	teilen	V;IND;PRS;1;PL
+teilen	teilen	V;IND;PRS;3;PL
+teilen	teilen	V;NFIN
+teilen	teilen	V;SBJV;PRS;1;PL
+teilen	teilen	V;SBJV;PRS;3;PL
+teilen	teilest	V;SBJV;PRS;2;SG
+teilen	teilet	V;SBJV;PRS;2;PL
+teilen	teile	V;IND;PRS;1;SG
+teilen	teile	V;SBJV;PRS;1;SG
+teilen	teile	V;SBJV;PRS;3;SG
+teilen	teilst	V;IND;PRS;2;SG
+teilen	teilten	V;IND;PST;1;PL
+teilen	teilten	V;IND;PST;3;PL
+teilen	teilten	V;SBJV;PST;1;PL
+teilen	teilten	V;SBJV;PST;3;PL
+teilen	teiltest	V;IND;PST;2;SG
+teilen	teiltest	V;SBJV;PST;2;SG
+teilen	teiltet	V;IND;PST;2;PL
+teilen	teiltet	V;SBJV;PST;2;PL
+teilen	teilte	V;IND;PST;1;SG
+teilen	teilte	V;IND;PST;3;SG
+teilen	teilte	V;SBJV;PST;1;SG
+teilen	teilte	V;SBJV;PST;3;SG
+teilen	teilt	V;IND;PRS;2;PL
+teilen	teilt	V;IND;PRS;3;SG
+Sinn machen	machen Sinn	V;IND;PRS;1;PL
+Sinn machen	machen Sinn	V;IND;PRS;3;PL
+Sinn machen	machen Sinn	V;SBJV;PRS;1;PL
+Sinn machen	machen Sinn	V;SBJV;PRS;3;PL
+Sinn machen	mache Sinn	V;IND;PRS;1;SG
+Sinn machen	mache Sinn	V;SBJV;PRS;1;SG
+Sinn machen	mache Sinn	V;SBJV;PRS;3;SG
+Sinn machen	machest Sinn	V;SBJV;PRS;2;SG
+Sinn machen	machet Sinn	V;SBJV;PRS;2;PL
+Sinn machen	mach Sinn	V;IMP;2;SG
+Sinn machen	machst Sinn	V;IND;PRS;2;SG
+Sinn machen	machten Sinn	V;IND;PST;1;PL
+Sinn machen	machten Sinn	V;IND;PST;3;PL
+Sinn machen	machten Sinn	V;SBJV;PST;1;PL
+Sinn machen	machten Sinn	V;SBJV;PST;3;PL
+Sinn machen	machte Sinn	V;IND;PST;1;SG
+Sinn machen	machte Sinn	V;IND;PST;3;SG
+Sinn machen	machte Sinn	V;SBJV;PST;1;SG
+Sinn machen	machte Sinn	V;SBJV;PST;3;SG
+Sinn machen	machtest Sinn	V;IND;PST;2;SG
+Sinn machen	machtest Sinn	V;SBJV;PST;2;SG
+Sinn machen	machtet Sinn	V;IND;PST;2;PL
+Sinn machen	machtet Sinn	V;SBJV;PST;2;PL
+Sinn machen	macht Sinn	V;IMP;2;PL
+Sinn machen	macht Sinn	V;IND;PRS;2;PL
+Sinn machen	macht Sinn	V;IND;PRS;3;SG
+Sinn machen	Sinn gemacht	V.PTCP;PST
+Sinn machen	Sinn machend	V.PTCP;PRS
+Sinn machen	Sinn machen	V;NFIN
+saufen	gesoffen	V.PTCP;PST
+saufen	saufend	V.PTCP;PRS
+saufen	saufen	V;IND;PRS;1;PL
+saufen	saufen	V;IND;PRS;3;PL
+saufen	saufen	V;NFIN
+saufen	saufen	V;SBJV;PRS;1;PL
+saufen	saufen	V;SBJV;PRS;3;PL
+saufen	saufest	V;SBJV;PRS;2;SG
+saufen	saufet	V;SBJV;PRS;2;PL
+saufen	saufe	V;IND;PRS;1;SG
+saufen	saufe	V;SBJV;PRS;1;SG
+saufen	saufe	V;SBJV;PRS;3;SG
+saufen	säufst	V;IND;PRS;2;SG
+saufen	sauft	V;IND;PRS;2;PL
+saufen	säuft	V;IND;PRS;3;SG
+saufen	soffen	V;IND;PST;1;PL
+saufen	soffen	V;IND;PST;3;PL
+saufen	söffen	V;SBJV;PST;1;PL
+saufen	söffen	V;SBJV;PST;3;PL
+saufen	söffest	V;SBJV;PST;2;SG
+saufen	söffet	V;SBJV;PST;2;PL
+saufen	söffe	V;SBJV;PST;1;SG
+saufen	söffe	V;SBJV;PST;3;SG
+saufen	soffst	V;IND;PST;2;SG
+saufen	sofft	V;IND;PST;2;PL
+saufen	soff	V;IND;PST;1;SG
+saufen	soff	V;IND;PST;3;SG
+vergrößern	vergrößerest	V;SBJV;PRS;2;SG
+vergrößern	vergrößeret	V;SBJV;PRS;2;PL
+vergrößern	vergrößere	V;SBJV;PRS;1;SG
+vergrößern	vergrößere	V;SBJV;PRS;3;SG
+vergrößern	vergrößernd	V.PTCP;PRS
+vergrößern	vergrößern	V;IND;PRS;1;PL
+vergrößern	vergrößern	V;IND;PRS;3;PL
+vergrößern	vergrößern	V;NFIN
+vergrößern	vergrößern	V;SBJV;PRS;1;PL
+vergrößern	vergrößern	V;SBJV;PRS;3;PL
+vergrößern	vergrößerst	V;IND;PRS;2;SG
+vergrößern	vergrößerten	V;IND;PST;1;PL
+vergrößern	vergrößerten	V;IND;PST;3;PL
+vergrößern	vergrößerten	V;SBJV;PST;1;PL
+vergrößern	vergrößerten	V;SBJV;PST;3;PL
+vergrößern	vergrößertest	V;IND;PST;2;SG
+vergrößern	vergrößertest	V;SBJV;PST;2;SG
+vergrößern	vergrößertet	V;IND;PST;2;PL
+vergrößern	vergrößertet	V;SBJV;PST;2;PL
+vergrößern	vergrößerte	V;IND;PST;1;SG
+vergrößern	vergrößerte	V;IND;PST;3;SG
+vergrößern	vergrößerte	V;SBJV;PST;1;SG
+vergrößern	vergrößerte	V;SBJV;PST;3;SG
+vergrößern	vergrößert	V;IMP;2;PL
+vergrößern	vergrößert	V;IND;PRS;2;PL
+vergrößern	vergrößert	V;IND;PRS;3;SG
+vergrößern	vergrößert	V.PTCP;PST
+vergrößern	vergrößre	V;IMP;2;SG
+vergrößern	vergrößre	V;IND;PRS;1;SG
+verschmähen	verschmähend	V.PTCP;PRS
+verschmähen	verschmähen	V;IND;PRS;1;PL
+verschmähen	verschmähen	V;IND;PRS;3;PL
+verschmähen	verschmähen	V;NFIN
+verschmähen	verschmähen	V;SBJV;PRS;1;PL
+verschmähen	verschmähen	V;SBJV;PRS;3;PL
+verschmähen	verschmähest	V;SBJV;PRS;2;SG
+verschmähen	verschmähet	V;SBJV;PRS;2;PL
+verschmähen	verschmähe	V;IND;PRS;1;SG
+verschmähen	verschmähe	V;SBJV;PRS;1;SG
+verschmähen	verschmähe	V;SBJV;PRS;3;SG
+verschmähen	verschmähst	V;IND;PRS;2;SG
+verschmähen	verschmähten	V;IND;PST;1;PL
+verschmähen	verschmähten	V;IND;PST;3;PL
+verschmähen	verschmähten	V;SBJV;PST;1;PL
+verschmähen	verschmähten	V;SBJV;PST;3;PL
+verschmähen	verschmähtest	V;IND;PST;2;SG
+verschmähen	verschmähtest	V;SBJV;PST;2;SG
+verschmähen	verschmähtet	V;IND;PST;2;PL
+verschmähen	verschmähtet	V;SBJV;PST;2;PL
+verschmähen	verschmähte	V;IND;PST;1;SG
+verschmähen	verschmähte	V;IND;PST;3;SG
+verschmähen	verschmähte	V;SBJV;PST;1;SG
+verschmähen	verschmähte	V;SBJV;PST;3;SG
+verschmähen	verschmäht	V;IMP;2;PL
+verschmähen	verschmäht	V;IND;PRS;2;PL
+verschmähen	verschmäht	V;IND;PRS;3;SG
+verschmähen	verschmäht	V.PTCP;PST
+verschmähen	verschmäh	V;IMP;2;SG
+dublieren	dublierend	V.PTCP;PRS
+dublieren	dublieren	V;IND;PRS;1;PL
+dublieren	dublieren	V;IND;PRS;3;PL
+dublieren	dublieren	V;NFIN
+dublieren	dublieren	V;SBJV;PRS;1;PL
+dublieren	dublieren	V;SBJV;PRS;3;PL
+dublieren	dublierest	V;SBJV;PRS;2;SG
+dublieren	dublieret	V;SBJV;PRS;2;PL
+dublieren	dubliere	V;IND;PRS;1;SG
+dublieren	dubliere	V;SBJV;PRS;1;SG
+dublieren	dubliere	V;SBJV;PRS;3;SG
+dublieren	dublierst	V;IND;PRS;2;SG
+dublieren	dublierten	V;IND;PST;1;PL
+dublieren	dublierten	V;IND;PST;3;PL
+dublieren	dublierten	V;SBJV;PST;1;PL
+dublieren	dublierten	V;SBJV;PST;3;PL
+dublieren	dubliertest	V;IND;PST;2;SG
+dublieren	dubliertest	V;SBJV;PST;2;SG
+dublieren	dubliertet	V;IND;PST;2;PL
+dublieren	dubliertet	V;SBJV;PST;2;PL
+dublieren	dublierte	V;IND;PST;1;SG
+dublieren	dublierte	V;IND;PST;3;SG
+dublieren	dublierte	V;SBJV;PST;1;SG
+dublieren	dublierte	V;SBJV;PST;3;SG
+dublieren	dubliert	V;IMP;2;PL
+dublieren	dubliert	V;IND;PRS;2;PL
+dublieren	dubliert	V;IND;PRS;3;SG
+dublieren	dubliert	V.PTCP;PST
+dublieren	dublier	V;IMP;2;SG
+tauchen	getaucht	V.PTCP;PST
+tauchen	tauchend	V.PTCP;PRS
+tauchen	tauchen	V;IND;PRS;1;PL
+tauchen	tauchen	V;IND;PRS;3;PL
+tauchen	tauchen	V;NFIN
+tauchen	tauchen	V;SBJV;PRS;1;PL
+tauchen	tauchen	V;SBJV;PRS;3;PL
+tauchen	tauchest	V;SBJV;PRS;2;SG
+tauchen	tauchet	V;SBJV;PRS;2;PL
+tauchen	tauche	V;IND;PRS;1;SG
+tauchen	tauche	V;SBJV;PRS;1;SG
+tauchen	tauche	V;SBJV;PRS;3;SG
+tauchen	tauchst	V;IND;PRS;2;SG
+tauchen	tauchten	V;IND;PST;1;PL
+tauchen	tauchten	V;IND;PST;3;PL
+tauchen	tauchten	V;SBJV;PST;1;PL
+tauchen	tauchten	V;SBJV;PST;3;PL
+tauchen	tauchtest	V;IND;PST;2;SG
+tauchen	tauchtest	V;SBJV;PST;2;SG
+tauchen	tauchtet	V;IND;PST;2;PL
+tauchen	tauchtet	V;SBJV;PST;2;PL
+tauchen	tauchte	V;IND;PST;1;SG
+tauchen	tauchte	V;IND;PST;3;SG
+tauchen	tauchte	V;SBJV;PST;1;SG
+tauchen	tauchte	V;SBJV;PST;3;SG
+tauchen	taucht	V;IND;PRS;2;PL
+tauchen	taucht	V;IND;PRS;3;SG
+übermitteln	übermittelest	V;SBJV;PRS;2;SG
+übermitteln	übermittelet	V;SBJV;PRS;2;PL
+übermitteln	übermittele	V;SBJV;PRS;1;SG
+übermitteln	übermittele	V;SBJV;PRS;3;SG
+übermitteln	übermittelnd	V.PTCP;PRS
+übermitteln	übermitteln	V;IND;PRS;1;PL
+übermitteln	übermitteln	V;IND;PRS;3;PL
+übermitteln	übermitteln	V;NFIN
+übermitteln	übermitteln	V;SBJV;PRS;1;PL
+übermitteln	übermitteln	V;SBJV;PRS;3;PL
+übermitteln	übermittelst	V;IND;PRS;2;SG
+übermitteln	übermittelten	V;IND;PST;1;PL
+übermitteln	übermittelten	V;IND;PST;3;PL
+übermitteln	übermittelten	V;SBJV;PST;1;PL
+übermitteln	übermittelten	V;SBJV;PST;3;PL
+übermitteln	übermitteltest	V;IND;PST;2;SG
+übermitteln	übermitteltest	V;SBJV;PST;2;SG
+übermitteln	übermitteltet	V;IND;PST;2;PL
+übermitteln	übermitteltet	V;SBJV;PST;2;PL
+übermitteln	übermittelte	V;IND;PST;1;SG
+übermitteln	übermittelte	V;IND;PST;3;SG
+übermitteln	übermittelte	V;SBJV;PST;1;SG
+übermitteln	übermittelte	V;SBJV;PST;3;SG
+übermitteln	übermittelt	V;IMP;2;PL
+übermitteln	übermittelt	V;IND;PRS;2;PL
+übermitteln	übermittelt	V;IND;PRS;3;SG
+übermitteln	übermittelt	V.PTCP;PST
+übermitteln	übermittle	V;IMP;2;SG
+übermitteln	übermittle	V;IND;PRS;1;SG
+dämpfen	dämpfend	V.PTCP;PRS
+dämpfen	dämpfen	V;IND;PRS;1;PL
+dämpfen	dämpfen	V;IND;PRS;3;PL
+dämpfen	dämpfen	V;NFIN
+dämpfen	dämpfen	V;SBJV;PRS;1;PL
+dämpfen	dämpfen	V;SBJV;PRS;3;PL
+dämpfen	dämpfest	V;SBJV;PRS;2;SG
+dämpfen	dämpfet	V;SBJV;PRS;2;PL
+dämpfen	dämpfe	V;IND;PRS;1;SG
+dämpfen	dämpfe	V;SBJV;PRS;1;SG
+dämpfen	dämpfe	V;SBJV;PRS;3;SG
+dämpfen	dämpfst	V;IND;PRS;2;SG
+dämpfen	dämpften	V;IND;PST;1;PL
+dämpfen	dämpften	V;IND;PST;3;PL
+dämpfen	dämpften	V;SBJV;PST;1;PL
+dämpfen	dämpften	V;SBJV;PST;3;PL
+dämpfen	dämpftest	V;IND;PST;2;SG
+dämpfen	dämpftest	V;SBJV;PST;2;SG
+dämpfen	dämpftet	V;IND;PST;2;PL
+dämpfen	dämpftet	V;SBJV;PST;2;PL
+dämpfen	dämpfte	V;IND;PST;1;SG
+dämpfen	dämpfte	V;IND;PST;3;SG
+dämpfen	dämpfte	V;SBJV;PST;1;SG
+dämpfen	dämpfte	V;SBJV;PST;3;SG
+dämpfen	dämpft	V;IMP;2;PL
+dämpfen	dämpft	V;IND;PRS;2;PL
+dämpfen	dämpft	V;IND;PRS;3;SG
+dämpfen	dämpf	V;IMP;2;SG
+dämpfen	gedämpft	V.PTCP;PST
+berichten	berichtend	V.PTCP;PRS
+berichten	berichten	V;IND;PRS;1;PL
+berichten	berichten	V;IND;PRS;3;PL
+berichten	berichten	V;NFIN
+berichten	berichten	V;SBJV;PRS;1;PL
+berichten	berichten	V;SBJV;PRS;3;PL
+berichten	berichtest	V;IND;PRS;2;SG
+berichten	berichtest	V;SBJV;PRS;2;SG
+berichten	berichteten	V;IND;PST;1;PL
+berichten	berichteten	V;IND;PST;3;PL
+berichten	berichteten	V;SBJV;PST;1;PL
+berichten	berichteten	V;SBJV;PST;3;PL
+berichten	berichtetest	V;IND;PST;2;SG
+berichten	berichtetest	V;SBJV;PST;2;SG
+berichten	berichtetet	V;IND;PST;2;PL
+berichten	berichtetet	V;SBJV;PST;2;PL
+berichten	berichtete	V;IND;PST;1;SG
+berichten	berichtete	V;IND;PST;3;SG
+berichten	berichtete	V;SBJV;PST;1;SG
+berichten	berichtete	V;SBJV;PST;3;SG
+berichten	berichtet	V;IMP;2;PL
+berichten	berichtet	V;IND;PRS;2;PL
+berichten	berichtet	V;IND;PRS;3;SG
+berichten	berichtet	V.PTCP;PST
+berichten	berichtet	V;SBJV;PRS;2;PL
+berichten	berichte	V;IMP;2;SG
+berichten	berichte	V;IND;PRS;1;SG
+berichten	berichte	V;SBJV;PRS;1;SG
+berichten	berichte	V;SBJV;PRS;3;SG
+erscheinen	erscheinend	V.PTCP;PRS
+erscheinen	erscheinen	V;IND;PRS;1;PL
+erscheinen	erscheinen	V;IND;PRS;3;PL
+erscheinen	erscheinen	V;NFIN
+erscheinen	erscheinen	V;SBJV;PRS;1;PL
+erscheinen	erscheinen	V;SBJV;PRS;3;PL
+erscheinen	erscheinest	V;SBJV;PRS;2;SG
+erscheinen	erscheinet	V;SBJV;PRS;2;PL
+erscheinen	erscheine	V;IND;PRS;1;SG
+erscheinen	erscheine	V;SBJV;PRS;1;SG
+erscheinen	erscheine	V;SBJV;PRS;3;SG
+erscheinen	erscheinst	V;IND;PRS;2;SG
+erscheinen	erscheint	V;IMP;2;PL
+erscheinen	erscheint	V;IND;PRS;2;PL
+erscheinen	erscheint	V;IND;PRS;3;SG
+erscheinen	erschein	V;IMP;2;SG
+erscheinen	erschienen	V;IND;PST;1;PL
+erscheinen	erschienen	V;IND;PST;3;PL
+erscheinen	erschienen	V.PTCP;PST
+erscheinen	erschienen	V;SBJV;PST;1;PL
+erscheinen	erschienen	V;SBJV;PST;3;PL
+erscheinen	erschienest	V;SBJV;PST;2;SG
+erscheinen	erschienet	V;SBJV;PST;2;PL
+erscheinen	erschiene	V;SBJV;PST;1;SG
+erscheinen	erschiene	V;SBJV;PST;3;SG
+erscheinen	erschienst	V;IND;PST;2;SG
+erscheinen	erschient	V;IND;PST;2;PL
+erscheinen	erschien	V;IND;PST;1;SG
+erscheinen	erschien	V;IND;PST;3;SG
+rödeln	gerödelt	V.PTCP;PST
+rödeln	rödelest	V;SBJV;PRS;2;SG
+rödeln	rödelet	V;SBJV;PRS;2;PL
+rödeln	rödele	V;SBJV;PRS;1;SG
+rödeln	rödele	V;SBJV;PRS;3;SG
+rödeln	rödelnd	V.PTCP;PRS
+rödeln	rödeln	V;IND;PRS;1;PL
+rödeln	rödeln	V;IND;PRS;3;PL
+rödeln	rödeln	V;NFIN
+rödeln	rödeln	V;SBJV;PRS;1;PL
+rödeln	rödeln	V;SBJV;PRS;3;PL
+rödeln	rödelst	V;IND;PRS;2;SG
+rödeln	rödelten	V;IND;PST;1;PL
+rödeln	rödelten	V;IND;PST;3;PL
+rödeln	rödelten	V;SBJV;PST;1;PL
+rödeln	rödelten	V;SBJV;PST;3;PL
+rödeln	rödeltest	V;IND;PST;2;SG
+rödeln	rödeltest	V;SBJV;PST;2;SG
+rödeln	rödeltet	V;IND;PST;2;PL
+rödeln	rödeltet	V;SBJV;PST;2;PL
+rödeln	rödelte	V;IND;PST;1;SG
+rödeln	rödelte	V;IND;PST;3;SG
+rödeln	rödelte	V;SBJV;PST;1;SG
+rödeln	rödelte	V;SBJV;PST;3;SG
+rödeln	rödelt	V;IMP;2;PL
+rödeln	rödelt	V;IND;PRS;2;PL
+rödeln	rödelt	V;IND;PRS;3;SG
+rödeln	rödle	V;IMP;2;SG
+rödeln	rödle	V;IND;PRS;1;SG
+heilen	geheilt	V.PTCP;PST
+heilen	heilend	V.PTCP;PRS
+heilen	heilen	V;IND;PRS;1;PL
+heilen	heilen	V;IND;PRS;3;PL
+heilen	heilen	V;NFIN
+heilen	heilen	V;SBJV;PRS;1;PL
+heilen	heilen	V;SBJV;PRS;3;PL
+heilen	heilest	V;SBJV;PRS;2;SG
+heilen	heilet	V;SBJV;PRS;2;PL
+heilen	heile	V;IND;PRS;1;SG
+heilen	heile	V;SBJV;PRS;1;SG
+heilen	heile	V;SBJV;PRS;3;SG
+heilen	heilst	V;IND;PRS;2;SG
+heilen	heilten	V;IND;PST;1;PL
+heilen	heilten	V;IND;PST;3;PL
+heilen	heilten	V;SBJV;PST;1;PL
+heilen	heilten	V;SBJV;PST;3;PL
+heilen	heiltest	V;IND;PST;2;SG
+heilen	heiltest	V;SBJV;PST;2;SG
+heilen	heiltet	V;IND;PST;2;PL
+heilen	heiltet	V;SBJV;PST;2;PL
+heilen	heilte	V;IND;PST;1;SG
+heilen	heilte	V;IND;PST;3;SG
+heilen	heilte	V;SBJV;PST;1;SG
+heilen	heilte	V;SBJV;PST;3;SG
+heilen	heilt	V;IMP;2;PL
+heilen	heilt	V;IND;PRS;2;PL
+heilen	heilt	V;IND;PRS;3;SG
+heilen	heil	V;IMP;2;SG
+befolgen	befolgend	V.PTCP;PRS
+befolgen	befolgen	V;IND;PRS;1;PL
+befolgen	befolgen	V;IND;PRS;3;PL
+befolgen	befolgen	V;NFIN
+befolgen	befolgen	V;SBJV;PRS;1;PL
+befolgen	befolgen	V;SBJV;PRS;3;PL
+befolgen	befolgest	V;SBJV;PRS;2;SG
+befolgen	befolget	V;SBJV;PRS;2;PL
+befolgen	befolge	V;IND;PRS;1;SG
+befolgen	befolge	V;SBJV;PRS;1;SG
+befolgen	befolge	V;SBJV;PRS;3;SG
+befolgen	befolgst	V;IND;PRS;2;SG
+befolgen	befolgten	V;IND;PST;1;PL
+befolgen	befolgten	V;IND;PST;3;PL
+befolgen	befolgten	V;SBJV;PST;1;PL
+befolgen	befolgten	V;SBJV;PST;3;PL
+befolgen	befolgtest	V;IND;PST;2;SG
+befolgen	befolgtest	V;SBJV;PST;2;SG
+befolgen	befolgtet	V;IND;PST;2;PL
+befolgen	befolgtet	V;SBJV;PST;2;PL
+befolgen	befolgte	V;IND;PST;1;SG
+befolgen	befolgte	V;IND;PST;3;SG
+befolgen	befolgte	V;SBJV;PST;1;SG
+befolgen	befolgte	V;SBJV;PST;3;SG
+befolgen	befolgt	V;IMP;2;PL
+befolgen	befolgt	V;IND;PRS;2;PL
+befolgen	befolgt	V;IND;PRS;3;SG
+befolgen	befolgt	V.PTCP;PST
+befolgen	befolg	V;IMP;2;SG
+zugeben	gaben zu	V;IND;PST;1;PL
+zugeben	gaben zu	V;IND;PST;3;PL
+zugeben	gäben zu	V;SBJV;PST;1;PL
+zugeben	gäben zu	V;SBJV;PST;3;PL
+zugeben	gäbest zu	V;SBJV;PST;2;SG
+zugeben	gäbet zu	V;SBJV;PST;2;PL
+zugeben	gäbe zu	V;SBJV;PST;1;SG
+zugeben	gäbe zu	V;SBJV;PST;3;SG
+zugeben	gabst zu	V;IND;PST;2;SG
+zugeben	gabt zu	V;IND;PST;2;PL
+zugeben	gab zu	V;IND;PST;1;SG
+zugeben	gab zu	V;IND;PST;3;SG
+zugeben	geben zu	V;IND;PRS;1;PL
+zugeben	geben zu	V;IND;PRS;3;PL
+zugeben	geben zu	V;SBJV;PRS;1;PL
+zugeben	geben zu	V;SBJV;PRS;3;PL
+zugeben	gebest zu	V;SBJV;PRS;2;SG
+zugeben	gebet zu	V;SBJV;PRS;2;PL
+zugeben	gebe zu	V;IND;PRS;1;SG
+zugeben	gebe zu	V;SBJV;PRS;1;SG
+zugeben	gebe zu	V;SBJV;PRS;3;SG
+zugeben	gebt zu	V;IMP;2;PL
+zugeben	gebt zu	V;IND;PRS;2;PL
+zugeben	gibst zu	V;IND;PRS;2;SG
+zugeben	gibt zu	V;IND;PRS;3;SG
+zugeben	gib zu	V;IMP;2;SG
+zugeben	zugebend	V.PTCP;PRS
+zugeben	zugeben	V;NFIN
+zugeben	zugegeben	V.PTCP;PST
+kreieren	kreierend	V.PTCP;PRS
+kreieren	kreieren	V;IND;PRS;1;PL
+kreieren	kreieren	V;IND;PRS;3;PL
+kreieren	kreieren	V;NFIN
+kreieren	kreieren	V;SBJV;PRS;1;PL
+kreieren	kreieren	V;SBJV;PRS;3;PL
+kreieren	kreierest	V;SBJV;PRS;2;SG
+kreieren	kreieret	V;SBJV;PRS;2;PL
+kreieren	kreiere	V;IND;PRS;1;SG
+kreieren	kreiere	V;SBJV;PRS;1;SG
+kreieren	kreiere	V;SBJV;PRS;3;SG
+kreieren	kreierst	V;IND;PRS;2;SG
+kreieren	kreierten	V;IND;PST;1;PL
+kreieren	kreierten	V;IND;PST;3;PL
+kreieren	kreierten	V;SBJV;PST;1;PL
+kreieren	kreierten	V;SBJV;PST;3;PL
+kreieren	kreiertest	V;IND;PST;2;SG
+kreieren	kreiertest	V;SBJV;PST;2;SG
+kreieren	kreiertet	V;IND;PST;2;PL
+kreieren	kreiertet	V;SBJV;PST;2;PL
+kreieren	kreierte	V;IND;PST;1;SG
+kreieren	kreierte	V;IND;PST;3;SG
+kreieren	kreierte	V;SBJV;PST;1;SG
+kreieren	kreierte	V;SBJV;PST;3;SG
+kreieren	kreiert	V;IMP;2;PL
+kreieren	kreiert	V;IND;PRS;2;PL
+kreieren	kreiert	V;IND;PRS;3;SG
+kreieren	kreiert	V.PTCP;PST
+kreieren	kreier	V;IMP;2;SG
+fügen	fügend	V.PTCP;PRS
+fügen	fügen	V;IND;PRS;1;PL
+fügen	fügen	V;IND;PRS;3;PL
+fügen	fügen	V;NFIN
+fügen	fügen	V;SBJV;PRS;1;PL
+fügen	fügen	V;SBJV;PRS;3;PL
+fügen	fügest	V;SBJV;PRS;2;SG
+fügen	füget	V;SBJV;PRS;2;PL
+fügen	füge	V;IND;PRS;1;SG
+fügen	füge	V;SBJV;PRS;1;SG
+fügen	füge	V;SBJV;PRS;3;SG
+fügen	fügst	V;IND;PRS;2;SG
+fügen	fügten	V;IND;PST;1;PL
+fügen	fügten	V;IND;PST;3;PL
+fügen	fügten	V;SBJV;PST;1;PL
+fügen	fügten	V;SBJV;PST;3;PL
+fügen	fügtest	V;IND;PST;2;SG
+fügen	fügtest	V;SBJV;PST;2;SG
+fügen	fügtet	V;IND;PST;2;PL
+fügen	fügtet	V;SBJV;PST;2;PL
+fügen	fügte	V;IND;PST;1;SG
+fügen	fügte	V;IND;PST;3;SG
+fügen	fügte	V;SBJV;PST;1;SG
+fügen	fügte	V;SBJV;PST;3;SG
+fügen	fügt	V;IMP;2;PL
+fügen	fügt	V;IND;PRS;2;PL
+fügen	fügt	V;IND;PRS;3;SG
+fügen	füg	V;IMP;2;SG
+fügen	gefügt	V.PTCP;PST
+limitieren	limitierend	V.PTCP;PRS
+limitieren	limitieren	V;IND;PRS;1;PL
+limitieren	limitieren	V;IND;PRS;3;PL
+limitieren	limitieren	V;NFIN
+limitieren	limitieren	V;SBJV;PRS;1;PL
+limitieren	limitieren	V;SBJV;PRS;3;PL
+limitieren	limitierest	V;SBJV;PRS;2;SG
+limitieren	limitieret	V;SBJV;PRS;2;PL
+limitieren	limitiere	V;IND;PRS;1;SG
+limitieren	limitiere	V;SBJV;PRS;1;SG
+limitieren	limitiere	V;SBJV;PRS;3;SG
+limitieren	limitierst	V;IND;PRS;2;SG
+limitieren	limitierten	V;IND;PST;1;PL
+limitieren	limitierten	V;IND;PST;3;PL
+limitieren	limitierten	V;SBJV;PST;1;PL
+limitieren	limitierten	V;SBJV;PST;3;PL
+limitieren	limitiertest	V;IND;PST;2;SG
+limitieren	limitiertest	V;SBJV;PST;2;SG
+limitieren	limitiertet	V;IND;PST;2;PL
+limitieren	limitiertet	V;SBJV;PST;2;PL
+limitieren	limitierte	V;IND;PST;1;SG
+limitieren	limitierte	V;IND;PST;3;SG
+limitieren	limitierte	V;SBJV;PST;1;SG
+limitieren	limitierte	V;SBJV;PST;3;SG
+limitieren	limitiert	V;IMP;2;PL
+limitieren	limitiert	V;IND;PRS;2;PL
+limitieren	limitiert	V;IND;PRS;3;SG
+limitieren	limitiert	V.PTCP;PST
+limitieren	limitier	V;IMP;2;SG
+ändern	änderest	V;SBJV;PRS;2;SG
+ändern	änderet	V;SBJV;PRS;2;PL
+ändern	ändere	V;SBJV;PRS;1;SG
+ändern	ändere	V;SBJV;PRS;3;SG
+ändern	ändernd	V.PTCP;PRS
+ändern	ändern	V;IND;PRS;1;PL
+ändern	ändern	V;IND;PRS;3;PL
+ändern	ändern	V;NFIN
+ändern	ändern	V;SBJV;PRS;1;PL
+ändern	ändern	V;SBJV;PRS;3;PL
+ändern	änderst	V;IND;PRS;2;SG
+ändern	änderten	V;IND;PST;1;PL
+ändern	änderten	V;IND;PST;3;PL
+ändern	änderten	V;SBJV;PST;1;PL
+ändern	änderten	V;SBJV;PST;3;PL
+ändern	ändertest	V;IND;PST;2;SG
+ändern	ändertest	V;SBJV;PST;2;SG
+ändern	ändertet	V;IND;PST;2;PL
+ändern	ändertet	V;SBJV;PST;2;PL
+ändern	änderte	V;IND;PST;1;SG
+ändern	änderte	V;IND;PST;3;SG
+ändern	änderte	V;SBJV;PST;1;SG
+ändern	änderte	V;SBJV;PST;3;SG
+ändern	ändert	V;IND;PRS;2;PL
+ändern	ändert	V;IND;PRS;3;SG
+ändern	ändre	V;IND;PRS;1;SG
+ändern	geändert	V.PTCP;PST
+torpedieren	torpedierend	V.PTCP;PRS
+torpedieren	torpedieren	V;IND;PRS;1;PL
+torpedieren	torpedieren	V;IND;PRS;3;PL
+torpedieren	torpedieren	V;NFIN
+torpedieren	torpedieren	V;SBJV;PRS;1;PL
+torpedieren	torpedieren	V;SBJV;PRS;3;PL
+torpedieren	torpedierest	V;SBJV;PRS;2;SG
+torpedieren	torpedieret	V;SBJV;PRS;2;PL
+torpedieren	torpediere	V;IND;PRS;1;SG
+torpedieren	torpediere	V;SBJV;PRS;1;SG
+torpedieren	torpediere	V;SBJV;PRS;3;SG
+torpedieren	torpedierst	V;IND;PRS;2;SG
+torpedieren	torpedierten	V;IND;PST;1;PL
+torpedieren	torpedierten	V;IND;PST;3;PL
+torpedieren	torpedierten	V;SBJV;PST;1;PL
+torpedieren	torpedierten	V;SBJV;PST;3;PL
+torpedieren	torpediertest	V;IND;PST;2;SG
+torpedieren	torpediertest	V;SBJV;PST;2;SG
+torpedieren	torpediertet	V;IND;PST;2;PL
+torpedieren	torpediertet	V;SBJV;PST;2;PL
+torpedieren	torpedierte	V;IND;PST;1;SG
+torpedieren	torpedierte	V;IND;PST;3;SG
+torpedieren	torpedierte	V;SBJV;PST;1;SG
+torpedieren	torpedierte	V;SBJV;PST;3;SG
+torpedieren	torpediert	V;IMP;2;PL
+torpedieren	torpediert	V;IND;PRS;2;PL
+torpedieren	torpediert	V;IND;PRS;3;SG
+torpedieren	torpediert	V.PTCP;PST
+torpedieren	torpedier	V;IMP;2;SG
+welken	gewelkt	V.PTCP;PST
+welken	welkend	V.PTCP;PRS
+welken	welken	V;IND;PRS;1;PL
+welken	welken	V;IND;PRS;3;PL
+welken	welken	V;NFIN
+welken	welken	V;SBJV;PRS;1;PL
+welken	welken	V;SBJV;PRS;3;PL
+welken	welkest	V;SBJV;PRS;2;SG
+welken	welket	V;SBJV;PRS;2;PL
+welken	welke	V;IND;PRS;1;SG
+welken	welke	V;SBJV;PRS;1;SG
+welken	welke	V;SBJV;PRS;3;SG
+welken	welkst	V;IND;PRS;2;SG
+welken	welkten	V;IND;PST;1;PL
+welken	welkten	V;IND;PST;3;PL
+welken	welkten	V;SBJV;PST;1;PL
+welken	welkten	V;SBJV;PST;3;PL
+welken	welktest	V;IND;PST;2;SG
+welken	welktest	V;SBJV;PST;2;SG
+welken	welktet	V;IND;PST;2;PL
+welken	welktet	V;SBJV;PST;2;PL
+welken	welkte	V;IND;PST;1;SG
+welken	welkte	V;IND;PST;3;SG
+welken	welkte	V;SBJV;PST;1;SG
+welken	welkte	V;SBJV;PST;3;SG
+welken	welkt	V;IMP;2;PL
+welken	welkt	V;IND;PRS;2;PL
+welken	welkt	V;IND;PRS;3;SG
+welken	welk	V;IMP;2;SG
+requirieren	requirierend	V.PTCP;PRS
+requirieren	requirieren	V;IND;PRS;1;PL
+requirieren	requirieren	V;IND;PRS;3;PL
+requirieren	requirieren	V;NFIN
+requirieren	requirieren	V;SBJV;PRS;1;PL
+requirieren	requirieren	V;SBJV;PRS;3;PL
+requirieren	requirierest	V;SBJV;PRS;2;SG
+requirieren	requirieret	V;SBJV;PRS;2;PL
+requirieren	requiriere	V;IND;PRS;1;SG
+requirieren	requiriere	V;SBJV;PRS;1;SG
+requirieren	requiriere	V;SBJV;PRS;3;SG
+requirieren	requirierst	V;IND;PRS;2;SG
+requirieren	requirierten	V;IND;PST;1;PL
+requirieren	requirierten	V;IND;PST;3;PL
+requirieren	requirierten	V;SBJV;PST;1;PL
+requirieren	requirierten	V;SBJV;PST;3;PL
+requirieren	requiriertest	V;IND;PST;2;SG
+requirieren	requiriertest	V;SBJV;PST;2;SG
+requirieren	requiriertet	V;IND;PST;2;PL
+requirieren	requiriertet	V;SBJV;PST;2;PL
+requirieren	requirierte	V;IND;PST;1;SG
+requirieren	requirierte	V;IND;PST;3;SG
+requirieren	requirierte	V;SBJV;PST;1;SG
+requirieren	requirierte	V;SBJV;PST;3;SG
+requirieren	requiriert	V;IMP;2;PL
+requirieren	requiriert	V;IND;PRS;2;PL
+requirieren	requiriert	V;IND;PRS;3;SG
+requirieren	requiriert	V.PTCP;PST
+requirieren	requirier	V;IMP;2;SG
+schütten	geschüttet	V.PTCP;PST
+schütten	schüttend	V.PTCP;PRS
+schütten	schütten	V;IND;PRS;1;PL
+schütten	schütten	V;IND;PRS;3;PL
+schütten	schütten	V;NFIN
+schütten	schütten	V;SBJV;PRS;1;PL
+schütten	schütten	V;SBJV;PRS;3;PL
+schütten	schüttest	V;IND;PRS;2;SG
+schütten	schüttest	V;SBJV;PRS;2;SG
+schütten	schütteten	V;IND;PST;1;PL
+schütten	schütteten	V;IND;PST;3;PL
+schütten	schütteten	V;SBJV;PST;1;PL
+schütten	schütteten	V;SBJV;PST;3;PL
+schütten	schüttetest	V;IND;PST;2;SG
+schütten	schüttetest	V;SBJV;PST;2;SG
+schütten	schüttetet	V;IND;PST;2;PL
+schütten	schüttetet	V;SBJV;PST;2;PL
+schütten	schüttete	V;IND;PST;1;SG
+schütten	schüttete	V;IND;PST;3;SG
+schütten	schüttete	V;SBJV;PST;1;SG
+schütten	schüttete	V;SBJV;PST;3;SG
+schütten	schüttet	V;IMP;2;PL
+schütten	schüttet	V;IND;PRS;2;PL
+schütten	schüttet	V;IND;PRS;3;SG
+schütten	schüttet	V;SBJV;PRS;2;PL
+schütten	schütte	V;IMP;2;SG
+schütten	schütte	V;IND;PRS;1;SG
+schütten	schütte	V;SBJV;PRS;1;SG
+schütten	schütte	V;SBJV;PRS;3;SG
+schnarchen	geschnarcht	V.PTCP;PST
+schnarchen	schnarchend	V.PTCP;PRS
+schnarchen	schnarchen	V;IND;PRS;1;PL
+schnarchen	schnarchen	V;IND;PRS;3;PL
+schnarchen	schnarchen	V;NFIN
+schnarchen	schnarchen	V;SBJV;PRS;1;PL
+schnarchen	schnarchen	V;SBJV;PRS;3;PL
+schnarchen	schnarchest	V;SBJV;PRS;2;SG
+schnarchen	schnarchet	V;SBJV;PRS;2;PL
+schnarchen	schnarche	V;IND;PRS;1;SG
+schnarchen	schnarche	V;SBJV;PRS;1;SG
+schnarchen	schnarche	V;SBJV;PRS;3;SG
+schnarchen	schnarchst	V;IND;PRS;2;SG
+schnarchen	schnarchten	V;IND;PST;1;PL
+schnarchen	schnarchten	V;IND;PST;3;PL
+schnarchen	schnarchten	V;SBJV;PST;1;PL
+schnarchen	schnarchten	V;SBJV;PST;3;PL
+schnarchen	schnarchtest	V;IND;PST;2;SG
+schnarchen	schnarchtest	V;SBJV;PST;2;SG
+schnarchen	schnarchtet	V;IND;PST;2;PL
+schnarchen	schnarchtet	V;SBJV;PST;2;PL
+schnarchen	schnarchte	V;IND;PST;1;SG
+schnarchen	schnarchte	V;IND;PST;3;SG
+schnarchen	schnarchte	V;SBJV;PST;1;SG
+schnarchen	schnarchte	V;SBJV;PST;3;SG
+schnarchen	schnarcht	V;IMP;2;PL
+schnarchen	schnarcht	V;IND;PRS;2;PL
+schnarchen	schnarcht	V;IND;PRS;3;SG
+schnarchen	schnarch	V;IMP;2;SG
+pflegen	gepflegt	V.PTCP;PST
+pflegen	pflegend	V.PTCP;PRS
+pflegen	pflegen	V;IND;PRS;1;PL
+pflegen	pflegen	V;IND;PRS;3;PL
+pflegen	pflegen	V;NFIN
+pflegen	pflegen	V;SBJV;PRS;1;PL
+pflegen	pflegen	V;SBJV;PRS;3;PL
+pflegen	pflegest	V;SBJV;PRS;2;SG
+pflegen	pfleget	V;SBJV;PRS;2;PL
+pflegen	pflege	V;IND;PRS;1;SG
+pflegen	pflege	V;SBJV;PRS;1;SG
+pflegen	pflege	V;SBJV;PRS;3;SG
+pflegen	pflegst	V;IND;PRS;2;SG
+pflegen	pflegten	V;IND;PST;1;PL
+pflegen	pflegten	V;IND;PST;3;PL
+pflegen	pflegten	V;SBJV;PST;1;PL
+pflegen	pflegten	V;SBJV;PST;3;PL
+pflegen	pflegtest	V;IND;PST;2;SG
+pflegen	pflegtest	V;SBJV;PST;2;SG
+pflegen	pflegtet	V;IND;PST;2;PL
+pflegen	pflegtet	V;SBJV;PST;2;PL
+pflegen	pflegte	V;IND;PST;1;SG
+pflegen	pflegte	V;IND;PST;3;SG
+pflegen	pflegte	V;SBJV;PST;1;SG
+pflegen	pflegte	V;SBJV;PST;3;SG
+pflegen	pflegt	V;IMP;2;PL
+pflegen	pflegt	V;IND;PRS;2;PL
+pflegen	pflegt	V;IND;PRS;3;SG
+pflegen	pfleg	V;IMP;2;SG
+installieren	installierend	V.PTCP;PRS
+installieren	installieren	V;IND;PRS;1;PL
+installieren	installieren	V;IND;PRS;3;PL
+installieren	installieren	V;NFIN
+installieren	installieren	V;SBJV;PRS;1;PL
+installieren	installieren	V;SBJV;PRS;3;PL
+installieren	installierest	V;SBJV;PRS;2;SG
+installieren	installieret	V;SBJV;PRS;2;PL
+installieren	installiere	V;IND;PRS;1;SG
+installieren	installiere	V;SBJV;PRS;1;SG
+installieren	installiere	V;SBJV;PRS;3;SG
+installieren	installierst	V;IND;PRS;2;SG
+installieren	installierten	V;IND;PST;1;PL
+installieren	installierten	V;IND;PST;3;PL
+installieren	installierten	V;SBJV;PST;1;PL
+installieren	installierten	V;SBJV;PST;3;PL
+installieren	installiertest	V;IND;PST;2;SG
+installieren	installiertest	V;SBJV;PST;2;SG
+installieren	installiertet	V;IND;PST;2;PL
+installieren	installiertet	V;SBJV;PST;2;PL
+installieren	installierte	V;IND;PST;1;SG
+installieren	installierte	V;IND;PST;3;SG
+installieren	installierte	V;SBJV;PST;1;SG
+installieren	installierte	V;SBJV;PST;3;SG
+installieren	installiert	V;IMP;2;PL
+installieren	installiert	V;IND;PRS;2;PL
+installieren	installiert	V;IND;PRS;3;SG
+installieren	installiert	V.PTCP;PST
+installieren	installier	V;IMP;2;SG
+zurückkehren	kehren zurück	V;IND;PRS;1;PL
+zurückkehren	kehren zurück	V;IND;PRS;3;PL
+zurückkehren	kehren zurück	V;SBJV;PRS;1;PL
+zurückkehren	kehren zurück	V;SBJV;PRS;3;PL
+zurückkehren	kehrest zurück	V;SBJV;PRS;2;SG
+zurückkehren	kehret zurück	V;SBJV;PRS;2;PL
+zurückkehren	kehre zurück	V;IND;PRS;1;SG
+zurückkehren	kehre zurück	V;SBJV;PRS;1;SG
+zurückkehren	kehre zurück	V;SBJV;PRS;3;SG
+zurückkehren	kehrst zurück	V;IND;PRS;2;SG
+zurückkehren	kehrten zurück	V;IND;PST;1;PL
+zurückkehren	kehrten zurück	V;IND;PST;3;PL
+zurückkehren	kehrten zurück	V;SBJV;PST;1;PL
+zurückkehren	kehrten zurück	V;SBJV;PST;3;PL
+zurückkehren	kehrtest zurück	V;IND;PST;2;SG
+zurückkehren	kehrtest zurück	V;SBJV;PST;2;SG
+zurückkehren	kehrtet zurück	V;IND;PST;2;PL
+zurückkehren	kehrtet zurück	V;SBJV;PST;2;PL
+zurückkehren	kehrte zurück	V;IND;PST;1;SG
+zurückkehren	kehrte zurück	V;IND;PST;3;SG
+zurückkehren	kehrte zurück	V;SBJV;PST;1;SG
+zurückkehren	kehrte zurück	V;SBJV;PST;3;SG
+zurückkehren	kehrt zurück	V;IMP;2;PL
+zurückkehren	kehrt zurück	V;IND;PRS;2;PL
+zurückkehren	kehrt zurück	V;IND;PRS;3;SG
+zurückkehren	kehr zurück	V;IMP;2;SG
+zurückkehren	zurückgekehrt	V.PTCP;PST
+zurückkehren	zurückkehrend	V.PTCP;PRS
+zurückkehren	zurückkehren	V;NFIN
+entmachten	entmachtend	V.PTCP;PRS
+entmachten	entmachten	V;IND;PRS;1;PL
+entmachten	entmachten	V;IND;PRS;3;PL
+entmachten	entmachten	V;NFIN
+entmachten	entmachten	V;SBJV;PRS;1;PL
+entmachten	entmachten	V;SBJV;PRS;3;PL
+entmachten	entmachtest	V;SBJV;PRS;2;SG
+entmachten	entmachtet	V.PTCP;PST
+entmachten	entmachtet	V;SBJV;PRS;2;PL
+entmachten	entmachte	V;IND;PRS;1;SG
+entmachten	entmachte	V;SBJV;PRS;1;SG
+entmachten	entmachte	V;SBJV;PRS;3;SG
+entmachten	entmachtst	V;IND;PRS;2;SG
+entmachten	entmachtten	V;IND;PST;1;PL
+entmachten	entmachtten	V;IND;PST;3;PL
+entmachten	entmachtten	V;SBJV;PST;1;PL
+entmachten	entmachtten	V;SBJV;PST;3;PL
+entmachten	entmachttest	V;IND;PST;2;SG
+entmachten	entmachttest	V;SBJV;PST;2;SG
+entmachten	entmachttet	V;IND;PST;2;PL
+entmachten	entmachttet	V;SBJV;PST;2;PL
+entmachten	entmachtte	V;IND;PST;1;SG
+entmachten	entmachtte	V;IND;PST;3;SG
+entmachten	entmachtte	V;SBJV;PST;1;SG
+entmachten	entmachtte	V;SBJV;PST;3;SG
+entmachten	entmachtt	V;IMP;2;PL
+entmachten	entmachtt	V;IND;PRS;2;PL
+entmachten	entmachtt	V;IND;PRS;3;SG
+entmachten	entmacht	V;IMP;2;SG
+vergeben	vergaben	V;IND;PST;1;PL
+vergeben	vergaben	V;IND;PST;3;PL
+vergeben	vergäben	V;SBJV;PST;1;PL
+vergeben	vergäben	V;SBJV;PST;3;PL
+vergeben	vergäbest	V;SBJV;PST;2;SG
+vergeben	vergäbet	V;SBJV;PST;2;PL
+vergeben	vergäbe	V;SBJV;PST;1;SG
+vergeben	vergäbe	V;SBJV;PST;3;SG
+vergeben	vergabst	V;IND;PST;2;SG
+vergeben	vergabt	V;IND;PST;2;PL
+vergeben	vergab	V;IND;PST;1;SG
+vergeben	vergab	V;IND;PST;3;SG
+vergeben	vergebend	V.PTCP;PRS
+vergeben	vergeben	V;IND;PRS;1;PL
+vergeben	vergeben	V;IND;PRS;3;PL
+vergeben	vergeben	V;NFIN
+vergeben	vergeben	V.PTCP;PST
+vergeben	vergeben	V;SBJV;PRS;1;PL
+vergeben	vergeben	V;SBJV;PRS;3;PL
+vergeben	vergebest	V;SBJV;PRS;2;SG
+vergeben	vergebet	V;SBJV;PRS;2;PL
+vergeben	vergebe	V;IND;PRS;1;SG
+vergeben	vergebe	V;SBJV;PRS;1;SG
+vergeben	vergebe	V;SBJV;PRS;3;SG
+vergeben	vergebt	V;IMP;2;PL
+vergeben	vergebt	V;IND;PRS;2;PL
+vergeben	vergibst	V;IND;PRS;2;SG
+vergeben	vergibt	V;IND;PRS;3;SG
+vergeben	vergib	V;IMP;2;SG
+errechnen	errechnend	V.PTCP;PRS
+errechnen	errechnen	V;IND;PRS;1;PL
+errechnen	errechnen	V;IND;PRS;3;PL
+errechnen	errechnen	V;NFIN
+errechnen	errechnen	V;SBJV;PRS;1;PL
+errechnen	errechnen	V;SBJV;PRS;3;PL
+errechnen	errechnest	V;IND;PRS;2;SG
+errechnen	errechnest	V;SBJV;PRS;2;SG
+errechnen	errechneten	V;IND;PST;1;PL
+errechnen	errechneten	V;IND;PST;3;PL
+errechnen	errechneten	V;SBJV;PST;1;PL
+errechnen	errechneten	V;SBJV;PST;3;PL
+errechnen	errechnetest	V;IND;PST;2;SG
+errechnen	errechnetest	V;SBJV;PST;2;SG
+errechnen	errechnetet	V;IND;PST;2;PL
+errechnen	errechnetet	V;SBJV;PST;2;PL
+errechnen	errechnete	V;IND;PST;1;SG
+errechnen	errechnete	V;IND;PST;3;SG
+errechnen	errechnete	V;SBJV;PST;1;SG
+errechnen	errechnete	V;SBJV;PST;3;SG
+errechnen	errechnet	V;IMP;2;PL
+errechnen	errechnet	V;IND;PRS;2;PL
+errechnen	errechnet	V;IND;PRS;3;SG
+errechnen	errechnet	V.PTCP;PST
+errechnen	errechnet	V;SBJV;PRS;2;PL
+errechnen	errechne	V;IMP;2;SG
+errechnen	errechne	V;IND;PRS;1;SG
+errechnen	errechne	V;SBJV;PRS;1;SG
+errechnen	errechne	V;SBJV;PRS;3;SG
+trösten	getröstet	V.PTCP;PST
+trösten	tröstend	V.PTCP;PRS
+trösten	trösten	V;IND;PRS;1;PL
+trösten	trösten	V;IND;PRS;3;PL
+trösten	trösten	V;NFIN
+trösten	trösten	V;SBJV;PRS;1;PL
+trösten	trösten	V;SBJV;PRS;3;PL
+trösten	tröstest	V;IND;PRS;2;SG
+trösten	tröstest	V;SBJV;PRS;2;SG
+trösten	trösteten	V;IND;PST;1;PL
+trösten	trösteten	V;IND;PST;3;PL
+trösten	trösteten	V;SBJV;PST;1;PL
+trösten	trösteten	V;SBJV;PST;3;PL
+trösten	tröstetest	V;IND;PST;2;SG
+trösten	tröstetest	V;SBJV;PST;2;SG
+trösten	tröstetet	V;IND;PST;2;PL
+trösten	tröstetet	V;SBJV;PST;2;PL
+trösten	tröstete	V;IND;PST;1;SG
+trösten	tröstete	V;IND;PST;3;SG
+trösten	tröstete	V;SBJV;PST;1;SG
+trösten	tröstete	V;SBJV;PST;3;SG
+trösten	tröstet	V;IMP;2;PL
+trösten	tröstet	V;IND;PRS;2;PL
+trösten	tröstet	V;IND;PRS;3;SG
+trösten	tröstet	V;SBJV;PRS;2;PL
+trösten	tröste	V;IMP;2;SG
+trösten	tröste	V;IND;PRS;1;SG
+trösten	tröste	V;SBJV;PRS;1;SG
+trösten	tröste	V;SBJV;PRS;3;SG
+zuhören	hören zu	V;IND;PRS;1;PL
+zuhören	hören zu	V;IND;PRS;3;PL
+zuhören	hören zu	V;SBJV;PRS;1;PL
+zuhören	hören zu	V;SBJV;PRS;3;PL
+zuhören	hörest zu	V;SBJV;PRS;2;SG
+zuhören	höret zu	V;SBJV;PRS;2;PL
+zuhören	höre zu	V;IND;PRS;1;SG
+zuhören	höre zu	V;SBJV;PRS;1;SG
+zuhören	höre zu	V;SBJV;PRS;3;SG
+zuhören	hörst zu	V;IND;PRS;2;SG
+zuhören	hörten zu	V;IND;PST;1;PL
+zuhören	hörten zu	V;IND;PST;3;PL
+zuhören	hörten zu	V;SBJV;PST;1;PL
+zuhören	hörten zu	V;SBJV;PST;3;PL
+zuhören	hörtest zu	V;IND;PST;2;SG
+zuhören	hörtest zu	V;SBJV;PST;2;SG
+zuhören	hörtet zu	V;IND;PST;2;PL
+zuhören	hörtet zu	V;SBJV;PST;2;PL
+zuhören	hörte zu	V;IND;PST;1;SG
+zuhören	hörte zu	V;IND;PST;3;SG
+zuhören	hörte zu	V;SBJV;PST;1;SG
+zuhören	hörte zu	V;SBJV;PST;3;SG
+zuhören	hört zu	V;IMP;2;PL
+zuhören	hört zu	V;IND;PRS;2;PL
+zuhören	hört zu	V;IND;PRS;3;SG
+zuhören	hör zu	V;IMP;2;SG
+zuhören	zugehört	V.PTCP;PST
+zuhören	zuhörend	V.PTCP;PRS
+zuhören	zuhören	V;NFIN
+schwingen	geschwungen	V.PTCP;PST
+schwingen	schwangen	V;IND;PST;1;PL
+schwingen	schwangen	V;IND;PST;3;PL
+schwingen	schwängen	V;SBJV;PST;1;PL
+schwingen	schwängen	V;SBJV;PST;3;PL
+schwingen	schwängest	V;SBJV;PST;2;SG
+schwingen	schwänget	V;SBJV;PST;2;PL
+schwingen	schwänge	V;SBJV;PST;1;SG
+schwingen	schwänge	V;SBJV;PST;3;SG
+schwingen	schwangst	V;IND;PST;2;SG
+schwingen	schwangt	V;IND;PST;2;PL
+schwingen	schwang	V;IND;PST;1;SG
+schwingen	schwang	V;IND;PST;3;SG
+schwingen	schwingend	V.PTCP;PRS
+schwingen	schwingen	V;IND;PRS;1;PL
+schwingen	schwingen	V;IND;PRS;3;PL
+schwingen	schwingen	V;NFIN
+schwingen	schwingen	V;SBJV;PRS;1;PL
+schwingen	schwingen	V;SBJV;PRS;3;PL
+schwingen	schwingest	V;SBJV;PRS;2;SG
+schwingen	schwinget	V;SBJV;PRS;2;PL
+schwingen	schwinge	V;IND;PRS;1;SG
+schwingen	schwinge	V;SBJV;PRS;1;SG
+schwingen	schwinge	V;SBJV;PRS;3;SG
+schwingen	schwingst	V;IND;PRS;2;SG
+schwingen	schwingt	V;IMP;2;PL
+schwingen	schwingt	V;IND;PRS;2;PL
+schwingen	schwingt	V;IND;PRS;3;SG
+schwingen	schwing	V;IMP;2;SG
+apportieren	apportierend	V.PTCP;PRS
+apportieren	apportieren	V;IND;PRS;1;PL
+apportieren	apportieren	V;IND;PRS;3;PL
+apportieren	apportieren	V;NFIN
+apportieren	apportieren	V;SBJV;PRS;1;PL
+apportieren	apportieren	V;SBJV;PRS;3;PL
+apportieren	apportierest	V;SBJV;PRS;2;SG
+apportieren	apportieret	V;SBJV;PRS;2;PL
+apportieren	apportiere	V;IND;PRS;1;SG
+apportieren	apportiere	V;SBJV;PRS;1;SG
+apportieren	apportiere	V;SBJV;PRS;3;SG
+apportieren	apportierst	V;IND;PRS;2;SG
+apportieren	apportierten	V;IND;PST;1;PL
+apportieren	apportierten	V;IND;PST;3;PL
+apportieren	apportierten	V;SBJV;PST;1;PL
+apportieren	apportierten	V;SBJV;PST;3;PL
+apportieren	apportiertest	V;IND;PST;2;SG
+apportieren	apportiertest	V;SBJV;PST;2;SG
+apportieren	apportiertet	V;IND;PST;2;PL
+apportieren	apportiertet	V;SBJV;PST;2;PL
+apportieren	apportierte	V;IND;PST;1;SG
+apportieren	apportierte	V;IND;PST;3;SG
+apportieren	apportierte	V;SBJV;PST;1;SG
+apportieren	apportierte	V;SBJV;PST;3;SG
+apportieren	apportiert	V;IMP;2;PL
+apportieren	apportiert	V;IND;PRS;2;PL
+apportieren	apportiert	V;IND;PRS;3;SG
+apportieren	apportiert	V.PTCP;PST
+apportieren	apportier	V;IMP;2;SG
+verbrennen	verbrannten	V;IND;PST;1;PL
+verbrennen	verbrannten	V;IND;PST;3;PL
+verbrennen	verbranntest	V;IND;PST;2;SG
+verbrennen	verbranntet	V;IND;PST;2;PL
+verbrennen	verbrannte	V;IND;PST;1;SG
+verbrennen	verbrannte	V;IND;PST;3;SG
+verbrennen	verbrannt	V.PTCP;PST
+verbrennen	verbrennend	V.PTCP;PRS
+verbrennen	verbrennen	V;IND;PRS;1;PL
+verbrennen	verbrennen	V;IND;PRS;3;PL
+verbrennen	verbrennen	V;NFIN
+verbrennen	verbrennen	V;SBJV;PRS;1;PL
+verbrennen	verbrennen	V;SBJV;PRS;3;PL
+verbrennen	verbrennest	V;SBJV;PRS;2;SG
+verbrennen	verbrennet	V;SBJV;PRS;2;PL
+verbrennen	verbrenne	V;IND;PRS;1;SG
+verbrennen	verbrenne	V;SBJV;PRS;1;SG
+verbrennen	verbrenne	V;SBJV;PRS;3;SG
+verbrennen	verbrennst	V;IND;PRS;2;SG
+verbrennen	verbrennten	V;SBJV;PST;1;PL
+verbrennen	verbrennten	V;SBJV;PST;3;PL
+verbrennen	verbrenntest	V;SBJV;PST;2;SG
+verbrennen	verbrenntet	V;SBJV;PST;2;PL
+verbrennen	verbrennte	V;SBJV;PST;1;SG
+verbrennen	verbrennte	V;SBJV;PST;3;SG
+verbrennen	verbrennt	V;IMP;2;PL
+verbrennen	verbrennt	V;IND;PRS;2;PL
+verbrennen	verbrennt	V;IND;PRS;3;SG
+verbrennen	verbrenn	V;IMP;2;SG
+vernickeln	vernickelest	V;SBJV;PRS;2;SG
+vernickeln	vernickelet	V;SBJV;PRS;2;PL
+vernickeln	vernickele	V;SBJV;PRS;1;SG
+vernickeln	vernickele	V;SBJV;PRS;3;SG
+vernickeln	vernickelnd	V.PTCP;PRS
+vernickeln	vernickeln	V;IND;PRS;1;PL
+vernickeln	vernickeln	V;IND;PRS;3;PL
+vernickeln	vernickeln	V;NFIN
+vernickeln	vernickeln	V;SBJV;PRS;1;PL
+vernickeln	vernickeln	V;SBJV;PRS;3;PL
+vernickeln	vernickelst	V;IND;PRS;2;SG
+vernickeln	vernickelten	V;IND;PST;1;PL
+vernickeln	vernickelten	V;IND;PST;3;PL
+vernickeln	vernickelten	V;SBJV;PST;1;PL
+vernickeln	vernickelten	V;SBJV;PST;3;PL
+vernickeln	vernickeltest	V;IND;PST;2;SG
+vernickeln	vernickeltest	V;SBJV;PST;2;SG
+vernickeln	vernickeltet	V;IND;PST;2;PL
+vernickeln	vernickeltet	V;SBJV;PST;2;PL
+vernickeln	vernickelte	V;IND;PST;1;SG
+vernickeln	vernickelte	V;IND;PST;3;SG
+vernickeln	vernickelte	V;SBJV;PST;1;SG
+vernickeln	vernickelte	V;SBJV;PST;3;SG
+vernickeln	vernickelt	V;IMP;2;PL
+vernickeln	vernickelt	V;IND;PRS;2;PL
+vernickeln	vernickelt	V;IND;PRS;3;SG
+vernickeln	vernickelt	V.PTCP;PST
+vernickeln	vernickle	V;IMP;2;SG
+vernickeln	vernickle	V;IND;PRS;1;SG
+erfüllen	erfüllend	V.PTCP;PRS
+erfüllen	erfüllen	V;IND;PRS;1;PL
+erfüllen	erfüllen	V;IND;PRS;3;PL
+erfüllen	erfüllen	V;NFIN
+erfüllen	erfüllen	V;SBJV;PRS;1;PL
+erfüllen	erfüllen	V;SBJV;PRS;3;PL
+erfüllen	erfüllest	V;SBJV;PRS;2;SG
+erfüllen	erfüllet	V;SBJV;PRS;2;PL
+erfüllen	erfülle	V;IND;PRS;1;SG
+erfüllen	erfülle	V;SBJV;PRS;1;SG
+erfüllen	erfülle	V;SBJV;PRS;3;SG
+erfüllen	erfüllst	V;IND;PRS;2;SG
+erfüllen	erfüllten	V;IND;PST;1;PL
+erfüllen	erfüllten	V;IND;PST;3;PL
+erfüllen	erfüllten	V;SBJV;PST;1;PL
+erfüllen	erfüllten	V;SBJV;PST;3;PL
+erfüllen	erfülltest	V;IND;PST;2;SG
+erfüllen	erfülltest	V;SBJV;PST;2;SG
+erfüllen	erfülltet	V;IND;PST;2;PL
+erfüllen	erfülltet	V;SBJV;PST;2;PL
+erfüllen	erfüllte	V;IND;PST;1;SG
+erfüllen	erfüllte	V;IND;PST;3;SG
+erfüllen	erfüllte	V;SBJV;PST;1;SG
+erfüllen	erfüllte	V;SBJV;PST;3;SG
+erfüllen	erfüllt	V;IMP;2;PL
+erfüllen	erfüllt	V;IND;PRS;2;PL
+erfüllen	erfüllt	V;IND;PRS;3;SG
+erfüllen	erfüllt	V.PTCP;PST
+erfüllen	erfüll	V;IMP;2;SG
+aufkonzentrieren	aufkonzentrierend	V.PTCP;PRS
+aufkonzentrieren	aufkonzentrieren	V;IND;PRS;1;PL
+aufkonzentrieren	aufkonzentrieren	V;IND;PRS;3;PL
+aufkonzentrieren	aufkonzentrieren	V;NFIN
+aufkonzentrieren	aufkonzentrieren	V;SBJV;PRS;1;PL
+aufkonzentrieren	aufkonzentrieren	V;SBJV;PRS;3;PL
+aufkonzentrieren	aufkonzentrierest	V;SBJV;PRS;2;SG
+aufkonzentrieren	aufkonzentrieret	V;SBJV;PRS;2;PL
+aufkonzentrieren	aufkonzentriere	V;IND;PRS;1;SG
+aufkonzentrieren	aufkonzentriere	V;SBJV;PRS;1;SG
+aufkonzentrieren	aufkonzentriere	V;SBJV;PRS;3;SG
+aufkonzentrieren	aufkonzentrierst	V;IND;PRS;2;SG
+aufkonzentrieren	aufkonzentrierten	V;IND;PST;1;PL
+aufkonzentrieren	aufkonzentrierten	V;IND;PST;3;PL
+aufkonzentrieren	aufkonzentrierten	V;SBJV;PST;1;PL
+aufkonzentrieren	aufkonzentrierten	V;SBJV;PST;3;PL
+aufkonzentrieren	aufkonzentriertest	V;IND;PST;2;SG
+aufkonzentrieren	aufkonzentriertest	V;SBJV;PST;2;SG
+aufkonzentrieren	aufkonzentriertet	V;IND;PST;2;PL
+aufkonzentrieren	aufkonzentriertet	V;SBJV;PST;2;PL
+aufkonzentrieren	aufkonzentrierte	V;IND;PST;1;SG
+aufkonzentrieren	aufkonzentrierte	V;IND;PST;3;SG
+aufkonzentrieren	aufkonzentrierte	V;SBJV;PST;1;SG
+aufkonzentrieren	aufkonzentrierte	V;SBJV;PST;3;SG
+aufkonzentrieren	aufkonzentriert	V;IMP;2;PL
+aufkonzentrieren	aufkonzentriert	V;IND;PRS;2;PL
+aufkonzentrieren	aufkonzentriert	V;IND;PRS;3;SG
+aufkonzentrieren	aufkonzentriert	V.PTCP;PST
+aufkonzentrieren	aufkonzentrier	V;IMP;2;SG
+herrschen	geherrscht	V.PTCP;PST
+herrschen	herrschend	V.PTCP;PRS
+herrschen	herrschen	V;IND;PRS;1;PL
+herrschen	herrschen	V;IND;PRS;3;PL
+herrschen	herrschen	V;NFIN
+herrschen	herrschen	V;SBJV;PRS;1;PL
+herrschen	herrschen	V;SBJV;PRS;3;PL
+herrschen	herrschest	V;SBJV;PRS;2;SG
+herrschen	herrschet	V;SBJV;PRS;2;PL
+herrschen	herrsche	V;IND;PRS;1;SG
+herrschen	herrsche	V;SBJV;PRS;1;SG
+herrschen	herrsche	V;SBJV;PRS;3;SG
+herrschen	herrschst	V;IND;PRS;2;SG
+herrschen	herrschten	V;IND;PST;1;PL
+herrschen	herrschten	V;IND;PST;3;PL
+herrschen	herrschten	V;SBJV;PST;1;PL
+herrschen	herrschten	V;SBJV;PST;3;PL
+herrschen	herrschtest	V;IND;PST;2;SG
+herrschen	herrschtest	V;SBJV;PST;2;SG
+herrschen	herrschtet	V;IND;PST;2;PL
+herrschen	herrschtet	V;SBJV;PST;2;PL
+herrschen	herrschte	V;IND;PST;1;SG
+herrschen	herrschte	V;IND;PST;3;SG
+herrschen	herrschte	V;SBJV;PST;1;SG
+herrschen	herrschte	V;SBJV;PST;3;SG
+herrschen	herrscht	V;IMP;2;PL
+herrschen	herrscht	V;IND;PRS;2;PL
+herrschen	herrscht	V;IND;PRS;3;SG
+herrschen	herrsch	V;IMP;2;SG
+kramen	gekramt	V.PTCP;PST
+kramen	kramend	V.PTCP;PRS
+kramen	kramen	V;IND;PRS;1;PL
+kramen	kramen	V;IND;PRS;3;PL
+kramen	kramen	V;NFIN
+kramen	kramen	V;SBJV;PRS;1;PL
+kramen	kramen	V;SBJV;PRS;3;PL
+kramen	kramest	V;SBJV;PRS;2;SG
+kramen	kramet	V;SBJV;PRS;2;PL
+kramen	krame	V;IND;PRS;1;SG
+kramen	krame	V;SBJV;PRS;1;SG
+kramen	krame	V;SBJV;PRS;3;SG
+kramen	kramst	V;IND;PRS;2;SG
+kramen	kramten	V;IND;PST;1;PL
+kramen	kramten	V;IND;PST;3;PL
+kramen	kramten	V;SBJV;PST;1;PL
+kramen	kramten	V;SBJV;PST;3;PL
+kramen	kramtest	V;IND;PST;2;SG
+kramen	kramtest	V;SBJV;PST;2;SG
+kramen	kramtet	V;IND;PST;2;PL
+kramen	kramtet	V;SBJV;PST;2;PL
+kramen	kramte	V;IND;PST;1;SG
+kramen	kramte	V;IND;PST;3;SG
+kramen	kramte	V;SBJV;PST;1;SG
+kramen	kramte	V;SBJV;PST;3;SG
+kramen	kramt	V;IMP;2;PL
+kramen	kramt	V;IND;PRS;2;PL
+kramen	kramt	V;IND;PRS;3;SG
+kramen	kram	V;IMP;2;SG
+abziehen	abgezogen	V.PTCP;PST
+abziehen	abziehend	V.PTCP;PRS
+abziehen	abziehen	V;NFIN
+abziehen	zieh ab	V;IMP;2;SG
+abziehen	ziehe ab	V;IND;PRS;1;SG
+abziehen	ziehe ab	V;SBJV;PRS;1;SG
+abziehen	ziehe ab	V;SBJV;PRS;3;SG
+abziehen	ziehen ab	V;IND;PRS;1;PL
+abziehen	ziehen ab	V;IND;PRS;3;PL
+abziehen	ziehen ab	V;SBJV;PRS;1;PL
+abziehen	ziehen ab	V;SBJV;PRS;3;PL
+abziehen	ziehest ab	V;SBJV;PRS;2;SG
+abziehen	ziehet ab	V;SBJV;PRS;2;PL
+abziehen	ziehst ab	V;IND;PRS;2;SG
+abziehen	zieht ab	V;IMP;2;PL
+abziehen	zieht ab	V;IND;PRS;2;PL
+abziehen	zieht ab	V;IND;PRS;3;SG
+abziehen	zog ab	V;IND;PST;1;SG
+abziehen	zog ab	V;IND;PST;3;SG
+abziehen	zöge ab	V;SBJV;PST;1;SG
+abziehen	zöge ab	V;SBJV;PST;3;SG
+abziehen	zogen ab	V;IND;PST;1;PL
+abziehen	zogen ab	V;IND;PST;3;PL
+abziehen	zögen ab	V;SBJV;PST;1;PL
+abziehen	zögen ab	V;SBJV;PST;3;PL
+abziehen	zögest ab	V;SBJV;PST;2;SG
+abziehen	zöget ab	V;SBJV;PST;2;PL
+abziehen	zogst ab	V;IND;PST;2;SG
+abziehen	zogt ab	V;IND;PST;2;PL
+bewahrheiten	bewahrheitend	V.PTCP;PRS
+bewahrheiten	bewahrheiten	V;IND;PRS;1;PL
+bewahrheiten	bewahrheiten	V;IND;PRS;3;PL
+bewahrheiten	bewahrheiten	V;NFIN
+bewahrheiten	bewahrheiten	V;SBJV;PRS;1;PL
+bewahrheiten	bewahrheiten	V;SBJV;PRS;3;PL
+bewahrheiten	bewahrheitest	V;IND;PRS;2;SG
+bewahrheiten	bewahrheitest	V;SBJV;PRS;2;SG
+bewahrheiten	bewahrheiteten	V;IND;PST;1;PL
+bewahrheiten	bewahrheiteten	V;IND;PST;3;PL
+bewahrheiten	bewahrheiteten	V;SBJV;PST;1;PL
+bewahrheiten	bewahrheiteten	V;SBJV;PST;3;PL
+bewahrheiten	bewahrheitetest	V;IND;PST;2;SG
+bewahrheiten	bewahrheitetest	V;SBJV;PST;2;SG
+bewahrheiten	bewahrheitetet	V;IND;PST;2;PL
+bewahrheiten	bewahrheitetet	V;SBJV;PST;2;PL
+bewahrheiten	bewahrheitete	V;IND;PST;1;SG
+bewahrheiten	bewahrheitete	V;IND;PST;3;SG
+bewahrheiten	bewahrheitete	V;SBJV;PST;1;SG
+bewahrheiten	bewahrheitete	V;SBJV;PST;3;SG
+bewahrheiten	bewahrheitet	V;IMP;2;PL
+bewahrheiten	bewahrheitet	V;IND;PRS;2;PL
+bewahrheiten	bewahrheitet	V;IND;PRS;3;SG
+bewahrheiten	bewahrheitet	V.PTCP;PST
+bewahrheiten	bewahrheitet	V;SBJV;PRS;2;PL
+bewahrheiten	bewahrheite	V;IMP;2;SG
+bewahrheiten	bewahrheite	V;IND;PRS;1;SG
+bewahrheiten	bewahrheite	V;SBJV;PRS;1;SG
+bewahrheiten	bewahrheite	V;SBJV;PRS;3;SG
+mahlen	gemahlen	V.PTCP;PST
+mahlen	mahlend	V.PTCP;PRS
+mahlen	mahlen	V;IND;PRS;1;PL
+mahlen	mahlen	V;IND;PRS;3;PL
+mahlen	mahlen	V;NFIN
+mahlen	mahlen	V;SBJV;PRS;1;PL
+mahlen	mahlen	V;SBJV;PRS;3;PL
+mahlen	mahlest	V;SBJV;PRS;2;SG
+mahlen	mahlet	V;SBJV;PRS;2;PL
+mahlen	mahle	V;IND;PRS;1;SG
+mahlen	mahle	V;SBJV;PRS;1;SG
+mahlen	mahle	V;SBJV;PRS;3;SG
+mahlen	mahlst	V;IND;PRS;2;SG
+mahlen	mahlten	V;IND;PST;1;PL
+mahlen	mahlten	V;IND;PST;3;PL
+mahlen	mahlten	V;SBJV;PST;1;PL
+mahlen	mahlten	V;SBJV;PST;3;PL
+mahlen	mahltest	V;IND;PST;2;SG
+mahlen	mahltest	V;SBJV;PST;2;SG
+mahlen	mahltet	V;IND;PST;2;PL
+mahlen	mahltet	V;SBJV;PST;2;PL
+mahlen	mahlte	V;IND;PST;1;SG
+mahlen	mahlte	V;IND;PST;3;SG
+mahlen	mahlte	V;SBJV;PST;1;SG
+mahlen	mahlte	V;SBJV;PST;3;SG
+mahlen	mahlt	V;IMP;2;PL
+mahlen	mahlt	V;IND;PRS;2;PL
+mahlen	mahlt	V;IND;PRS;3;SG
+mahlen	mahl	V;IMP;2;SG
+skypen	geskypt	V.PTCP;PST
+skypen	skypend	V.PTCP;PRS
+skypen	skypen	V;IND;PRS;1;PL
+skypen	skypen	V;IND;PRS;3;PL
+skypen	skypen	V;NFIN
+skypen	skypen	V;SBJV;PRS;1;PL
+skypen	skypen	V;SBJV;PRS;3;PL
+skypen	skypest	V;SBJV;PRS;2;SG
+skypen	skypet	V;SBJV;PRS;2;PL
+skypen	skype	V;IND;PRS;1;SG
+skypen	skype	V;SBJV;PRS;1;SG
+skypen	skype	V;SBJV;PRS;3;SG
+skypen	skypst	V;IND;PRS;2;SG
+skypen	skypten	V;IND;PST;1;PL
+skypen	skypten	V;IND;PST;3;PL
+skypen	skypten	V;SBJV;PST;1;PL
+skypen	skypten	V;SBJV;PST;3;PL
+skypen	skyptest	V;IND;PST;2;SG
+skypen	skyptest	V;SBJV;PST;2;SG
+skypen	skyptet	V;IND;PST;2;PL
+skypen	skyptet	V;SBJV;PST;2;PL
+skypen	skypte	V;IND;PST;1;SG
+skypen	skypte	V;IND;PST;3;SG
+skypen	skypte	V;SBJV;PST;1;SG
+skypen	skypte	V;SBJV;PST;3;SG
+skypen	skypt	V;IMP;2;PL
+skypen	skypt	V;IND;PRS;2;PL
+skypen	skypt	V;IND;PRS;3;SG
+skypen	skyp	V;IMP;2;SG
+hellen	gehellt	V.PTCP;PST
+hellen	hellend	V.PTCP;PRS
+hellen	hellen	V;IND;PRS;1;PL
+hellen	hellen	V;IND;PRS;3;PL
+hellen	hellen	V;NFIN
+hellen	hellen	V;SBJV;PRS;1;PL
+hellen	hellen	V;SBJV;PRS;3;PL
+hellen	hellest	V;SBJV;PRS;2;SG
+hellen	hellet	V;SBJV;PRS;2;PL
+hellen	helle	V;IND;PRS;1;SG
+hellen	helle	V;SBJV;PRS;1;SG
+hellen	helle	V;SBJV;PRS;3;SG
+hellen	hellst	V;IND;PRS;2;SG
+hellen	hellten	V;IND;PST;1;PL
+hellen	hellten	V;IND;PST;3;PL
+hellen	hellten	V;SBJV;PST;1;PL
+hellen	hellten	V;SBJV;PST;3;PL
+hellen	helltest	V;IND;PST;2;SG
+hellen	helltest	V;SBJV;PST;2;SG
+hellen	helltet	V;IND;PST;2;PL
+hellen	helltet	V;SBJV;PST;2;PL
+hellen	hellte	V;IND;PST;1;SG
+hellen	hellte	V;IND;PST;3;SG
+hellen	hellte	V;SBJV;PST;1;SG
+hellen	hellte	V;SBJV;PST;3;SG
+hellen	hellt	V;IMP;2;PL
+hellen	hellt	V;IND;PRS;2;PL
+hellen	hellt	V;IND;PRS;3;SG
+hellen	hell	V;IMP;2;SG
+präsentieren	präsentierend	V.PTCP;PRS
+präsentieren	präsentieren	V;IND;PRS;1;PL
+präsentieren	präsentieren	V;IND;PRS;3;PL
+präsentieren	präsentieren	V;NFIN
+präsentieren	präsentieren	V;SBJV;PRS;1;PL
+präsentieren	präsentieren	V;SBJV;PRS;3;PL
+präsentieren	präsentierest	V;SBJV;PRS;2;SG
+präsentieren	präsentieret	V;SBJV;PRS;2;PL
+präsentieren	präsentiere	V;IND;PRS;1;SG
+präsentieren	präsentiere	V;SBJV;PRS;1;SG
+präsentieren	präsentiere	V;SBJV;PRS;3;SG
+präsentieren	präsentierst	V;IND;PRS;2;SG
+präsentieren	präsentierten	V;IND;PST;1;PL
+präsentieren	präsentierten	V;IND;PST;3;PL
+präsentieren	präsentierten	V;SBJV;PST;1;PL
+präsentieren	präsentierten	V;SBJV;PST;3;PL
+präsentieren	präsentiertest	V;IND;PST;2;SG
+präsentieren	präsentiertest	V;SBJV;PST;2;SG
+präsentieren	präsentiertet	V;IND;PST;2;PL
+präsentieren	präsentiertet	V;SBJV;PST;2;PL
+präsentieren	präsentierte	V;IND;PST;1;SG
+präsentieren	präsentierte	V;IND;PST;3;SG
+präsentieren	präsentierte	V;SBJV;PST;1;SG
+präsentieren	präsentierte	V;SBJV;PST;3;SG
+präsentieren	präsentiert	V;IMP;2;PL
+präsentieren	präsentiert	V;IND;PRS;2;PL
+präsentieren	präsentiert	V;IND;PRS;3;SG
+präsentieren	präsentiert	V.PTCP;PST
+präsentieren	präsentier	V;IMP;2;SG
+legen	gelegt	V.PTCP;PST
+legen	legend	V.PTCP;PRS
+legen	legen	V;IND;PRS;1;PL
+legen	legen	V;IND;PRS;3;PL
+legen	legen	V;NFIN
+legen	legen	V;SBJV;PRS;1;PL
+legen	legen	V;SBJV;PRS;3;PL
+legen	legest	V;SBJV;PRS;2;SG
+legen	leget	V;SBJV;PRS;2;PL
+legen	lege	V;IND;PRS;1;SG
+legen	lege	V;SBJV;PRS;1;SG
+legen	lege	V;SBJV;PRS;3;SG
+legen	legst	V;IND;PRS;2;SG
+legen	legten	V;IND;PST;1;PL
+legen	legten	V;IND;PST;3;PL
+legen	legten	V;SBJV;PST;1;PL
+legen	legten	V;SBJV;PST;3;PL
+legen	legtest	V;IND;PST;2;SG
+legen	legtest	V;SBJV;PST;2;SG
+legen	legtet	V;IND;PST;2;PL
+legen	legtet	V;SBJV;PST;2;PL
+legen	legte	V;IND;PST;1;SG
+legen	legte	V;IND;PST;3;SG
+legen	legte	V;SBJV;PST;1;SG
+legen	legte	V;SBJV;PST;3;SG
+legen	legt	V;IND;PRS;2;PL
+legen	legt	V;IND;PRS;3;SG
+individualisieren	individualisierend	V.PTCP;PRS
+individualisieren	individualisieren	V;IND;PRS;1;PL
+individualisieren	individualisieren	V;IND;PRS;3;PL
+individualisieren	individualisieren	V;NFIN
+individualisieren	individualisieren	V;SBJV;PRS;1;PL
+individualisieren	individualisieren	V;SBJV;PRS;3;PL
+individualisieren	individualisierest	V;SBJV;PRS;2;SG
+individualisieren	individualisieret	V;SBJV;PRS;2;PL
+individualisieren	individualisiere	V;IND;PRS;1;SG
+individualisieren	individualisiere	V;SBJV;PRS;1;SG
+individualisieren	individualisiere	V;SBJV;PRS;3;SG
+individualisieren	individualisierst	V;IND;PRS;2;SG
+individualisieren	individualisierten	V;IND;PST;1;PL
+individualisieren	individualisierten	V;IND;PST;3;PL
+individualisieren	individualisierten	V;SBJV;PST;1;PL
+individualisieren	individualisierten	V;SBJV;PST;3;PL
+individualisieren	individualisiertest	V;IND;PST;2;SG
+individualisieren	individualisiertest	V;SBJV;PST;2;SG
+individualisieren	individualisiertet	V;IND;PST;2;PL
+individualisieren	individualisiertet	V;SBJV;PST;2;PL
+individualisieren	individualisierte	V;IND;PST;1;SG
+individualisieren	individualisierte	V;IND;PST;3;SG
+individualisieren	individualisierte	V;SBJV;PST;1;SG
+individualisieren	individualisierte	V;SBJV;PST;3;SG
+individualisieren	individualisiert	V;IMP;2;PL
+individualisieren	individualisiert	V;IND;PRS;2;PL
+individualisieren	individualisiert	V;IND;PRS;3;SG
+individualisieren	individualisiert	V.PTCP;PST
+individualisieren	individualisier	V;IMP;2;SG
+klingen	geklungen	V.PTCP;PST
+klingen	klangen	V;IND;PST;1;PL
+klingen	klangen	V;IND;PST;3;PL
+klingen	klängen	V;SBJV;PST;1;PL
+klingen	klängen	V;SBJV;PST;3;PL
+klingen	klängest	V;SBJV;PST;2;SG
+klingen	klänget	V;SBJV;PST;2;PL
+klingen	klänge	V;SBJV;PST;1;SG
+klingen	klänge	V;SBJV;PST;3;SG
+klingen	klangst	V;IND;PST;2;SG
+klingen	klangt	V;IND;PST;2;PL
+klingen	klang	V;IND;PST;1;SG
+klingen	klang	V;IND;PST;3;SG
+klingen	klingend	V.PTCP;PRS
+klingen	klingen	V;IND;PRS;1;PL
+klingen	klingen	V;IND;PRS;3;PL
+klingen	klingen	V;NFIN
+klingen	klingen	V;SBJV;PRS;1;PL
+klingen	klingen	V;SBJV;PRS;3;PL
+klingen	klingest	V;SBJV;PRS;2;SG
+klingen	klinget	V;SBJV;PRS;2;PL
+klingen	klinge	V;IND;PRS;1;SG
+klingen	klinge	V;SBJV;PRS;1;SG
+klingen	klinge	V;SBJV;PRS;3;SG
+klingen	klingst	V;IND;PRS;2;SG
+klingen	klingt	V;IMP;2;PL
+klingen	klingt	V;IND;PRS;2;PL
+klingen	klingt	V;IND;PRS;3;SG
+klingen	kling	V;IMP;2;SG
+bedrücken	bedrückend	V.PTCP;PRS
+bedrücken	bedrücken	V;IND;PRS;1;PL
+bedrücken	bedrücken	V;IND;PRS;3;PL
+bedrücken	bedrücken	V;NFIN
+bedrücken	bedrücken	V;SBJV;PRS;1;PL
+bedrücken	bedrücken	V;SBJV;PRS;3;PL
+bedrücken	bedrückest	V;SBJV;PRS;2;SG
+bedrücken	bedrücket	V;SBJV;PRS;2;PL
+bedrücken	bedrücke	V;IND;PRS;1;SG
+bedrücken	bedrücke	V;SBJV;PRS;1;SG
+bedrücken	bedrücke	V;SBJV;PRS;3;SG
+bedrücken	bedrückst	V;IND;PRS;2;SG
+bedrücken	bedrückten	V;IND;PST;1;PL
+bedrücken	bedrückten	V;IND;PST;3;PL
+bedrücken	bedrückten	V;SBJV;PST;1;PL
+bedrücken	bedrückten	V;SBJV;PST;3;PL
+bedrücken	bedrücktest	V;IND;PST;2;SG
+bedrücken	bedrücktest	V;SBJV;PST;2;SG
+bedrücken	bedrücktet	V;IND;PST;2;PL
+bedrücken	bedrücktet	V;SBJV;PST;2;PL
+bedrücken	bedrückte	V;IND;PST;1;SG
+bedrücken	bedrückte	V;IND;PST;3;SG
+bedrücken	bedrückte	V;SBJV;PST;1;SG
+bedrücken	bedrückte	V;SBJV;PST;3;SG
+bedrücken	bedrückt	V;IMP;2;PL
+bedrücken	bedrückt	V;IND;PRS;2;PL
+bedrücken	bedrückt	V;IND;PRS;3;SG
+bedrücken	bedrückt	V.PTCP;PST
+bedrücken	bedrück	V;IMP;2;SG

@@ -2,27 +2,38 @@
 
 ## Getting started
 
-### Prepare
+### Prepare Docker
 
-We recommend to use `conda` to manage environments, and follow these steps to start working with our baseline system:
+1. Install [Docker](https://www.docker.com/)
+2. Run `docker build -t morpho-baseline .`
 
-1. Create a Python2 conda environment and activate it. Name it to `dynet` or something else (and replace `dynet` to the name you use in `scripts/activate_dynet.sh`).
-2. Install [DyNet](https://github.com/clab/dynet) in the Python2 conda environment.
-3. Install the [UZH system](https://github.com/ZurichNLP/emnlp2018-imitation-learning-for-neural-morphology).
-4. Create a Python3 conda environment and activate it. Name it to `sharedtask` or something else (and replace `sharedtask` to the name you use in `scripts/activate_main.sh`).
-5. Run `pip install -r requirements.txt` to install dependencies.
-6. Install [Anchor-HMM](https://github.com/karlstratos/anchor).
-7. Update paths in `scripts/paths.sh`.
+### Run with Docker
 
-### Run
-
-You can just try the baseline scripts in `scripts/` in the Python3 environment with format
-
+Run with:
 ```
-bash <SCRIPT> <SPLIT> <LANG>
+docker run -v $<DATA_DIR>:/app/data -v $<OUTPUT_DIR>:/app/output morpho-baseline <PIPELINE> test/dev <LANG>
+```
+or 
+```
+docker run -v $<DATA_DIR>:/app/data -v $<OUTPUT_DIR>:/app/output morpho-baseline test/dev <LANG>
+```
+where `<DATA_DIR>` is the absolute path to the local data directory, and `<OUTPUT_DIR>` is the absolute path to the desired directory to save outputs. For example:
+```
+docker run -v $(pwd)/data:/app/data -v $(pwd)/output:/app/output morpho-baseline PCS-I+II+III-H test English
 ```
 
-where `<SCRIPT>` is the file name of the script, `<SPLIT>` is either `dev` or `test`, and `<LANG>` is the full name of the language (like `English`). 
+If you run with the later command, it will run the default pipeline.
+
+#### Available Pipelines
+* LB-GT
+* LB-Dev
+* PCS-I
+* PCS-I+II-a
+* PCS-I+II-b
+* PCS-I+III-C
+* PCS-I+III-H
+* PCS-I+II+III-C
+* PCS-I+II+III-H (default)
 
 ## Evaluation
 

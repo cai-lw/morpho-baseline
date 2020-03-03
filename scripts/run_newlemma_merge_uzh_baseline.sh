@@ -33,6 +33,8 @@ python $UZH_LIB/run_transducer.py --dynet-seed 1 --dynet-mem 500 --dynet-autobat
 --tag-wraps=both --param-tying  --mode=il   --beam-width=0 --beam-widths=4  $TMP_DIR/$2/uzh.train  $TMP_DIR/$2/uzh.dev  $TMP_DIR/$2/uzh_results \
 --test-path=$TMP_DIR/$2/uzh.test
 
+cd $SHELL_DIR
+
 source activate_main.sh
 
 python $CODE_DIR/pipeline/organize_uzh.py --lemmas $DATA_DIR/$2.V-$1 --uzh-train $TMP_DIR/$2/uzh.train --uzh-dev $TMP_DIR/$2/uzh.dev --uzh-test-pred $TMP_DIR/$2/uzh_results/f.beam4.test.predictions --output $OUTPUT_DIR/merge_newlemma_uzh/$2.V-$1.output --verbose

@@ -24,8 +24,8 @@ docker run -v $(pwd)/data:/app/data -v $(pwd)/output:/app/output morpho-baseline
 
 We additionally provide two trivial baseline systems:
 
-* LB-GT: this baseline generates inflected forms identical to the lemma for each paradigm slot; the gold number of paradigm slots is *given*
-* LB-Dev: this baseline generates inflected forms identical to the lemma for each paradigm slot; the number of paradigm slots is *the averge of all development languages*
+* LB-GT: This baseline generates inflected forms identical to the lemma for each paradigm slot; the gold number of paradigm slots is *given*.
+* LB-Dev: This baseline generates inflected forms identical to the lemma for each paradigm slot; the number of paradigm slots is *the averge over the number of paradigm slots in all development languages*.
 
 To use any system besides the official baseline, run:
 ```

@@ -1,6 +1,6 @@
 import os
 import pytest
-from evaluate import Evaluator, load_reference, load_prediction
+from evaluate import Evaluator, load_reference, load_prediction, merge_identical_tags
 
 
 @pytest.fixture
@@ -60,6 +60,17 @@ def test_multiple_truth():
         'one': {'burn': 'burnt', 'shrink': 'shrunk'}
     }
     assert evaluator.score(prediction) == 1
+
+
+def test_merge_identical_tags():
+    reference = {
+        '3sg.prs': {'get': {'gets'}, 'set': {'sets'}},
+        'pst': {'get': {'got'}, 'set': {'set'}},
+        'pst.ptcp': {'get': {'got'}, 'set': {'set'}}
+    }
+    reference = merge_identical_tags(reference)
+    after_tags = frozenset(reference.keys())
+    assert after_tags == {'3sg.prs', 'pst'} or after_tags == {'3sg.prs', 'pst.ptcp'}
 
 
 def test_load(tmp_path):

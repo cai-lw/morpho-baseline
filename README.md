@@ -20,22 +20,12 @@ where `<DATA_DIR>` is the absolute path to the local data directory, and `<OUTPU
 docker run -v $(pwd)/data:/app/data -v $(pwd)/output:/app/output morpho-baseline dev Maltese
 ```
 
-#### Other Options
+## Other Options
 
-We additionally provide two trivial baselines:
+We additionally provide two trivial baseline systems:
 
 * LB-GT: this baseline generates inflected forms identical to the lemma for each paradigm slot; the gold number of paradigm slots is *given*
 * LB-Dev: this baseline generates inflected forms identical to the lemma for each paradigm slot; the number of paradigm slots is *the averge of all development languages*
-
-Furthermore, you can use this code to run a set of other pipelines for unsupervised discovery of morphological paradigms, which are variants of the official baseline system. We list them here for completeness (if you are interested in details, feel free to send us an email or check out the code!):
-
-* PCS-I
-* PCS-I+II-a
-* PCS-I+II-b
-* PCS-I+III-C
-* PCS-I+III-H
-* PCS-I+II+III-C
-* PCS-I+II+III-H (default)
 
 To use any system besides the official baseline, run:
 ```

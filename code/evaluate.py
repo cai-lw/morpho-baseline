@@ -17,6 +17,20 @@ def load_reference(path):
     return d
 
 
+def merge_identical_tags(tag_dict):
+    """
+    :param tag_dict: Reference or prediction, in the form of {tag: Any}. 
+    :returns: The same dict modified in-place, keeping only one tag for each group of identical tags.
+    """
+    tags = list(tag_dict.keys())
+    # O(num_tags ^ 2). TODO: Make it O(num_tags)
+    for i in range(len(tags)):
+        for j in range(i + 1, len(tags)):
+            if tags[i] in tag_dict and tags[j] in tag_dict and tag_dict[tags[i]] == tag_dict[tags[j]]:
+                tag_dict.pop(tags[j])
+    return tag_dict
+
+
 def load_prediction(path):
     """
     :param path: path to the prediction file
@@ -110,11 +124,12 @@ if __name__ == '__main__':
     parser.add_argument('reference', help='The ground truth file')
     parser.add_argument('prediction', help='The prediction file')
     parser.add_argument('--metric', default='recall', help='The metric to report')
-    parser.add_argument('--average', default='macro', choices=['micro', 'macro'], help='Type of averaging.')
     args = parser.parse_args()
     
     reference = load_reference(args.reference)
+    reference = merge_identical_tags(reference)
     prediction = load_prediction(args.prediction)
+    prediction = merge_identical_tags(prediction)
     evaluator = Evaluator(reference)
     print("{} predicted slots".format(len(prediction)))
     print("macro: {}".format(evaluator.score(prediction, args.metric, 'macro')))

@@ -20,7 +20,7 @@ where `<DATA_DIR>` is the absolute path to the local data directory, and `<OUTPU
 docker run -v $(pwd)/data:/app/data -v $(pwd)/output:/app/output morpho-baseline dev Maltese
 ```
 
-## Other Options
+### Other Options
 
 We additionally provide two trivial baseline systems:
 

@@ -1,7 +1,7 @@
 if [ "$#" -eq 2 ]
 then
-  echo "Received 2 arguments; will run the default pipeline: PCS-I+II+III-H"
-  PIPELINE="PCS-I+II+III-H"
+  echo "Received 2 arguments; will run the default pipeline: PCS"
+  PIPELINE="PCS"
   SPLIT=$1
   LANG=$2
 elif [ "$#" -eq 3 ]
@@ -28,26 +28,15 @@ case $PIPELINE in
   LB-Dev)
     bash run_lemma_baseline_dev.sh $SPLIT $LANG
     ;;
-  PCS-I)
-    bash run_edittree_baseline.sh $SPLIT $LANG
+  PCS)
+    bash run_newlemma_merge_uzh_baseline_prepare_seq2seq.sh $SPLIT $LANG
+    bash run_newlemma_merge_uzh_baseline_train_seq2seq.sh $SPLIT $LANG
     ;;
-  PCS-I+II-a)
-    bash run_newlemma_baseline.sh $SPLIT $LANG
+  PCS-prepare-seq2seq)
+    bash run_newlemma_merge_uzh_baseline_prepare_seq2seq.sh $SPLIT $LANG
     ;;
-  PCS-I+II-b)
-    bash run_newlemma2_baseline.sh $SPLIT $LANG
-    ;;
-  PCS-I+III-C)
-    bash run_merge_conll17_baseline.sh $SPLIT $LANG
-    ;;
-  PCS-I+III-H)
-    bash run_merge_uzh_baseline.sh $SPLIT $LANG
-    ;;
-  PCS-I+II+III-C)
-    bash run_newlemma_merge_conll17_baseline.sh $SPLIT $LANG
-    ;;
-  PCS-I+II+III-H)
-    bash run_newlemma_merge_uzh_baseline.sh $SPLIT $LANG
+  PCS-train-seq2seq)
+    bash run_newlemma_merge_uzh_baseline_train_seq2seq.sh $SPLIT $LANG
     ;;
   *)
     echo "Invalid pipeline: $PIPELINE"

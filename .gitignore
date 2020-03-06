@@ -8,3 +8,4 @@ emnlp2018-imitation-learning-for-neural-morphology/
 tmp/
 output/
 .DS_Store
+data/

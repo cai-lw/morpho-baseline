@@ -19,6 +19,16 @@ where `<DATA_DIR>` is the absolute path to the local data directory, and `<OUTPU
 ```
 docker run -v $(pwd)/data:/app/data -v $(pwd)/output:/app/output morpho-baseline dev Maltese
 ```
+The baseline performs multiple steps to extract potential (lemma, inflection, slot) triplets from the corpus, using the provided lemma list (*part 1*). The extracted inflection examples are then stored at `<OUTPUT_DIR>/PCS/<LANG>`.  Afterwards, the baseline system trains a sequence-to-sequence model (Makarov and Clematide, 2018) on the extracted (lemma, inflection, slot) triplets (*part 2*).
+
+You can run part 1 separately (e.g., if you plan to later train your own seq2seq model on the extracted examples) with:
+```
+docker run -v $<DATA_DIR>:/app/data -v $<OUTPUT_DIR>:/app/output morpho-baseline PCS-prepare-seq2seq [test|dev] <LANG>
+```
+For part 2 only (you need to put your own training files into `<OUTPUT_DIR>/PCS/<LANG>`), use:
+```
+docker run -v $<DATA_DIR>:/app/data -v $<OUTPUT_DIR>:/app/output morpho-baseline PCS-train-seq2seq [test|dev] <LANG>
+```
 
 ### Other Options
 
